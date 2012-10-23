@@ -4,3673 +4,2251 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="Server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="Server">
- <table border="0" align="center">
+    <table border="0" align="center">
         <tr>
             <td width="100%">
                 <a href="javascript:history.go(-1);">Tillbaka till information</a>
             </td>
         </tr>
     </table>
-    <BR/>
-
-    <table align="center" class="border1" width="100%">
+    <br />
+    <table align="center" width="100%" class="border1">
         <tr>
-            <td colspan="7" width="100%" valign="TOP" bgcolor="#efefef" height="26">
-                <b>
-                    <p>Brf Valdemar, Resultatr&auml;kning f&ouml;r verksamhets&aring;ret 1/7-2000 -
-                    30/6 2001 </b>
+            <td colspan="7" bgcolor="#efefef" height="26">
+                <b>Brf Valdemar, Resultaträkning för verksamhetsåret 1/7-2000 - 30/6 2001 </b>
             </td>
         </tr>
         <tr>
-            <td width="16%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="32%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="10%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
+            <td>
                 <i>
-                    <p align="RIGHT">2000-07-01</i>
+                    <p align="RIGHT">
+                    2000-07-01</i>
             </td>
-            <td width="5%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
+            <td>
                 <i>
-                    <p align="RIGHT">1999-07-01</i>
+                    <p align="RIGHT">
+                    1999-07-01</i>
             </td>
         </tr>
         <tr>
-            <td width="16%" valign="TOP" height="20">
+            <td>
+                <i>Belopp i kr</i>
+            </td>
+            <td>
+            </td>
+            <td>
                 <i>
-                    <p>Belopp i kr</i>
+                    <p align="RIGHT">
+                    Not</i>
             </td>
-            <td width="32%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="10%" valign="TOP" height="20">
+            <td>
                 <i>
-                    <p align="RIGHT">Not</i>
+                    <p align="RIGHT">
+                    2001-06-30</i>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
+            <td>
                 <i>
-                    <p align="RIGHT">2001-06-30</i>
-            </td>
-            <td width="5%" valign="TOP" height="20">
-                <p>
-                </p>
-            </td>
-            <td width="17%" valign="TOP" height="20">
-                <i>
-                    <p align="RIGHT">2000-06-30</i>
+                    <p align="RIGHT">
+                    2000-06-30</i>
             </td>
         </tr>
         <tr>
-            <td width="16%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="32%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="10%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="5%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
         </tr>
         <tr>
-            <td width="48%" valign="TOP" colspan="2" height="20">
-                <b><i>
-                    <p>R&ouml;relsens int&auml;kter</b></I>
+            <td colspan="2">
+                <b><i>Rörelsens intäkter</i></b>
             </td>
-            <td width="10%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="5%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
         </tr>
         <tr>
-            <td width="48%" valign="TOP" colspan="2" height="20">
-                
-                    <p>
-                    &Aring;rsavgifter och hyror
+            <td colspan="2">
+                Årsavgifter och hyror
             </td>
-            <td width="10%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                        <a href="#NOT1">1</a>
-                
+            <td>
+                <p align="RIGHT">
+                    <a href="#NOT1">1</a>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    7 596 076
+            <td>
+                <p align="RIGHT">
+                7 596 076
             </td>
-            <td width="5%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    7 559 029
+            <td>
+                <p align="RIGHT">
+                7 559 029
             </td>
         </tr>
         <tr>
-            <td width="48%" valign="TOP" colspan="2" height="20">
-                
-                    <p>
-                    Hyres- och avgiftsbortfall
+            <td colspan="2">
+                Hyres- och avgiftsbortfall
             </td>
-            <td width="10%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                        <a href="#NOT2">2</a>
-                
+            <td>
+                <p align="RIGHT">
+                    <a href="#NOT2">2</a>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    - 17 184
+            <td>
+                <p align="RIGHT">
+                - 17 184
             </td>
-            <td width="5%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    - 172 212
+            <td>
+                <p align="RIGHT">
+                - 172 212
             </td>
         </tr>
         <tr>
-            <td width="16%" valign="TOP" height="20">
-                
-                    <p>
-                    Br&auml;nsleavgifter
+            <td>
+                Bränsleavgifter
             </td>
-            <td width="32%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="10%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    675 399
+            <td>
+                <p align="RIGHT">
+                675 399
             </td>
-            <td width="5%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    671 200
+            <td>
+                <p align="RIGHT">
+                671 200
             </td>
         </tr>
         <tr>
-            <td width="48%" valign="TOP" colspan="2" height="20">
-                
-                    <p>
-                    &Ouml;vriga f&ouml;rvaltningsint&auml;kter
+            <td colspan="2">
+                Övriga förvaltningsintäkter
             </td>
-            <td width="10%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                        <a href="#NOT3">3</a>
-                
+            <td>
+                <p align="RIGHT">
+                    <a href="#NOT3">3</a>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    62 837
+            <td>
+                <p align="RIGHT">
+                62 837
             </td>
-            <td width="5%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    70 873
+            <td>
+                <p align="RIGHT">
+                70 873
             </td>
         </tr>
         <tr>
-            <td width="16%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="32%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="10%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="21">
-                
-                    <p align="RIGHT">
-                    8 317 128
+            <td>
+                <p align="RIGHT">
+                8 317 128
             </td>
-            <td width="5%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="21">
-                
-                    <p align="RIGHT">
-                    8 128 890
+            <td>
+                <p align="RIGHT">
+                8 128 890
             </td>
         </tr>
         <tr>
-            <td width="16%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="32%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="10%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="5%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
         </tr>
         <tr>
-            <td width="48%" valign="TOP" colspan="2" height="20">
-                <b><i>
-                    <p>R&ouml;relsens kostnader</b></I>
+            <td colspan="2">
+                <b><i>Rörelsens kostnader</i></b>
             </td>
-            <td width="10%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="5%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
         </tr>
         <tr>
-            <td width="48%" valign="TOP" colspan="2" height="20">
-                
-                    <p>
-                    Reparationer och underh&aring;ll
+            <td colspan="2">
+                Reparationer och underhåll
             </td>
-            <td width="10%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                        <a href="#NOT4">4</a>
-                
+            <td>
+                <p align="RIGHT">
+                    <a href="#NOT4">4</a>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    - 315 000
+            <td>
+                <p align="RIGHT">
+                - 315 000
             </td>
-            <td width="5%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    - 300 000
+            <td>
+                <p align="RIGHT">
+                - 300 000
             </td>
         </tr>
         <tr>
-            <td width="16%" valign="TOP" height="20">
-                
-                    <p>
-                    Fastighetsskatt
+            <td>
+                Fastighetsskatt
             </td>
-            <td width="32%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="10%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    - 531 476
+            <td>
+                <p align="RIGHT">
+                - 531 476
             </td>
-            <td width="5%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    - 687 324
+            <td>
+                <p align="RIGHT">
+                - 687 324
             </td>
         </tr>
         <tr>
-            <td width="16%" valign="TOP" height="20">
-                
-                    <p>
-                    Driftskostnader
+            <td>
+                Driftskostnader
             </td>
-            <td width="32%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="10%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                        <a href="#NOT5">5</a>
-                
+            <td>
+                <p align="RIGHT">
+                    <a href="#NOT5">5</a>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    -1 705 964
+            <td>
+                <p align="RIGHT">
+                -1 705 964
             </td>
-            <td width="5%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    -1 793 343
+            <td>
+                <p align="RIGHT">
+                -1 793 343
             </td>
         </tr>
         <tr>
-            <td width="48%" valign="TOP" colspan="2" height="20">
-                
-                    <p>
-                    &Ouml;vriga kostnader
+            <td colspan="2">
+                Övriga kostnader
             </td>
-            <td width="10%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                        <a href="#NOT6">6</a>
-                
+            <td>
+                <p align="RIGHT">
+                    <a href="#NOT6">6</a>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    - 100 109
+            <td>
+                <p align="RIGHT">
+                - 100 109
             </td>
-            <td width="5%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    - 111 663
+            <td>
+                <p align="RIGHT">
+                - 111 663
             </td>
         </tr>
         <tr>
-            <td width="48%" valign="TOP" colspan="2" height="20">
-                
-                    <p>
-                    Personalkostnader
+            <td colspan="2">
+                Personalkostnader
             </td>
-            <td width="10%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                        <a href="#NOT7">7</a>
-                
+            <td>
+                <p align="RIGHT">
+                    <a href="#NOT7">7</a>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    - 71 249
+            <td>
+                <p align="RIGHT">
+                - 71 249
             </td>
-            <td width="5%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    - 71 041
+            <td>
+                <p align="RIGHT">
+                - 71 041
             </td>
         </tr>
         <tr>
-            <td width="48%" valign="TOP" colspan="2" height="20">
-                
-                    <p>
-                    Avskrivningar av anl&auml;ggningstillg&aring;ngar
+            <td colspan="2">
+                Avskrivningar av anläggningstillgångar
             </td>
-            <td width="10%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                        <a href="#NOT8">8</a>
-                
+            <td>
+                <p align="RIGHT">
+                    <a href="#NOT8">8</a>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    - 174 703
+            <td>
+                <p align="RIGHT">
+                - 174 703
             </td>
-            <td width="5%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    - 156 099
+            <td>
+                <p align="RIGHT">
+                - 156 099
             </td>
         </tr>
         <tr>
-            <td width="48%" valign="TOP" colspan="2" height="21">
+            <td colspan="2">
+                <b>Rörelseresultat</b>
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+            <td>
                 <b>
-                    <p>R&ouml;relseresultat</b>
+                    <p align="RIGHT">
+                    5 418 627</b>
             </td>
-            <td width="10%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="21">
-                <p>
-                </p>
-            </td>
-            <td width="17%" valign="TOP" height="21">
+            <td>
                 <b>
-                    <p align="RIGHT">5 418 627</b>
+                    <p align="RIGHT">
+                    5 009 420</b>
             </td>
-            <td width="5%" valign="TOP" height="21">
-                <p>
-                </p>
+        </tr>
+        <tr>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="21">
+            <td>
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <b><i>Resultat från finansiella poster</i></b>
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Ränteintäkter
+            </td>
+            <td>
+            </td>
+            <td>
+                <p align="RIGHT">
+                    <a href="#NOT9">9</a>
+            </td>
+            <td>
+            </td>
+            <td>
+                <p align="RIGHT">
+                172 850
+            </td>
+            <td>
+            </td>
+            <td>
+                <p align="RIGHT">
+                140 591
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                Statliga bostadsbyggnadssubventioner
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+            <td>
+                <p align="RIGHT">
+                70 814
+            </td>
+            <td>
+            </td>
+            <td>
+                <p align="RIGHT">
+                1 040 914
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                Räntekostnader
+            </td>
+            <td>
+                <p align="RIGHT">
+                    <a href="#NOT10">10</a>
+            </td>
+            <td>
+            </td>
+            <td>
+                <p align="RIGHT">
+                -5 178 948
+            </td>
+            <td>
+            </td>
+            <td>
+                <p align="RIGHT">
+                -5 188 627
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <b>Årets resultat</b>
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+            <td>
                 <b>
-                    <p align="RIGHT">5 009 420</b>
-            </td>
-        </tr>
-        <tr>
-            <td width="16%" valign="TOP" height="21">
-                <p>
-                </p>
-            </td>
-            <td width="32%" valign="TOP" height="21">
-                <p>
-                </p>
-            </td>
-            <td width="10%" valign="TOP" height="21">
-                <p>
-                </p>
-            </td>
-            <td width="3%" valign="TOP" height="21">
-                <p>
-                </p>
-            </td>
-            <td width="17%" valign="TOP" height="21">
-                <p>
-                </p>
-            </td>
-            <td width="5%" valign="TOP" height="21">
-                <p>
-                </p>
-            </td>
-            <td width="17%" valign="TOP" height="21">
-                <p>
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td width="48%" valign="TOP" colspan="2" height="20">
-                <b><i>
-                    <p>Resultat fr&aring;n finansiella poster</b></I>
-            </td>
-            <td width="10%" valign="TOP" height="20">
-                <p>
-                </p>
-            </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
-            </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
-            </td>
-            <td width="5%" valign="TOP" height="20">
-                <p>
-                </p>
-            </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td width="16%" valign="TOP" height="20">
-                
-                    <p>
-                    R&auml;nteint&auml;kter
-            </td>
-            <td width="32%" valign="TOP" height="20">
-                <p>
-                </p>
-            </td>
-            <td width="10%" valign="TOP" height="20">
-                
                     <p align="RIGHT">
-                        <a href="#NOT9">9</a>
-                
+                    483 343</b>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    172 850
-            </td>
-            <td width="5%" valign="TOP" height="20">
-                <p>
-                </p>
-            </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    140 591
-            </td>
-        </tr>
-        <tr>
-            <td width="48%" valign="TOP" colspan="2" height="20">
-                
-                    <p>
-                    Statliga bostadsbyggnadssubventioner
-            </td>
-            <td width="10%" valign="TOP" height="20">
-                <p>
-                </p>
-            </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
-            </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    70 814
-            </td>
-            <td width="5%" valign="TOP" height="20">
-                <p>
-                </p>
-            </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    1 040 914
-            </td>
-        </tr>
-        <tr>
-            <td width="48%" valign="TOP" colspan="2" height="20">
-                
-                    <p>
-                    R&auml;ntekostnader
-            </td>
-            <td width="10%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                        <a href="#NOT10">10</a>
-                
-            </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
-            </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    -5 178 948
-            </td>
-            <td width="5%" valign="TOP" height="20">
-                <p>
-                </p>
-            </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    -5 188 627
-            </td>
-        </tr>
-        <tr>
-            <td width="16%" valign="TOP" height="21">
+            <td>
                 <b>
-                    <p>&Aring;rets resultat</b>
-            </td>
-            <td width="32%" valign="TOP" height="21">
-                <p>
-                </p>
-            </td>
-            <td width="10%" valign="TOP" height="21">
-                <p>
-                </p>
-            </td>
-            <td width="3%" valign="TOP" height="21">
-                <p>
-                </p>
-            </td>
-            <td width="17%" valign="TOP" height="21">
-                <b>
-                    <p align="RIGHT">483 343</b>
-            </td>
-            <td width="5%" valign="TOP" height="21">
-                <p>
-                </p>
-            </td>
-            <td width="17%" valign="TOP" height="21">
-                <b>
-                    <p align="RIGHT">1 002 298</b>
+                    <p align="RIGHT">
+                    1 002 298</b>
             </td>
         </tr>
     </table>
-    
-        <p>
-            &nbsp;</p>
-    
-    <table align="center" class="border1" width="100%">
+    <table align="center" width="100%" class="border1">
         <tr>
-            <td valign="TOP" width="100%" bgcolor="#efefef" height="26">
-                <b>
-                    <p>Noter med redovisningsprinciper och bokslutskommentarer</b>
+            <td bgcolor="#efefef" height="26">
+                <b>Noter med redovisningsprinciper och bokslutskommentarer</b>
             </td>
         </tr>
     </table>
-    <table align="center" class="border1" width="100%">
+    <table align="center">
         <tr>
-            <td width="100%">
-                Allm&auml;nna redovisningsprinciper<br>
-                    Den nya EU-anpassade &aring;rsredovisningslagen har f&ouml;r f&ouml;reningen fr&auml;mst
-                    inneburit f&ouml;r&auml;ndringar i uppst&auml;llningen av resultat- och balansr&auml;kningarna.
-                    J&auml;mf&ouml;relse&aring;rets resultat- och balansr&auml;kningar har anpassats
-                    enligt de nya reglerna. De nya reglerna har endast obetydligt inverkat p&aring;
-                    f&ouml;reningens v&auml;rderingsprinciper.<br>
-                    <br>
-                    V&auml;rderingsprinciper m m<br>
-                    Tillg&aring;ngar, avs&auml;ttningar och skulder har v&auml;rderats till anskaffningsv&auml;rden
-                    om inget annat anges nedan.<br>
-                    <br>
-                    Fordringar<br>
-                    Fordringar har efter individuell v&auml;rdering upptagits till belopp varmed de
-                    ber&auml;knas inflyta.<br>
-                    <br>
-                    Avskrivningsprinciper f&ouml;r anl&auml;ggningstillg&aring;ngar<br>
-                    <br>
-                    Avskrivningar enligt plan baseras p&aring; ursprungliga anskaffningsv&auml;rden
-                    och ber&auml;knad ekonomisk livsl&auml;ngd. Nedskrivning sker vid best&aring;ende
-                    v&auml;rdenedg&aring;ng.<br>
-                    <br>
-                    F&ouml;ljande avskrivningstider till&auml;mpas:<br>
-                    <br>
-                    Materiella anl&auml;ggningstillg&aring;ngar<br>
-                
+            <td>
+                Allmänna redovisningsprinciper<br>
+                Den nya EU-anpassade årsredovisningslagen har för föreningen främst inneburit förändringar
+                i uppställningen av resultat- och balansräkningarna. Jämförelseårets resultat- och
+                balansräkningar har anpassats enligt de nya reglerna. De nya reglerna har endast
+                obetydligt inverkat på föreningens värderingsprinciper.<br>
+                <br>
+                Värderingsprinciper m m<br>
+                Tillgångar, avsättningar och skulder har värderats till anskaffningsvärden om inget
+                annat anges nedan.<br>
+                <br>
+                Fordringar<br>
+                Fordringar har efter individuell värdering upptagits till belopp varmed de beräknas
+                inflyta.<br>
+                <br>
+                Avskrivningsprinciper för anläggningstillgångar<br>
+                <br>
+                Avskrivningar enligt plan baseras på ursprungliga anskaffningsvärden och beräknad
+                ekonomisk livslängd. Nedskrivning sker vid bestående värdenedgång.<br>
+                <br>
+                Följande avskrivningstider tillämpas:<br>
+                <br>
+                Materiella anläggningstillgångar<br>
             </td>
         </tr>
     </table>
-    <table align="center" class="border1" width="100%">
+    <table width="100%" align="center" class="border1">
         <tr>
-            <td width="16%" valign="TOP" height="21">
-                
-                    <p>
-                    Byggnader
+            <td>
+                Byggnader
             </td>
-            <td width="9%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="16%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="2%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="2%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="2%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="53%" valign="TOP" colspan="3" height="21">
-                
-                    <p align="CENTER">
-                    Enligt amortering p&aring; fastighetsl&aring;n
+            <td colspan="3">
+                <p align="CENTER">
+                Enligt amortering på fastighetslån
             </td>
         </tr>
         <tr>
-            <td width="41%" valign="TOP" colspan="3" height="20">
-                
-                    <p>
-                    Inventarier, fastighetsinventarier
+            <td colspan="3">
+                Inventarier, fastighetsinventarier
             </td>
-            <td width="2%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="2%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="2%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="27%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    5 &aring;r
+            <td>
+                <p align="RIGHT">
+                5 år
             </td>
-            <td width="24%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="2%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
         </tr>
     </table>
-    
-        <p>
-            &nbsp;</p>
-    
-    <table align="center" class="border1" width="100%">
+    <table width="100%" align="center" class="border1">
         <tr>
-            <td colspan="3" width="35%" valign="TOP" height="38">
-                <i>
-                    <p>Belopp i kr om inget annat anges</i>
+            <td colspan="3" height="38">
+                <i>Belopp i kr om inget annat anges</i>
             </td>
-            <td width="7%" valign="TOP" height="38">
-                <p>
-                </p>
+            <td height="38">
             </td>
-            <td width="17%" valign="TOP" height="38">
-                <p>
-                </p>
+            <td height="38">
             </td>
-            <td width="3%" valign="TOP" height="38">
-                <p>
-                </p>
+            <td height="38">
             </td>
-            <td width="17%" valign="TOP" height="38">
-                
-                    <p align="RIGHT">
-                    2001-06-30
+            <td height="38">
+                <p align="RIGHT">
+                2001-06-30
             </td>
-            <td width="3%" valign="TOP" height="38">
-                <p>
-                </p>
+            <td height="38">
             </td>
-            <td width="18%" valign="TOP" height="38">
-                
-                    <p align="RIGHT">
-                    2000-06-30
+            <td height="38">
+                <p align="RIGHT">
+                2000-06-30
             </td>
         </tr>
         <tr>
             <a name="NOT1"></a>
-            <td width="9%" valign="TOP" height="21">
-                <b>
-                    <p>Not 1</b>
+            <td>
+                <b>Not 1</b>
             </td>
-            <td width="26%" valign="TOP" colspan="2" height="21">
-                <b>
-                    <p>&Aring;rsavgifter och hyror</b>
+            <td colspan="2">
+                <b>Årsavgifter och hyror</b>
             </td>
-            <td width="7%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
         </tr>
         <tr>
-            <td width="21%" valign="TOP" colspan="2" height="20">
-                
-                    <p>
-                    &Aring;rsavgifter, bost&auml;der
+            <td colspan="2">
+                Årsavgifter, bostäder
             </td>
-            <td width="14%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    7 393 391
+            <td>
+                <p align="RIGHT">
+                7 393 391
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    7 284 137
+            <td>
+                <p align="RIGHT">
+                7 284 137
             </td>
         </tr>
         <tr>
-            <td width="21%" valign="TOP" colspan="2" height="20">
-                
-                    <p>
-                    Hyror, bost&auml;der
+            <td colspan="2">
+                Hyror, bostäder
             </td>
-            <td width="14%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    –
+            <td>
+                <p align="RIGHT">
+                &#8211;
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    78 732
+            <td>
+                <p align="RIGHT">
+                78 732
             </td>
         </tr>
         <tr>
-            <td width="21%" valign="TOP" colspan="2" height="21">
-                
-                    <p>
-                    Hyror, lokaler
+            <td colspan="2">
+                Hyror, lokaler
             </td>
-            <td width="14%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="7%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="21">
-                
-                    <p align="RIGHT">
-                    7 685
+            <td>
+                <p align="RIGHT">
+                7 685
             </td>
-            <td width="3%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="21">
-                
-                    <p align="RIGHT">
-                    3 000
+            <td>
+                <p align="RIGHT">
+                3 000
             </td>
         </tr>
         <tr>
-            <td width="35%" valign="TOP" colspan="3" height="21">
-                
-                    <p>
-                    Hyror, bilplatser och garage
+            <td colspan="3">
+                Hyror, bilplatser och garage
             </td>
-            <td width="7%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="21">
-                
-                    <p align="RIGHT">
-                    195 000
+            <td>
+                <p align="RIGHT">
+                195 000
             </td>
-            <td width="3%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="21">
-                
-                    <p align="RIGHT">
-                    193 160
+            <td>
+                <p align="RIGHT">
+                193 160
             </td>
         </tr>
         <tr>
-            <td width="9%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="12%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="14%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    7 596 076
+            <td>
+                <p align="RIGHT">
+                7 596 076
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    7 559 029
+            <td>
+                <p align="RIGHT">
+                7 559 029
             </td>
         </tr>
         <tr>
-            <td width="9%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="12%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="14%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
         </tr>
         <tr>
             <a name="NOT2"></a>
-            <td width="9%" valign="TOP" height="21">
-                <b>
-                    <p>Not 2</b>
+            <td>
+                <b>Not 2</b>
             </td>
-            <td width="26%" valign="TOP" colspan="2" height="21">
-                <b>
-                    <p>Hyres- och avgiftsbortfall</b>
+            <td colspan="2">
+                <b>Hyres- och avgiftsbortfall</b>
             </td>
-            <td width="7%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
         </tr>
         <tr>
-            <td width="35%" valign="TOP" colspan="3" height="21">
-                
-                    <p>
-                    Hyres- och avgiftsbortfall, bost&auml;der
+            <td colspan="3">
+                Hyres- och avgiftsbortfall, bostäder
             </td>
-            <td width="7%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="21">
-                
-                    <p align="RIGHT">
-                    - 13 541
+            <td>
+                <p align="RIGHT">
+                - 13 541
             </td>
-            <td width="3%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="21">
-                
-                    <p align="RIGHT">
-                    - 169 904
+            <td>
+                <p align="RIGHT">
+                - 169 904
             </td>
         </tr>
         <tr>
-            <td width="35%" valign="TOP" colspan="3" height="20">
-                
-                    <p>
-                    Hyres- och avgiftsbortfall, p-platser
+            <td colspan="3">
+                Hyres- och avgiftsbortfall, p-platser
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    - 3 643
+            <td>
+                <p align="RIGHT">
+                - 3 643
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    - 2 308
+            <td>
+                <p align="RIGHT">
+                - 2 308
             </td>
         </tr>
         <tr>
-            <td width="9%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="12%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="14%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    - 17 184
+            <td>
+                <p align="RIGHT">
+                - 17 184
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    - 172 212
+            <td>
+                <p align="RIGHT">
+                - 172 212
             </td>
         </tr>
         <tr>
-            <td width="9%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="12%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="14%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
         </tr>
         <tr>
             <a name="NOT3"></a>
-            <td width="9%" valign="TOP" height="21">
-                <b>
-                    <p>Not 3</b>
+            <td>
+                <b>Not 3</b>
             </td>
-            <td width="26%" valign="TOP" colspan="2" height="21">
-                <b>
-                    <p>&Ouml;vriga f&ouml;rvaltningsint&auml;kter</b>
-            </td>
-            <td width="7%" valign="TOP" height="21">
-                <p>
-                </p>
-            </td>
-            <td width="17%" valign="TOP" height="21">
-                <p>
-                </p>
-            </td>
-            <td width="3%" valign="TOP" height="21">
-                <p>
-                </p>
-            </td>
-            <td width="17%" valign="TOP" height="21">
-                <p>
-                </p>
-            </td>
-            <td width="3%" valign="TOP" height="21">
-                <p>
-                </p>
-            </td>
-            <td width="18%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td colspan="8">
+                <b>Övriga förvaltningsintäkter</b>
             </td>
         </tr>
         <tr>
-            <td width="35%" valign="TOP" colspan="3" height="20">
-                
-                    <p>
-                    F&ouml;rs&auml;ljning av l&auml;genhet, kravavgifter
+            <td colspan="3">
+                Försäljning av lägenhet, kravavgifter
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    62 837
+            <td>
+                <p align="RIGHT">
+                62 837
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    70 873
+            <td>
+                <p align="RIGHT">
+                70 873
             </td>
         </tr>
         <tr>
-            <td width="9%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="12%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="14%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    62 837
+            <td>
+                <p align="RIGHT">
+                62 837
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    70 873
+            <td>
+                <p align="RIGHT">
+                70 873
             </td>
         </tr>
         <tr>
-            <td width="9%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="12%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="14%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
         </tr>
         <tr>
             <a name="NOT4"></a>
-            <td width="9%" valign="TOP" height="21">
-                <b>
-                    <p>Not 4</b>
+            <td>
+                <b>Not 4</b>
             </td>
-            <td width="26%" valign="TOP" colspan="2" height="21">
-                <b>
-                    <p>Reparationer och underh&aring;ll</b>
+            <td colspan="2">
+                <b>Reparationer och underhåll</b>
             </td>
-            <td width="7%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
         </tr>
         <tr>
-            <td width="35%" valign="TOP" colspan="3" height="20">
-                
-                    <p>
-                    Avs&auml;ttning till underh&aring;llsfonden
+            <td colspan="3">
+                Avsättning till underhållsfonden
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    315 000
+            <td>
+                <p align="RIGHT">
+                315 000
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    300 000
+            <td>
+                <p align="RIGHT">
+                300 000
             </td>
         </tr>
         <tr>
-            <td width="35%" valign="TOP" colspan="3" height="20">
-                
-                    <p>
-                    Nedlagda underh&aring;llskostnader
+            <td colspan="3">
+                Nedlagda underhållskostnader
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    672 823
+            <td>
+                <p align="RIGHT">
+                672 823
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    378 840
+            <td>
+                <p align="RIGHT">
+                378 840
             </td>
         </tr>
         <tr>
-            <td width="35%" valign="TOP" colspan="3" height="20">
-                
-                    <p>
-                    Avg&aring;r: uttag ur reparationsfonden
+            <td colspan="3">
+                Avgår: uttag ur reparationsfonden
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    - 672 823
+            <td>
+                <p align="RIGHT">
+                - 672 823
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    - 378 840
+            <td>
+                <p align="RIGHT">
+                - 378 840
             </td>
         </tr>
         <tr>
-            <td width="9%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="12%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="14%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    315 000
+            <td>
+                <p align="RIGHT">
+                315 000
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    300 000
+            <td>
+                <p align="RIGHT">
+                300 000
             </td>
         </tr>
         <tr>
-            <td width="9%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="12%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="14%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="7%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
         </tr>
         <tr>
             <a name="NOT5"></a>
-            <td width="9%" valign="TOP" height="21">
-                <b>
-                    <p>Not 5</b>
+            <td>
+                <b>Not 5</b>
             </td>
-            <td width="26%" valign="TOP" colspan="2" height="21">
-                <b>
-                    <p>Driftskostnader</b>
+            <td colspan="2">
+                <b>Driftskostnader</b>
             </td>
-            <td width="7%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
         </tr>
         <tr>
-            <td width="21%" valign="TOP" colspan="2" height="20">
-                
-                    <p>
-                    Fastighetsf&ouml;rs&auml;kring
+            <td colspan="2">
+                Fastighetsförsäkring
             </td>
-            <td width="14%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    17 730
+            <td>
+                <p align="RIGHT">
+                17 730
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    17 296
+            <td>
+                <p align="RIGHT">
+                17 296
             </td>
         </tr>
         <tr>
-            <td width="21%" valign="TOP" colspan="2" height="20">
-                
-                    <p>
-                    F&ouml;rvaltningsarvode
+            <td colspan="2">
+                Förvaltningsarvode
             </td>
-            <td width="14%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    215 735
+            <td>
+                <p align="RIGHT">
+                215 735
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    213 574
+            <td>
+                <p align="RIGHT">
+                213 574
             </td>
         </tr>
         <tr>
-            <td width="9%" valign="TOP" height="20">
-                
-                    <p>
-                    Kabel-TV
+            <td>
+                Kabel-TV
             </td>
-            <td width="12%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="14%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    65 806
+            <td>
+                <p align="RIGHT">
+                65 806
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    65 080
+            <td>
+                <p align="RIGHT">
+                65 080
             </td>
         </tr>
         <tr>
-            <td width="35%" valign="TOP" colspan="3" height="20">
-                
-                    <p>
-                    Avgifter f juridiska &aring;tg&auml;rder
+            <td colspan="3">
+                Avgifter f juridiska åtgärder
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    7 652
+            <td>
+                <p align="RIGHT">
+                7 652
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    2 880
+            <td>
+                <p align="RIGHT">
+                2 880
             </td>
         </tr>
         <tr>
-            <td width="21%" valign="TOP" colspan="2" height="20">
-                
-                    <p>
-                    Fastighetssk&ouml;tsel
+            <td colspan="2">
+                Fastighetsskötsel
             </td>
-            <td width="14%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    197 203
+            <td>
+                <p align="RIGHT">
+                197 203
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    195 231
+            <td>
+                <p align="RIGHT">
+                195 231
             </td>
         </tr>
         <tr>
-            <td width="21%" valign="TOP" colspan="2" height="20">
-                
-                    <p>
-                    Sn&ouml;r&ouml;jning
+            <td colspan="2">
+                Snöröjning
             </td>
-            <td width="14%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    6 059
+            <td>
+                <p align="RIGHT">
+                6 059
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    10 888
+            <td>
+                <p align="RIGHT">
+                10 888
             </td>
         </tr>
         <tr>
-            <td width="21%" valign="TOP" colspan="2" height="20">
-                
-                    <p>
-                    F&ouml;rbrukningsmateriel
+            <td colspan="2">
+                Förbrukningsmateriel
             </td>
-            <td width="14%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    41 123
+            <td>
+                <p align="RIGHT">
+                41 123
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    22 395
+            <td>
+                <p align="RIGHT">
+                22 395
             </td>
         </tr>
         <tr>
-            <td width="35%" valign="TOP" colspan="3" height="20">
-                
-                    <p>
-                    Reparationer maskiner och inventarier
+            <td colspan="3">
+                Reparationer maskiner och inventarier
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    1 657
+            <td>
+                <p align="RIGHT">
+                1 657
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    –
+            <td>
+                <p align="RIGHT">
+                &#8211;
             </td>
         </tr>
         <tr>
-            <td width="9%" valign="TOP" height="20">
-                
-                    <p>
-                    Vatten
+            <td>
+                Vatten
             </td>
-            <td width="12%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="14%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    190 473
+            <td>
+                <p align="RIGHT">
+                190 473
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    369 551
+            <td>
+                <p align="RIGHT">
+                369 551
             </td>
         </tr>
         <tr>
-            <td width="9%" valign="TOP" height="20">
-                
-                    <p>
-                    El 
+            <td>
+                El
             </td>
-            <td width="12%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="14%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    31 929
+            <td>
+                <p align="RIGHT">
+                31 929
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    30 584
+            <td>
+                <p align="RIGHT">
+                30 584
             </td>
         </tr>
         <tr>
-            <td width="21%" valign="TOP" colspan="2" height="20">
-                
-                    <p>
-                    Uppv&auml;rmning
+            <td colspan="2">
+                Uppvärmning
             </td>
-            <td width="14%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    787 991
+            <td>
+                <p align="RIGHT">
+                787 991
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    737 814
+            <td>
+                <p align="RIGHT">
+                737 814
             </td>
         </tr>
         <tr>
-            <td width="21%" valign="TOP" colspan="2" height="20">
-                
-                    <p>
-                    Sophantering
+            <td colspan="2">
+                Sophantering
             </td>
-            <td width="14%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    142 607
+            <td>
+                <p align="RIGHT">
+                142 607
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    128 050
+            <td>
+                <p align="RIGHT">
+                128 050
             </td>
         </tr>
         <tr>
-            <td width="9%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="12%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="14%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    1 705 964
+            <td>
+                <p align="RIGHT">
+                1 705 964
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    1 793 343
+            <td>
+                <p align="RIGHT">
+                1 793 343
             </td>
         </tr>
         <tr>
-            <td width="9%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="12%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="14%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
         </tr>
         <tr>
             <a name="NOT6"></a>
-            <td width="9%" valign="TOP" height="21">
-                <b>
-                    <p>Not 6</b>
+            <td>
+                <b>Not 6</b>
             </td>
-            <td width="26%" valign="TOP" colspan="2" height="21">
-                <b>
-                    <p>&Ouml;vriga kostnader</b>
+            <td colspan="2">
+                <b>Övriga kostnader</b>
             </td>
-            <td width="7%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
         </tr>
         <tr>
-            <td width="35%" valign="TOP" colspan="3" height="20">
-                
-                    <p>
-                    Administativa kostnader
+            <td colspan="3">
+                Administativa kostnader
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    58 555
+            <td>
+                <p align="RIGHT">
+                58 555
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    12 587
+            <td>
+                <p align="RIGHT">
+                12 587
             </td>
         </tr>
         <tr>
-            <td width="21%" valign="TOP" colspan="2" height="20">
-                
-                    <p>
-                    Telefon och porto
+            <td colspan="2">
+                Telefon och porto
             </td>
-            <td width="14%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    5 690
+            <td>
+                <p align="RIGHT">
+                5 690
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    5 754
+            <td>
+                <p align="RIGHT">
+                5 754
             </td>
         </tr>
         <tr>
-            <td width="35%" valign="TOP" colspan="3" height="20">
-                
-                    <p>
-                    Medlems- och serviceavgifter
+            <td colspan="3">
+                Medlems- och serviceavgifter
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    3 483
+            <td>
+                <p align="RIGHT">
+                3 483
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    3 483
+            <td>
+                <p align="RIGHT">
+                3 483
             </td>
         </tr>
         <tr>
-            <td width="21%" valign="TOP" colspan="2" height="20">
-                
-                    <p>
-                    &Ouml;vriga k&ouml;pta tj&auml;nster
+            <td colspan="2">
+                Övriga köpta tjänster
             </td>
-            <td width="14%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    18 256
+            <td>
+                <p align="RIGHT">
+                18 256
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    16 839
+            <td>
+                <p align="RIGHT">
+                16 839
             </td>
         </tr>
         <tr>
-            <td width="21%" valign="TOP" colspan="2" height="20">
-                
-                    <p>
-                    Konsultarvoden
+            <td colspan="2">
+                Konsultarvoden
             </td>
-            <td width="14%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    –
+            <td>
+                <p align="RIGHT">
+                &#8211;
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    60 000
+            <td>
+                <p align="RIGHT">
+                60 000
             </td>
         </tr>
         <tr>
-            <td width="21%" valign="TOP" colspan="2" height="20">
-                
-                    <p>
-                    Extern revisor
+            <td colspan="2">
+                Extern revisor
             </td>
-            <td width="14%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    14 125
+            <td>
+                <p align="RIGHT">
+                14 125
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    13 000
+            <td>
+                <p align="RIGHT">
+                13 000
             </td>
         </tr>
         <tr>
-            <td width="9%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="12%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="14%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    100 109
+            <td>
+                <p align="RIGHT">
+                100 109
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    111 663
+            <td>
+                <p align="RIGHT">
+                111 663
             </td>
         </tr>
         <tr>
-            <td width="9%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="12%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="14%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="7%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
         </tr>
         <tr>
             <a name="NOT7"></a>
-            <td width="9%" valign="TOP" height="21">
-                <b>
-                    <p>Not 7</b>
+            <td>
+                <b>Not 7</b>
             </td>
-            <td width="26%" valign="TOP" colspan="2" height="21">
-                <b>
-                    <p>Personalkostnader</b>
+            <td colspan="2">
+                <b>Personalkostnader</b>
             </td>
-            <td width="7%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
         </tr>
         <tr>
-            <td width="9%" valign="TOP" height="8">
-                <p>
-                </p>
+            <td height="8">
             </td>
-            <td width="12%" valign="TOP" height="8">
-                <p>
-                </p>
+            <td height="8">
             </td>
-            <td width="14%" valign="TOP" height="8">
-                <p>
-                </p>
+            <td height="8">
             </td>
-            <td width="7%" valign="TOP" height="8">
-                <p>
-                </p>
+            <td height="8">
             </td>
-            <td width="17%" valign="TOP" height="8">
-                <p>
-                </p>
+            <td height="8">
             </td>
-            <td width="3%" valign="TOP" height="8">
-                <p>
-                </p>
+            <td height="8">
             </td>
-            <td width="17%" valign="TOP" height="8">
-                <p>
-                </p>
+            <td height="8">
             </td>
-            <td width="3%" valign="TOP" height="8">
-                <p>
-                </p>
+            <td height="8">
             </td>
-            <td width="18%" valign="TOP" height="8">
-                <p>
-                </p>
+            <td height="8">
             </td>
         </tr>
         <tr>
-            <td width="59%" valign="TOP" colspan="5" height="20">
-                <b><i>
-                    <p>L&ouml;ner, andra ers&auml;ttningar och sociala kostnader</b></I>
+            <td colspan="5">
+                <b><i>Löner, andra ersättningar och sociala kostnader</i></b>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
         </tr>
         <tr>
-            <td width="21%" valign="TOP" colspan="2" height="20">
-                
-                    <p>
-                    Styrelsearvode
+            <td colspan="2">
+                Styrelsearvode
             </td>
-            <td width="14%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    48 400
+            <td>
+                <p align="RIGHT">
+                48 400
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    36 400
+            <td>
+                <p align="RIGHT">
+                36 400
             </td>
         </tr>
         <tr>
-            <td width="35%" valign="TOP" colspan="3" height="20">
-                
-                    <p>
-                    &Ouml;vriga ers&auml;ttningar till styrelsen
+            <td colspan="3">
+                Övriga ersättningar till styrelsen
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    5 047
+            <td>
+                <p align="RIGHT">
+                5 047
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    3 522
+            <td>
+                <p align="RIGHT">
+                3 522
             </td>
         </tr>
         <tr>
-            <td width="21%" valign="TOP" colspan="2" height="20">
-                
-                    <p>
-                    F&ouml;reningsvald revisor
+            <td colspan="2">
+                Föreningsvald revisor
             </td>
-            <td width="14%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    1 500
+            <td>
+                <p align="RIGHT">
+                1 500
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    1 500
+            <td>
+                <p align="RIGHT">
+                1 500
             </td>
         </tr>
         <tr>
-            <td width="35%" valign="TOP" colspan="3" height="20">
-                
-                    <p>
-                    &Ouml;vriga personalkostnader
+            <td colspan="3">
+                Övriga personalkostnader
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    –
+            <td>
+                <p align="RIGHT">
+                &#8211;
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    13 666
+            <td>
+                <p align="RIGHT">
+                13 666
             </td>
         </tr>
         <tr>
-            <td width="9%" valign="TOP" height="20">
-                
-                    <p>
-                    Summa
+            <td>
+                Summa
             </td>
-            <td width="12%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="14%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    54 947
+            <td>
+                <p align="RIGHT">
+                54 947
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    55 088
+            <td>
+                <p align="RIGHT">
+                55 088
             </td>
         </tr>
         <tr>
-            <td width="21%" valign="TOP" colspan="2" height="20">
-                
-                    <p>
-                    Sociala kostnader
+            <td colspan="2">
+                Sociala kostnader
             </td>
-            <td width="14%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    16 302
+            <td>
+                <p align="RIGHT">
+                16 302
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    15 953
+            <td>
+                <p align="RIGHT">
+                15 953
             </td>
         </tr>
         <tr>
-            <td width="9%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="12%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="14%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    71 249
+            <td>
+                <p align="RIGHT">
+                71 249
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    71 041
+            <td>
+                <p align="RIGHT">
+                71 041
             </td>
         </tr>
         <tr>
-            <td width="9%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="12%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="14%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="7%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
         </tr>
         <tr>
             <a name="NOT8"></a>
-            <td width="9%" valign="TOP" height="21">
-                <b>
-                    <p>Not 8</b>
+            <td>
+                <b>Not 8</b>
             </td>
-            <td width="50%" valign="TOP" colspan="4" height="21">
-                <b>
-                    <p>Avskrivningar av anl&auml;ggningstillg&aring;ngar</b>
+            <td colspan="4">
+                <b>Avskrivningar av anläggningstillgångar</b>
             </td>
-            <td width="3%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
         </tr>
         <tr>
-            <td width="21%" valign="TOP" colspan="2" height="20">
-                
-                    <p>
-                    Byggnader
+            <td colspan="2">
+                Byggnader
             </td>
-            <td width="14%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    166 130
+            <td>
+                <p align="RIGHT">
+                166 130
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    153 441
+            <td>
+                <p align="RIGHT">
+                153 441
             </td>
         </tr>
         <tr>
-            <td width="21%" valign="TOP" colspan="2" height="20">
-                
-                    <p>
-                    Inventarier
+            <td colspan="2">
+                Inventarier
             </td>
-            <td width="14%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    8 573
+            <td>
+                <p align="RIGHT">
+                8 573
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    2 658
+            <td>
+                <p align="RIGHT">
+                2 658
             </td>
         </tr>
         <tr>
-            <td width="9%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="12%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="14%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="7%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="21">
-                
-                    <p align="RIGHT">
-                    174 703
+            <td>
+                <p align="RIGHT">
+                174 703
             </td>
-            <td width="3%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="21">
-                
-                    <p align="RIGHT">
-                    156 099
+            <td>
+                <p align="RIGHT">
+                156 099
             </td>
         </tr>
         <tr>
-            <td width="9%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="12%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="14%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
         </tr>
         <tr>
-            <td width="9%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="12%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="14%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
         </tr>
         <tr>
-            <td width="9%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="12%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="14%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
         </tr>
         <tr>
             <a name="NOT9"></a>
-            <td width="9%" valign="TOP" height="21">
-                <b>
-                    <p>Not 9</b>
+            <td>
+                <b>Not 9</b>
             </td>
-            <td width="12%" valign="TOP" height="21">
-                <b>
-                    <p>R&auml;nteint&auml;kter</b>
+            <td>
+                <b>Ränteintäkter</b>
             </td>
-            <td width="14%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="7%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
         </tr>
         <tr>
-            <td width="21%" valign="TOP" colspan="2" height="20">
-                
-                    <p>
-                    R&auml;nteint&auml;kter bank
+            <td colspan="2">
+                Ränteintäkter bank
             </td>
-            <td width="14%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    133 965
+            <td>
+                <p align="RIGHT">
+                133 965
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    115 809
+            <td>
+                <p align="RIGHT">
+                115 809
             </td>
         </tr>
         <tr>
-            <td width="35%" valign="TOP" colspan="3" height="20">
-                
-                    <p>
-                    R&auml;nteint&auml;kter avr. med FSB
+            <td colspan="3">
+                Ränteintäkter avr. med FSB
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    16 105
+            <td>
+                <p align="RIGHT">
+                16 105
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    12 571
+            <td>
+                <p align="RIGHT">
+                12 571
             </td>
         </tr>
         <tr>
-            <td width="35%" valign="TOP" colspan="3" height="20">
-                
-                    <p>
-                    R&auml;nteint&auml;kter spec. utl&aring;n till RB
+            <td colspan="3">
+                Ränteintäkter spec. utlån till RB
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    21 869
+            <td>
+                <p align="RIGHT">
+                21 869
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    11 899
+            <td>
+                <p align="RIGHT">
+                11 899
             </td>
         </tr>
         <tr>
-            <td width="9%" valign="TOP" height="20">
-                
-                    <p>
-                    &Ouml;vrigt
+            <td>
+                Övrigt
             </td>
-            <td width="12%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="14%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    910
+            <td>
+                <p align="RIGHT">
+                910
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    312
+            <td>
+                <p align="RIGHT">
+                312
             </td>
         </tr>
         <tr>
-            <td width="9%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="12%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="14%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    172 850
+            <td>
+                <p align="RIGHT">
+                172 850
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                
-                    <p align="RIGHT">
-                    140 591
+            <td>
+                <p align="RIGHT">
+                140 591
             </td>
         </tr>
         <tr>
-            <td width="9%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="12%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="14%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
         </tr>
         <tr>
-            <td width="9%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="12%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="14%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="7%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="20">
-                <p>
-                </p>
+            <td>
             </td>
         </tr>
         <tr>
             <a name="NOT10"></a>
-            <td width="9%" valign="TOP" height="21">
-                <b>
-                    <p>Not 10</b>
+            <td>
+                <b>Not 10</b>
             </td>
-            <td width="26%" valign="TOP" colspan="2" height="21">
-                <b>
-                    <p>R&auml;ntekostnader</b>
+            <td colspan="2">
+                <b>Räntekostnader</b>
             </td>
-            <td width="7%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
         </tr>
         <tr>
-            <td width="35%" valign="TOP" colspan="3" height="21">
-                
-                    <p>
-                    R&auml;ntekostnader, fastighetsl&aring;n
+            <td colspan="3">
+                Räntekostnader, fastighetslån
             </td>
-            <td width="7%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="21">
-                
-                    <p align="RIGHT">
-                    5 178 748
+            <td>
+                <p align="RIGHT">
+                5 178 748
             </td>
-            <td width="3%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="21">
-                
-                    <p align="RIGHT">
-                    5 188 427
+            <td>
+                <p align="RIGHT">
+                5 188 427
             </td>
         </tr>
         <tr>
-            <td width="9%" valign="TOP" height="21">
-                
-                    <p>
-                    &Ouml;vrigt
+            <td>
+                Övrigt
             </td>
-            <td width="12%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="14%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="7%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="21">
-                
-                    <p align="RIGHT">
-                    200
+            <td>
+                <p align="RIGHT">
+                200
             </td>
-            <td width="3%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="21">
-                
-                    <p align="RIGHT">
-                    200
+            <td>
+                <p align="RIGHT">
+                200
             </td>
         </tr>
         <tr>
-            <td width="9%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="12%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="14%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="7%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="3%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="17%" valign="TOP" height="21">
-                
-                    <p align="RIGHT">
-                    5 178 948
+            <td>
+                <p align="RIGHT">
+                5 178 948
             </td>
-            <td width="3%" valign="TOP" height="21">
-                <p>
-                </p>
+            <td>
             </td>
-            <td width="18%" valign="TOP" height="21">
-                
-                    <p align="RIGHT">
-                    5 188 627
+            <td>
+                <p align="RIGHT">
+                5 188 627
             </td>
         </tr>
     </table>

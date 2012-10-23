@@ -20,25 +20,25 @@
     <BR/>
     <table  width="100%" class="border1" >
         <tr>
-            <td  style=' background:#efefef; ' class="style1">
+            <td  style='background:#efefef;' class="style1">
                 <b>Resultaträkning för verksamhets&aring;r:</b>
             </td>
-            <td  style=' background:#efefef; text-align:center;'>
+            <td  style='background:#efefef;text-align:center;'>
                 <b>1993/1994</b>
             </td>
-            <td  style=' background:#efefef; text-align:center;'>
+            <td  style='background:#efefef;text-align:center;'>
                 <b>1994/1995</b>
             </td>
-            <td  style=' background:#efefef; text-align:center;'>
+            <td  style='background:#efefef;text-align:center;'>
                 <b>1995/1996</b>
             </td>
-            <td  style=' background:#efefef; text-align:center;'>
+            <td  style='background:#efefef;text-align:center;'>
                 <b>1996/1997</b>
             </td>
-            <td  style=' background:#efefef; text-align:center;'>
+            <td  style='background:#efefef;text-align:center;'>
                 <b>1997/1998</b>
             </td>
-            <td  style=' background:#efefef; text-align:center;'>
+            <td  style='background:#efefef;text-align:center;'>
                 <b>1998/1999</b>
             </td>
         </tr>
@@ -1422,25 +1422,25 @@
             </td>
         </tr>
         <tr>
-            <td  style=' background:#efefef; ' class="style1">
+            <td  style='background:#efefef;' class="style1">
                 <b>Resultaträkning för verksamhetsår:</b>
             </td>
-            <td  style=' background:#efefef; text-align:center;'>
+            <td  style='background:#efefef;text-align:center;'>
                 <b>1993/1994</b>
             </td>
-            <td  style=' background:#efefef; text-align:center;'>
+            <td  style='background:#efefef;text-align:center;'>
                 <b>1994/1995</b>
             </td>
-            <td  style=' background:#efefef; text-align:center;'>
+            <td  style='background:#efefef;text-align:center;'>
                 <b>1995/1996</b>
             </td>
-            <td  style=' background:#efefef; text-align:center;'>
+            <td  style='background:#efefef;text-align:center;'>
                 <b>1996/1997</b>
             </td>
-            <td  style=' background:#efefef; text-align:center;'>
+            <td  style='background:#efefef;text-align:center;'>
                 <b>1997/1998</b>
             </td>
-            <td  style=' background:#efefef; text-align:center;'>
+            <td  style='background:#efefef;text-align:center;'>
                 <b>1998/1999</b>
             </td>
         </tr>

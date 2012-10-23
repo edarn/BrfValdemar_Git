@@ -1,9173 +1,6008 @@
-<%@ Page Title="" Language="C#" MasterPageFile="~/SiteMaster1.master" AutoEventWireup="true" CodeFile="RR_BR_2001_2002.aspx.cs" Inherits="RR_BR_2001_2002" %>
+<%@ Page Title="" Language="C#" MasterPageFile="~/SiteMaster1.master" AutoEventWireup="true"
+    CodeFile="RR_BR_2001_2002.aspx.cs" Inherits="RR_BR_2001_2002" %>
 
-<asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" Runat="Server">
+<asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="Server">
 </asp:Content>
-<asp:Content ID="Content2" ContentPlaceHolderID="MainContent" Runat="Server">
-
-
-<!--[if gte mso 9]><xml>
- <o:documentproperties>
-  <o:author>joakim</o:Author>
-  <o:lastauthor>joakim</o:LastAuthor>
-  <o:revision>2</o:Revision>
-  <o:totaltime>15</o:TotalTime>
-  <o:created>2002-11-28T22:02:00Z</o:Created>
-  <o:lastsaved>2002-11-28T22:02:00Z</o:LastSaved>
-  <o:pages>1</o:Pages>
-  <o:words>557</o:Words>
-  <o:characters>2954</o:Characters>
-  <o:company>Region Skåne</o:Company>
-  <o:lines>24</o:Lines>
-  <o:paragraphs>7</o:Paragraphs>
-  <o:characterswithspaces>3504</o:CharactersWithSpaces>
-  <o:version>10.2625</o:Version>
- </o:DocumentProperties>
-    </xml><![endif]--><!--[if gte mso 9]><xml>
- <w:worddocument>
-  <w:spellingstate>Clean</w:SpellingState>
-  <w:grammarstate>Clean</w:GrammarState>
-  <w:hyphenationzone>21</w:HyphenationZone>
-  <w:compatibility>
-   <w:breakwrappedtables/>
-   <w:snaptogridincell/>
-   <w:wraptextwithpunct/>
-   <w:useasianbreakrules/>
-  </w:Compatibility>
-  <w:browserlevel>MicrosoftInternetExplorer4</w:BrowserLevel>
- </w:WordDocument>
-    </xml><![endif]-->
-
-
-
-<div class=Section1>
-
-<table align="center" border="0" width="100%">
-				<tr >
-					<td align="center" width="100%">
-						
-							<a href="javascript:history.go(-1);">
-								Tillbaka
-							</a>
-							 
-						
-					</td>
-				</tr>
-</table>
-<br /><br />
-    
-
-<table class="border1" width="100%">
-<tr><td bgcolor="#efefef"><strong>Resultaträkning  Brf Valdemar 2001-07-01 -- 2002-06-30 </strong> </td></tr>
-</table>
-<table class="border1" width="100%"> 
- <tr style='mso-yfti-irow:1;height:45.0pt'>
-  <td valign=bottom style='width:317px; 
-  height:45.0pt' colspan="2">
-  
-  </td>
-  <td width=64 valign=bottom style='width:47.8pt;
-  height:45.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101 valign=bottom style='width:75.8pt;
-  height:45.0pt'>
-  <p  align=right style='text-align:right'><span
-  >2001-07-01<o:p></o:p></span></p>
-  </td>
-
-  <td width=101 valign=bottom style='width:75.8pt;
-  height:45.0pt'>
-  <p  align=right style='text-align:right'><span
-  >2000-07-01<o:p></o:p></span></p>
-  </td>
-
-
- </tr>
- <tr style='mso-yfti-irow:2;height:15.0pt'>
-  <td  style='border-style: none; border-color: inherit; border-width: medium; width:317px; 
-  ' colspan="2" rowspan="2">
-  <p ><span >Belopp i kr<o:p></o:p></span></p>
-  <p ><span >&nbsp;<o:p></o:p></span></p>
-  </td>
-  <td width=64  style='width:47.8pt;border:none;
-  
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >Not<o:p></o:p></span></p>
-  </td>
-  <td width=101 valign=bottom style='width:75.8pt;border:none;
-  
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >2002-06-30<o:p></o:p></span></p>
-  </td>
-  <td width=101 valign=bottom style='width:75.8pt;border:none;
-  
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >2001-06-30<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:3;height:15.0pt'>
-  <td width=64  valign=bottom style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;
-  height:15.0pt'>
-  
-  </td>
- </tr>
- <tr style='mso-yfti-irow:4;height:15.0pt'>
-  <td width=317  colspan=2 valign=bottom style='width:237.8pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.0pt'>
-  <p ><b><span >Rörelsens intäkter<o:p></o:p></span></b></p>
-  </td>
-  <td width=64  valign=bottom style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;
-  height:15.0pt'>
-  
-  </td>
- </tr>
- <tr style='mso-yfti-irow:5;height:15.0pt'>
-  <td width=317  colspan=2 style='width:237.8pt;
-  height:15.0pt'>
-  <p ><span >Årsavgifter och hyror<o:p></o:p></span></p>
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >1<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >7 776 981<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >7 596 076<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:6;height:15.0pt'>
-  <td width=317  colspan=2 style='width:237.8pt;
-  height:15.0pt'>
-  <p ><span >Hyres- och avgiftsbortfall<o:p></o:p></span></p>
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >2<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >- 7 240<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >- 17 184<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:7;height:15.0pt'>
-  <td width=317  colspan=2 style='width:237.8pt;
-  height:15.0pt'>
-  <p ><span >Bränsleavgifter<o:p></o:p></span></p>
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>686 677<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>675 399<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:8;height:15.0pt'>
-  <td width=317  colspan=2 style='width:237.8pt;
-  height:15.0pt'>
-  <p ><span >Övriga
-  förvaltningsintäkter<o:p></o:p></span></p>
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >3<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>25 959<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>62 837<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:9;height:15.75pt'>
-  <td  valign=bottom style='width:317px; 
-  ' colspan="2" rowspan="2">
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=64  valign=bottom style='width:47.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;border:none;
-  border-top:mso-border-top-alt:solid windowtext .5pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >8 482 376<o:p></o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;border:none;
-  border-top:mso-border-top-alt:solid windowtext .5pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >8 317 128<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:10;height:15.75pt'>
-  <td width=64  valign=bottom style='width:47.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:11;height:15.0pt'>
-  <td width=317  colspan=2 valign=bottom style='width:237.8pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.0pt'>
-  <p ><b><span >Rörelsens kostnader<o:p></o:p></span></b></p>
-  </td>
-  <td width=64  valign=bottom style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:12;height:15.0pt'>
-  <td width=317  colspan=2 style='width:237.8pt;
-  height:15.0pt'>
-  <p ><span >Reparationer <o:p></o:p></span></p>
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >4<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >- 643 009<o:p></o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >0<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:13;height:15.0pt'>
-  <td width=317  colspan=2 style='width:237.8pt;
-  height:15.0pt'>
-  <p ><span >Avsättning till
-  underhållsfond<o:p></o:p></span></p>
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >- 315 000<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >- 315 000<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:14;height:15.0pt'>
-  <td width=317  colspan=2 style='width:237.8pt;
-  height:15.0pt'>
-  <p ><span >Fastighetsskatt<o:p></o:p></span></p>
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >- 334 100<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >- 531 476<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:15;height:15.0pt'>
-  <td width=317  colspan=2 style='width:237.8pt;
-  height:15.0pt'>
-  <p ><span >Driftskostnader<o:p></o:p></span></p>
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >5<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >-2 187 021<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >-1 705 964<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:16;height:15.0pt'>
-  <td width=317  colspan=2 style='width:237.8pt;
-  height:15.0pt'>
-  <p ><span >Övriga kostnader<o:p></o:p></span></p>
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >6<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >- 60 597<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >- 85 984<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:17;height:15.0pt'>
-  <td width=317  colspan=2 style='width:237.8pt;
-  height:15.0pt'>
-  <p ><span >Personalkostnader<o:p></o:p></span></p>
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >7<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >- 116 687<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >- 85 374<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:18;height:15.0pt'>
-  <td width=317  colspan=2 style='width:237.8pt;
-  height:15.0pt'>
-  <p ><span >Avskrivningar av
-  anläggningstillgångar<o:p></o:p></span></p>
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >8<o:p></o:p></span></p>
-  </td>
-  <td width=101  valign=top style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >- 327 798<o:p></o:p></span></p>
-  </td>
-  <td width=101  valign=top style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >- 174 703<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:19;height:15.0pt'>
-  <td  style='width:317px; 
-  ' colspan="2" rowspan="2">
-  
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;border:none;border-top:
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >-3 984 212<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;border:none;border-top:
-  mso-border-top-alt:solid windowtext .5pt;
-
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >-2 898 501<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:20;height:15.0pt'>
-  <td width=64  style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:21;height:15.75pt'>
-  <td width=317  colspan=2 valign=bottom style='width:237.8pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.75pt'>
-  <p ><b><span >Rörelseresultat<o:p></o:p></span></b></p>
-  </td>
-  <td width=64  valign=bottom style='width:47.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  >4 498 164<o:p></o:p></span></b></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  >5 418 627<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:22;height:15.75pt'>
-  <td width=106  valign=bottom style='width:79.4pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=211  valign=bottom style='width:158.4pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=64  valign=bottom style='width:47.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:23;height:15.75pt'>
-  <td width=317  colspan=2 valign=bottom style='width:237.8pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.75pt'>
-  <p ><span class=SpellE><b><span >Jämnförelsestörande</span></b></span><b><span
-  > post<o:p></o:p></span></b></p>
-  </td>
-  <td width=64  valign=bottom style='width:47.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:24;height:15.0pt'>
-  <td width=317  colspan=2 valign=bottom style='width:237.8pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.0pt'>
-  <p ><span >Återförd fastighetsskatt<o:p></o:p></span></p>
-  </td>
-  <td width=64  valign=bottom style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;border:none;
-  
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>607 926<o:p></o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;border:none;
-  
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >–<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:25;height:15.0pt'>
-  <td  valign=bottom style='width:317px; 
-  ' colspan="2" rowspan="2">
-  
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  
-  </td>
-  <td width=64  valign=bottom style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>607 926<o:p></o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >–<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:26;height:15.75pt'>
-  <td width=64  style='width:47.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:27;height:15.0pt'>
-  <td width=317  colspan=2 valign=top style='width:237.8pt;
-  height:15.0pt'>
-  <p ><b><span >Resultat från
-  finansiella poster<o:p></o:p></span></b></p>
-  </td>
-  <td width=64  valign=top style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=top style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=top style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:28;height:15.0pt'>
-  <td width=317  colspan=2 style='width:237.8pt;
-  height:15.0pt'>
-  <p ><span >Resultat från finansiella
-  anl. <span class=SpellE>tillg</span>.<o:p></o:p></span></p>
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>7 740<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>7 740<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:29;height:15.0pt'>
-  <td width=317  colspan=2 style='width:237.8pt;
-  height:15.0pt'>
-  <p ><span >Ränteintäkter<o:p></o:p></span></p>
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >9<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>156 700<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>165 110<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:30;height:15.0pt'>
-  <td width=317  colspan=2 style='width:237.8pt;
-  height:15.0pt'>
-  <p ><span >Statliga
-  bostadsbyggnadssubventioner<o:p></o:p></span></p>
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >–<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>70 814<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:31;height:15.0pt'>
-  <td width=317  colspan=2 style='width:237.8pt;
-  height:15.0pt'>
-  <p ><span >Räntekostnader<o:p></o:p></span></p>
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >10<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >-5 172 503<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >-5 178 948<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:32;height:15.75pt'>
-  <td width=317  colspan=2 valign=bottom style='width:237.8pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.75pt'>
-  <p ><b><span >Resultat efter
-  finansiella poster<o:p></o:p></span></b></p>
-  </td>
-  <td width=64  valign=bottom style='width:47.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;border:none;
-  border-top:mso-border-top-alt:solid windowtext .5pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><span > </span>98 027<o:p></o:p></span></b></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;border:none;
-  border-top:mso-border-top-alt:solid windowtext .5pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><span > </span>483 343<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:33;height:15.75pt'>
-  <td  valign=top style='width:317px; 
-  height:15.75pt' colspan="2">
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=64  valign=top style='width:47.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=top style='width:75.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=top style='width:75.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:34;height:15.0pt'>
-  <td width=317  colspan=2 style='width:237.8pt;
-  height:15.0pt'>
-  <p ><span >Inkomstskatt<o:p></o:p></span></p>
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >–<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >–<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:35;height:15.75pt'>
-  <td width=317  colspan=2 style='width:237.8pt;
-  height:15.75pt'>
-  <p ><b><span >Årets resultat<o:p></o:p></span></b></p>
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;border:none;border-top:
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><span > </span>98 027<o:p></o:p></span></b></p>
-  </td>
-  <td width=101  style='width:75.8pt;border:none;border-top:
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><span > </span>483 343<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:36;height:15.75pt'>
-  <td width=106  style='width:79.4pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=211  style='width:158.4pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:37;mso-yfti-lastrow:yes;height:15.75pt'>
-  <td width=106  style='width:79.4pt;border:none;
-  
-  height:15.75pt'>
-  <p ><b><span >&nbsp;<o:p></o:p></span></b></p>
-  </td>
-  <td width=211  style='width:158.4pt;border:none;
-  
-  height:15.75pt'>
-  <p ><span >&nbsp;<o:p></o:p></span></p>
-  </td>
-  <td width=64  style='width:47.8pt;border:none;
-  
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >&nbsp;<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;border:none;
-  
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  >&nbsp;<o:p></o:p></span></b></p>
-  </td>
-  <td width=101  style='width:75.8pt;border:none;
-  
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  >&nbsp;<o:p></o:p></span></b></p>
-  </td>
- </tr>
-</table>
-
-
-
-
-<table class="border1" width="100%"
- 
->
- <tr >
-  <td width=317 bgcolor="#efefef"  colspan=2 style='width:237.8pt;border:none;height:20.25pt'>
-  
-  
-
-  
-  
-
-  <p ><b><span >Balansräkning<o:p></o:p></span></b></p>
-  </td>
-  <td width=64 bgcolor="#efefef"  style='width:47.8pt;border:none;'> &nbsp;<o:p></o:p></span></b></p>
-  </td>
-  <td width=101 bgcolor="#efefef"  style='width:75.8pt;border:none;
-  
-  height:20.25pt'>
-  <p  align=right style='text-align:right'><b><span
-  >&nbsp;<o:p></o:p></span></b></p>
-  </td>
-  <td width=29 bgcolor="#efefef" style='width:21.8pt;border:none;
-  
-  height:20.25pt' class="style7">
-  <p ><span >&nbsp;<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1;height:15.0pt'>
-  <td width=106  style='width:79.4pt;border:none;
-  
-  height:15.0pt'>
-  <p ><span >Belopp i kr<o:p></o:p></span></p>
-  </td>
-  <td width=211  style='width:158.4pt;border:none;
-  
-  height:15.0pt'>
-  <p ><span >&nbsp;<o:p></o:p></span></p>
-  </td>
-  <td width=64  style='width:47.8pt;border:none;
-  
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >Not<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;border:none;
-  
-  height:15.0pt' class="style6">
-  <p  align=right style='text-align:right'><span
-  >2002-06-30<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;border:none;
-  
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >2001-06-30<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:2;height:15.0pt'>
-  <td width=106  style='width:79.4pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=211  style='width:158.4pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt' class="style6">
-  <p  style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:3;height:18.0pt'>
-  <td width=317  colspan=2 style='width:237.8pt;
-  height:18.0pt'>
-  <p ><b><span >TILLGÅNGAR<o:p></o:p></span></b></p>
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:18.0pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:18.0pt' class="style7">
-  <p  style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:18.0pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:4;height:18.75pt'>
-  <td width=317  colspan=2 style='width:237.8pt;
-  height:18.75pt'>
-  <p ><b><span >Anläggningstillgångar<o:p></o:p></span></b></p>
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:18.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:18.75pt' class="style7">
-  <p  style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:18.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:5;height:15.0pt'>
-  <td width=317  colspan=2 style='width:237.8pt;
-  height:15.0pt'>
-  <p ><b><span >Materiella
-  anläggningstillgångar<o:p></o:p></span></b></p>
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt' class="style6">
-  <p  style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:6;height:15.0pt'>
-  <td width=317  colspan=2 style='width:237.8pt;
-  height:15.0pt'>
-  <p ><span >Byggnader och mark<o:p></o:p></span></p>
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >11<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt' class="style6">
-  <p  align=right style='text-align:right'><span
-  >98 673 294<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >97 742 008<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:7;height:15.0pt'>
-  <td width=317  colspan=2 style='width:237.8pt;
-  height:15.0pt'>
-  <p ><span >Maskiner, inventarier,
-  fastighetsinventarier<o:p></o:p></span></p>
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >12<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt' class="style6">
-  <p  style='text-align:right'><span
-  ><span > </span>83 945<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>28 978<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:8;height:15.75pt'>
-  <td width=106  style='width:79.4pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=211  style='width:158.4pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;border:none;
-  border-top:mso-border-top-alt:solid windowtext .5pt;
-  height:15.75pt' class="style6">
-  <p  align=right style='text-align:right'><span
-  >98 757 238<o:p></o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;border:none;
-  border-top:mso-border-top-alt:solid windowtext .5pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >97 770 986<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:9;height:15.75pt'>
-  <td width=106  style='width:79.4pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=211  style='width:158.4pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;
-  height:15.75pt' class="style6">
-  <p  style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:10;height:15.0pt'>
-  <td width=317  colspan=2 style='width:237.8pt;
-  height:15.0pt'>
-  <p ><b><span >Finansiella
-  anläggningstillgångar<o:p></o:p></span></b></p>
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt' class="style6">
-  <p  style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:11;height:15.0pt'>
-  <td width=317  colspan=2 style='width:237.8pt;
-  height:15.0pt'>
-  <p ><span >Långfristiga fordringar<o:p></o:p></span></p>
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >13<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt' class="style6">
-  <p  style='text-align:right'><span
-  ><span > </span>129 000<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>129 000<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:12;height:15.75pt'>
-  <td width=106  style='width:79.4pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=211  style='width:158.4pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;border:none;
-  border-top:mso-border-top-alt:solid windowtext .5pt;
-  height:15.75pt' class="style6">
-  <p  style='text-align:right'><span
-  ><span > </span>129 000<o:p></o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;border:none;
-  border-top:mso-border-top-alt:solid windowtext .5pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>129 000<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:13;height:15.75pt'>
-  <td width=317  colspan=2 style='width:237.8pt;
-  height:15.75pt'>
-  <p ><b><span >Summa
-  anläggningstillgångar<o:p></o:p></span></b></p>
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=101  style='width:75.8pt;border:none;border-top:
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.75pt' class="style7">
-  <p  align=right style='text-align:right'><span
-  >98 886 238<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;border:none;border-top:
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  >97 899 986<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:14;height:15.75pt'>
-  <td width=106  style='width:79.4pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=211  style='width:158.4pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.75pt' class="style6">
-  <p  style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:15;height:18.0pt'>
-  <td width=317  colspan=2 style='width:237.8pt;
-  height:18.0pt'>
-  <p ><b><span >Omsättningstillgångar<o:p></o:p></span></b></p>
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:18.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:18.0pt' class="style6">
-  <p  style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:18.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:16;height:15.0pt'>
-  <td width=317  colspan=2 style='width:237.8pt;
-  height:15.0pt'>
-  <p ><b><span >Kortfristiga
-  fordringar<o:p></o:p></span></b></p>
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt' class="style6">
-  <p  style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:17;height:15.0pt'>
-  <td width=317  colspan=2 style='width:237.8pt;
-  height:15.0pt'>
-  <p ><span >Avgifts- och
-  hyresfordringar<o:p></o:p></span></p>
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt' class="style6">
-  <p  style='text-align:right'><span
-  ><span > </span>32 044<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span >  </span>117<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:18;height:15.0pt'>
-  <td width=317  colspan=2 style='width:237.8pt;
-  height:15.0pt'>
-  <p ><span >Förutbetalda <span
-  class=SpellE>kostn</span>. och upplupna intäkter<o:p></o:p></span></p>
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >14<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt' class="style6">
-  <p  style='text-align:right'><span
-  ><span > </span>930 369<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>31 306<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:19;height:15.75pt'>
-  <td width=106  style='width:79.4pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=211  style='width:158.4pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;border:none;
-  border-top:mso-border-top-alt:solid windowtext .5pt;
-  height:15.75pt' class="style6">
-  <p  style='text-align:right'><span
-  ><span > </span>962 413<o:p></o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;border:none;
-  border-top:mso-border-top-alt:solid windowtext .5pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>31 423<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:20;height:15.75pt'>
-  <td width=106  style='width:79.4pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=211  style='width:158.4pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.75pt' class="style6">
-  <p  style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:21;height:15.0pt'>
-  <td width=317  colspan=2 style='width:237.8pt;
-  height:15.0pt'>
-  <p ><b><span >Kortfristiga
-  placeringar<o:p></o:p></span></b></p>
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;
-  height:15.0pt' class="style6">
-  <p  style="text-align: right"><span ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;
-  height:15.0pt'>
-  
-  </td>
- </tr>
- <tr style='mso-yfti-irow:22;height:15.0pt'>
-  <td width=317  colspan=2 style='width:237.8pt;
-  height:15.0pt'>
-  <p ><span >Specialutlåning till
-  Riksbyggen<o:p></o:p></span></p>
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt' class="style6">
-  <p  style='text-align:right'><span
-  ><span > </span>600 000<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >–<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:23;height:15.0pt'>
-  <td width=106  valign=bottom style='width:79.4pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=211  valign=bottom style='width:158.4pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=64  valign=bottom style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;border:none;
-  border-top:mso-border-top-alt:solid windowtext .5pt;
-  height:15.0pt' class="style6">
-  <p  style='text-align:right'><span
-  ><span > </span>600 000<o:p></o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;border:none;
-  border-top:mso-border-top-alt:solid windowtext .5pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >–<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:24;height:15.0pt'>
-  <td width=106  valign=bottom style='width:79.4pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=211  valign=bottom style='width:158.4pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=64  valign=bottom style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;
-  height:15.0pt' class="style6">
-  <p  style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:25;height:15.0pt'>
-  <td width=317  colspan=2 style='width:237.8pt;
-  height:15.0pt'>
-  <p ><b><span >Kassa och bank<o:p></o:p></span></b></p>
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >15<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt' class="style6">
-  <p  align=right style='text-align:right'><span
-  >2 938 974<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >5 709 649<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:26;height:15.0pt'>
-  <td width=106  style='width:79.4pt;
-  height:15.0pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=211  style='width:158.4pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt' class="style6">
-  <p  style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:27;height:15.75pt'>
-  <td width=317  colspan=2 style='width:237.8pt;
-  height:15.75pt'>
-  <p ><b><span >Summa
-  omsättningstillgångar<o:p></o:p></span></b></p>
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=101  style='width:75.8pt;border:none;border-top:
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.75pt' class="style7">
-  <p  align=right style='text-align:right'><span
-  >4 501 387<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;border:none;border-top:
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  >5 741 072<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:28;height:15.75pt'>
-  <td width=106  style='width:79.4pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=211  style='width:158.4pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=101  style='width:75.8pt;border:none;border-top:
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.75pt' class="style7">
-  <p  align=right style='text-align:right'><span
-  >&nbsp;<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;border:none;border-top:
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  >&nbsp;<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:29;mso-yfti-lastrow:yes;height:15.75pt'>
-  <td width=317  colspan=2 style='width:237.8pt;border:none;
-  
-  height:15.75pt'>
-  <p ><b><span >SUMMA TILLGÅNGAR<o:p></o:p></span></b></p>
-  </td>
-  <td width=64  style='width:47.8pt;border:none;
-  
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  >&nbsp;<o:p></o:p></span></b></p>
-  </td>
-  <td width=101  style='width:75.8pt;border-top:
-  border-left:none;border-right:none;
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.75pt' class="style7">
-  <p  align=right style='text-align:right'><span
-  >103 387 625<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;border-top:
-  border-left:none;border-right:none;
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  >103 641 058<o:p></o:p></span></b></p>
-  </td>
- </tr>
-</table>
-
-<span style='font-size:12.0pt;font-family:"Times New Roman";mso-fareast-font-family:
-"Times New Roman";mso-ansi-language:SV;mso-fareast-language:SV;mso-bidi-language:
-AR-SA'><br clear=all style='mso-special-character:line-break;page-break-before:
-always'>
-</span>
-
-<table class="border1" width="100%"
- 
->
- <tr >
-  <td width=317 bgcolor="#efefef"  colspan=2 style='width:237.8pt;border:none;
-  
-  height:20.25pt'>
-  
-  <p ><b><span >Balansräkning<o:p></o:p></span></b></p>
-  </td>
-  <td width=64 bgcolor="#efefef"> &nbsp;<o:p></o:p></span></b></p>
-  </td>
-  <td width=101 bgcolor="#efefef"  style='width:75.8pt;border:none;
-  
-  height:20.25pt'>
-  <p  align=right style='text-align:right'><b><span
-  >&nbsp;&nbsp;<o:p></o:p></span></b></p>
-  </td>
-  <td width=101 bgcolor="#efefef"  style='width:75.8pt;border:none;
-  
-  height:20.25pt'>
-  <p  align=right style='text-align:right'><b><span
-  >&nbsp;<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1;height:15.0pt'>
-  <td width=317  colspan=2 style='width:237.8pt;border:none;
-  
-  height:15.0pt'>
-  <p ><span >Belopp i kr<o:p></o:p></span></p>
-  </td>
-  <td width=64  style='width:47.8pt;border:none;
-  
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >Not<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;border:none;
-  
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >2002-06-30<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;border:none;
-  
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >2001-06-30<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:2;height:15.0pt'>
-  <td width=106  style='width:79.4pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=211  style='width:158.4pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:3;height:18.0pt'>
-  <td width=317  colspan=2 style='width:237.8pt;
-  height:18.0pt'>
-  <p ><b><span >EGET
-  KAPITAL OCH SKULDER<o:p></o:p></span></b></p>
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:18.0pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:18.0pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:18.0pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:4;height:15.0pt'>
-  <td width=317  colspan=2 style='width:237.8pt;
-  height:15.0pt'>
-  <p ><b><span >Eget kapital<o:p></o:p></span></b></p>
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >16<o:p></o:p></span></p>
-  </td>
-  <td width=101  valign=top style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=top style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:5;height:15.0pt'>
-  <td width=317  colspan=2 valign=bottom style='width:237.8pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.0pt'>
-  <p ><span >Bundet
-  eget kapital<o:p></o:p></span></p>
-  </td>
-  <td width=64  valign=bottom style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;
-
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:6;height:15.0pt'>
-  <td width=106  style='width:79.4pt;
-  height:15.0pt'>
-  <p ><span >Insatser<o:p></o:p></span></p>
-  </td>
-  <td width=211  style='width:158.4pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >5 509 995<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >5 509 995<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:7;height:15.0pt'>
-  <td width=317  colspan=2 style='width:237.8pt;
-  height:15.0pt'>
-  <p ><span >Upplåtelseavgifter<o:p></o:p></span></p>
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>267 565<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>267 565<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:8;height:15.75pt'>
-  <td width=106  valign=bottom style='width:79.4pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=211  valign=bottom style='width:158.4pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=64  valign=bottom style='width:47.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;border:none;
-  border-top:mso-border-top-alt:solid windowtext .5pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >5 777 560<o:p></o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;border:none;
-  border-top:mso-border-top-alt:solid windowtext .5pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >5 777 560<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:9;height:15.75pt'>
-  <td width=106  valign=bottom style='width:79.4pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=211  valign=bottom style='width:158.4pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=64  valign=bottom style='width:47.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:10;height:15.0pt'>
-  <td width=317  colspan=2 valign=bottom style='width:237.8pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.0pt'>
-  <p ><span >Fritt
-  eget kapital<o:p></o:p></span></p>
-  </td>
-  <td width=64  valign=bottom style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:11;height:12.75pt'>
-  <td width=106  valign=bottom style='width:79.4pt;
-  height:12.75pt'>
-  
-  </td>
-  <td width=211  valign=bottom style='width:158.4pt;
-  height:12.75pt'>
-  
-  </td>
-  <td width=64  valign=bottom style='width:47.8pt;
-  height:12.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;
-  height:12.75pt'>
-  
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;
-  height:12.75pt'>
-  
-  </td>
- </tr>
- <tr style='mso-yfti-irow:12;height:15.0pt'>
-  <td width=317  colspan=2 style='width:237.8pt;
-  height:15.0pt'>
-  <p ><span >Balanserat resultat<o:p></o:p></span></p>
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >3 349 202<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >5 365 859<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:13;height:15.0pt'>
-  <td width=317  colspan=2 style='width:237.8pt;
-  height:15.0pt'>
-  <p ><span >Årets resultat<o:p></o:p></span></p>
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>98 027<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>483 343<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:14;height:15.75pt'>
-  <td width=106  valign=bottom style='width:79.4pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=211  valign=bottom style='width:158.4pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=64  valign=bottom style='width:47.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;border:none;
-  border-top:mso-border-top-alt:solid windowtext .5pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >3 447 229<o:p></o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;border:none;
-  border-top:mso-border-top-alt:solid windowtext .5pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >5 849 202<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:15;height:15.0pt'>
-  <td width=317  colspan=2 valign=top style='width:237.8pt;
-  height:15.0pt'>
-  <p ><b><span >Summa eget
-  kapital<span >  </span><o:p></o:p></span></b></p>
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;border:none;border-top:
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><b><span
-  >9 224 789<o:p></o:p></span></b></p>
-  </td>
-  <td width=101  style='width:75.8pt;border:none;border-top:
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><b><span
-  >11 626 762<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:16;height:15.0pt'>
-  <td width=106  valign=top style='width:79.4pt;
-  height:15.0pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=211  style='width:158.4pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:17;height:15.0pt'>
-  <td width=106  style='width:79.4pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=211  style='width:158.4pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:18;height:15.0pt'>
-  <td width=317  colspan=2 valign=top style='width:237.8pt;
-  height:15.0pt'>
-  <p ><b><span >Avsättningar<o:p></o:p></span></b></p>
-  </td>
-  <td width=64  valign=top style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=top style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=top style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:19;height:15.0pt'>
-  <td width=317  colspan=2 style='width:237.8pt;
-  height:15.0pt'>
-  <p ><span >Föreningens underhållsfond<o:p></o:p></span></p>
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >17<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >1 955 527<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>4 749<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:20;height:15.75pt'>
-  <td width=106  style='width:79.4pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=211  style='width:158.4pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;border:none;
-  border-top:mso-border-top-alt:solid windowtext .5pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >1 955 527<o:p></o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;border:none;
-  border-top:mso-border-top-alt:solid windowtext .5pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>4 749<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:21;height:15.75pt'>
-  <td width=106  style='width:79.4pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=211  style='width:158.4pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:22;height:15.0pt'>
-  <td width=317  colspan=2 valign=top style='width:237.8pt;
-  height:15.0pt'>
-  <p ><b><span >Långfristiga skulder<o:p></o:p></span></b></p>
-  </td>
-  <td width=64  valign=top style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=top style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=top style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:23;height:15.0pt'>
-  <td width=317  colspan=2 style='width:237.8pt;
-  height:15.0pt'>
-  <p ><span class=SpellE><span >Fastighetslån</span></span><span
-  >, långa<o:p></o:p></span></p>
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >18<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >90 629 141<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >90 809 018<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:24;height:15.75pt'>
-  <td width=106  style='width:79.4pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=211  style='width:158.4pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;border:none;
-  border-top:mso-border-top-alt:solid windowtext .5pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >90 629 141<o:p></o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;border:none;
-  border-top:mso-border-top-alt:solid windowtext .5pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >90 809 018<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:25;height:15.75pt'>
-  <td width=106  style='width:79.4pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=211  style='width:158.4pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:26;height:15.0pt'>
-  <td width=317  colspan=2 valign=top style='width:237.8pt;
-  height:15.0pt'>
-  <p ><b><span >Kortfristiga skulder<o:p></o:p></span></b></p>
-  </td>
-  <td width=64  valign=top style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=top style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=top style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:27;height:15.0pt'>
-  <td width=317  colspan=2 style='width:237.8pt;
-  height:15.0pt'>
-  <p ><span >Leverantörsskulder<o:p></o:p></span></p>
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>210 915<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>102 493<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:28;height:15.0pt'>
-  <td width=317  colspan=2 style='width:237.8pt;
-  height:15.0pt'>
-  <p ><span >Skatteskulder<o:p></o:p></span></p>
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>442 071<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>145 199<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:29;height:15.0pt'>
-  <td width=317  colspan=2 style='width:237.8pt;
-  height:15.0pt'>
-  <p ><span >Förutbetalda
-  månadsavgifter<o:p></o:p></span></p>
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>284 246<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>341 608<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:30;height:15.0pt'>
-  <td width=317  colspan=2 style='width:237.8pt;
-  height:15.0pt'>
-  <p ><span >Övriga skulder, korta<o:p></o:p></span></p>
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >19<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>6 769<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>5 575<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:31;height:15.0pt'>
-  <td width=317  colspan=2 style='width:237.8pt;
-  height:15.0pt'>
-  <p ><span >Upplupna <span
-  class=SpellE>kostn</span>. och förutbetalda intäkter<o:p></o:p></span></p>
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >20<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>634 167<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>605 654<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:32;height:15.75pt'>
-  <td width=106  style='width:79.4pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=211  style='width:158.4pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;border:none;
-  border-top:mso-border-top-alt:solid windowtext .5pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >1 578 168<o:p></o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;border:none;
-  border-top:mso-border-top-alt:solid windowtext .5pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >1 200 529<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:33;height:15.0pt'>
-  <td width=317  colspan=2 style='width:237.8pt;
-  height:15.0pt'>
-  <p ><b><span >Summa skulder<o:p></o:p></span></b></p>
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;border:none;
-  border-top:mso-border-top-alt:solid windowtext .5pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><b><span
-  >94 162 836<o:p></o:p></span></b></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;border:none;
-  border-top:mso-border-top-alt:solid windowtext .5pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><b><span
-  >92 014 296<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:34;height:15.0pt'>
-  <td width=106  style='width:79.4pt;
-  height:15.0pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=211  style='width:158.4pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;border:none;
-  
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><b><span
-  >&nbsp;<o:p></o:p></span></b></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;border:none;
-  
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><b><span
-  >&nbsp;<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:35;height:15.75pt'>
-  <td width=317  colspan=2 style='width:237.8pt;border:none;
-  
-  height:15.75pt'>
-  <p ><b><span >SUMMA EGET KAPITAL OCH
-  SKULDER<o:p></o:p></span></b></p>
-  </td>
-  <td width=64  style='width:47.8pt;border:none;
-  
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  >&nbsp;<o:p></o:p></span></b></p>
-  </td>
-  <td width=101  style='width:75.8pt;border:none;
-  
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  >103 387 625<o:p></o:p></span></b></p>
-  </td>
-  <td width=101  style='width:75.8pt;border:none;
-  
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  >103 641 058<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:36;height:12.75pt'>
-  <td width=106  valign=bottom style='width:79.4pt;
-  height:12.75pt'>
-  
-  </td>
-  <td width=211  valign=bottom style='width:158.4pt;
-  height:12.75pt'>
-  
-  </td>
-  <td width=64  valign=bottom style='width:47.8pt;
-  height:12.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;
-  height:12.75pt'>
-  
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;
-  height:12.75pt'>
-  
-  </td>
- </tr>
- <tr style='mso-yfti-irow:37;height:12.75pt'>
-  <td width=106  valign=bottom style='width:79.4pt;
-  height:12.75pt'>
-  
-  </td>
-  <td width=211  valign=bottom style='width:158.4pt;
-  height:12.75pt'>
-  
-  </td>
-  <td width=64  valign=bottom style='width:47.8pt;
-  height:12.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;
-  height:12.75pt'>
-  
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;
-  height:12.75pt'>
-  
-  </td>
- </tr>
- <tr style='mso-yfti-irow:38;height:15.75pt'>
-  <td width=317  colspan=2 style='width:237.8pt;
-  height:15.75pt'>
-  <p ><b><span >Ansvarsförbindelser<o:p></o:p></span></b></p>
-  </td>
-  <td width=64  valign=bottom style='width:47.8pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.75pt'>
-  <p class=style1><span >Inga<o:p></o:p></span></p>
-  </td>
-  <td width=101  style='width:75.8pt;
-  height:15.75pt'>
-  <p class=style1><span >Inga<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:39;height:15.75pt'>
-  <td width=106  style='width:79.4pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=211  valign=bottom style='width:158.4pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=64  valign=bottom style='width:47.8pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;
-  height:15.75pt'>
-  
-  </td>
- </tr>
- <tr style='mso-yfti-irow:40;height:15.75pt'>
-  <td width=106  style='width:79.4pt;
-  height:15.75pt'>
-  <p ><b><span >Ställda panter<o:p></o:p></span></b></p>
-  </td>
-  <td width=211  style='width:158.4pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=64  style='width:47.8pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;
-  height:15.75pt'>
-  
-  </td>
- </tr>
- <tr style='mso-yfti-irow:41;mso-yfti-lastrow:yes;height:15.0pt'>
-  <td width=317  colspan=2 valign=bottom style='width:237.8pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.0pt'>
-  <p  style='text-indent:9.35pt;mso-char-indent-count:1.0'><span
-  >Fastighetsinteckningar<o:p></o:p></span></p>
-  </td>
-  <td width=64  valign=bottom style='width:47.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >103 427 000<o:p></o:p></span></p>
-  </td>
-  <td width=101  valign=bottom style='width:75.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >103 427 000</span></p>
-  </td>
- </tr>
-</table>
-
-<table class="border1" width="100%">
- 
-
- <tr >
-  <td width=720  colspan=7 style='width:540.0pt;border:none;background:#efefef;height:20.25pt'>
-  <p ><b><span style='font-size:16.0pt;font-family:Arial;'>Noter med redovisningsprinciper och bokslutskommentarer<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1;height:16.5pt'>
-  <td width=288  valign=bottom style='width:216.0pt;
-  height:16.5pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=16  style='width:12.2pt;
-  height:16.5pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=128  style='width:95.8pt;
-  height:16.5pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:16.5pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=96  valign=bottom style='width:71.75pt;
-  height:16.5pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=13  valign=bottom style='width:10.1pt;
-  height:16.5pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;
-  height:16.5pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:2;height:20.25pt'>
-  <td width=455  colspan=4 valign=bottom style='width:341.15pt;
-  height:20.25pt'>
-  <p ><span >Belopp i kr
-  om inget annat anges<o:p></o:p></span></p>
-  </td>
-  <td width=96  valign=bottom style='width:71.75pt;
-  height:20.25pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=13  valign=bottom style='width:10.1pt;
-  height:20.25pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;
-  height:20.25pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:3;height:13.5pt'>
-  <td width=288  valign=bottom style='width:216.0pt;
-  height:13.5pt'>
-  
-  </td>
-  <td width=16  style='width:12.2pt;
-  height:13.5pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=128  style='width:95.8pt;
-  height:13.5pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:13.5pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=96  valign=bottom style='width:71.75pt;
-  height:13.5pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=13  valign=bottom style='width:10.1pt;
-  height:13.5pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;
-  height:13.5pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:4;height:15.75pt'>
-  <td width=288  valign=bottom style='width:216.0pt;
-  height:15.75pt'>
-  <p ><b><span >Allmänna
-  redovisningsprinciper<o:p></o:p></span></b></p>
-  </td>
-  <td width=16  style='width:12.2pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=128  style='width:95.8pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=96  valign=bottom style='width:71.75pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=13  valign=bottom style='width:10.1pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:5;height:15.75pt'>
-  <td width=288  valign=bottom style='width:216.0pt;
-  height:15.75pt'>
-  <p ><!--[if gte vml 1]><v:shapetype id="_x0000_t202"
-   coordsize="21600,21600" o:spt="202" path="m,l,21600r21600,l21600,xe">
-   <v:stroke joinstyle="miter" xmlns:v="urn:schemas-microsoft-com:vml"/>
-   <v:path gradientshapeok="t" o:connecttype="rect" 
-          xmlns:v="urn:schemas-microsoft-com:vml"/>
-  </v:shapetype><v:shape id="_x0000_s1027" type="#_x0000_t202" style='position:absolute;
-   margin-left:3.75pt;margin-top:8.25pt;width:400.5pt;height:35.25pt;z-index:2;
-   mso-wrap-style:tight;mso-position-horizontal-relative:text;
-   mso-position-vertical-relative:text' stroked="f" o:insetmode="auto" 
-          xmlns:v="urn:schemas-microsoft-com:vml"/><![endif]--><![if !vml]>
-  <table >
-   <tr>
-    <td width=538 height=51  style='vertical-align:top;background:
-    white'><![endif]><![if !mso]>
-     <span style='mso-ignore:vglayout;
-  position:absolute;z-index:1;margin-left:3px;margin-top:0px;width:538px;
-  height:145px'>
-    <table width="100%">
-     <tr>
-
-      <td width=538 height=145  style='vertical-align:top;
-    '><![endif]>
-      
-      <p >Årsredovisningen
-      är upprättad enligt årsredovisningslagen (<span class=SpellE>ÅRL</span>),
-      med undantag av underhållsfonden som följer föreningens stadgar.</p>
-      
-      <![if !mso]></td>
-     </tr>
+<asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="Server">
+    <table align="center" border="0" width="100%">
+        <tr>
+            <td align="center" width="100%">
+                <a href="javascript:history.go(-1);">Tillbaka </a>
+            </td>
+        </tr>
     </table>
-    <![endif]><![if !mso & !vml]>&nbsp;<![endif]><![if !vml]></td>
-   </tr>
-  </table>
-  <![endif]><span ><o:p></o:p></span></p>
-  <table >
-   <tr style='mso-yfti-irow:0;mso-yfti-lastrow:yes;height:15.75pt'>
-    <td width=55  valign=bottom style='width:41.0pt;padding:0cm 0cm 0cm 0cm;
-    height:15.75pt;'>
-    <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-    </td>
-   </tr>
-  </table>
-  <p ><span ><o:p></o:p></span></p>
-  </td>
-  <td width=16  style='width:12.2pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=128  style='width:95.8pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=96  valign=bottom style='width:71.75pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=13  valign=bottom style='width:10.1pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:8;height:15.0pt'>
-  <td width=288  valign=bottom style='width:216.0pt;
-  height:15.0pt'>
-  <p ><!--[if gte vml 1]><v:shape id="_x0000_s1026" type="#_x0000_t202"
-   style='position:absolute;margin-left:2.25pt;margin-top:0;width:400.5pt;
-   height:105.75pt;z-index:1;mso-wrap-style:tight;
-   mso-position-horizontal-relative:text;mso-position-vertical-relative:text'
-   stroked="f" o:insetmode="auto">
-  <x:clientdata ObjectType="Text">
-   <x:anchor>      </x:Anchor>
-  </x:ClientData>
-  </v:shape><![endif]--><![if !vml]><![endif]></p>
-      <span style='mso-ignore:vglayout;
-  position:absolute;z-index:1;margin-left:3px;margin-top:0px;width:538px;
-  height:145px'>
-      <p >
-          <x:clientdata ObjectType="Text">
-          <x:anchor>      <![if !vml]>
-  <table >
-   <tr>
-    <td width=538 height=145  style='vertical-align:top;
-    '><![endif]><![if !mso]>
-    <table >
-     <tr>
-      <td><![endif]>
-      
-      <p  style='margin-bottom:12.0pt'><b><span
-      >Värderingsprinciper m <span
-      class=SpellE>m</span></span></b><br>
-      Tillgångar och skulder har värderats till anskaffningsvärden om inget
-      annat anges nedan.<br>
-      <br>
-      Fordringar<br>
-      Fordringar har efter individuell värdering upptagits till belopp varmed
-      de beräknas inflyta.</span><br>
-      <br>
-     
-     
-      <![if !mso]></td>
-     </tr>
-    </table>
-    <![endif]><![if !mso & !vml]>&nbsp;<![endif]><![if !vml]></td>
-   </tr>
-  </table>
-  <![endif]><o:p></o:p></p>
-  <table >
-   <tr style='mso-yfti-irow:0;mso-yfti-lastrow:yes;height:15.0pt'>
-    <td width=55  style='width:41.0pt;padding:0cm 0cm 0cm 0cm;height:
-    15.0pt'>
-    
-    </td>
-   </tr>
-  </table>
-  <p ><span ><o:p></o:p></span></p>
-  </td>
-  <td width=16  style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=128  style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  style='width:71.75pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=13  style='width:10.1pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:9;height:15.75pt'>
-  <td width=288  style='width:216.0pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=16  style='width:12.2pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=128  style='width:95.8pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=96  style='width:71.75pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=13  style='width:10.1pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:10;height:15.0pt'>
-  <td width=720 colspan=7 style='width:540.0pt;
-  height:15.0pt'>
-  
-  </td>
- </tr>
- <tr style='mso-yfti-irow:11;height:15.0pt'>
-  <td width=288  style='width:216.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=16  style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=128  style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  style='width:71.75pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=13  style='width:10.1pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:12;height:15.0pt'>
-  <td width=288  style='width:216.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=16  style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=128  style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  style='width:71.75pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=13  style='width:10.1pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:13;height:15.0pt'>
-  <td width=720 colspan=7 valign=bottom style='width:540.0pt;
-  height:15.0pt'>
-  
-  </td>
- </tr>
- <tr style='mso-yfti-irow:14;height:15.0pt'>
-  <td width=288  style='width:216.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=16  style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=128  style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=97  colspan=2 style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:15;height:15.75pt'>
-  <td  colspan=4 style='
-  height:15.75pt'>
-  <p ><a name="RANGE!F19"></a><a name="RANGE!F18"></a><span
-  style='mso-bookmark:"RANGE\!F19"'><span >Följande
-  <span class=SpellE>avskrivningspriciper</span> tillämpas:</span></span><span
-  ><o:p></o:p></span></p>
-  </td>
-  <td width=97  colspan=2 style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><u><span
-  ><o:p><span style='text-decoration:none'>&nbsp;</span></o:p></span></u></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:16;height:15.0pt'>
-  <td width=288  style='width:216.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=16  style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=128  style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=97  colspan=2 style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:17;height:15.75pt'>
-  <td width=455  colspan=4 style='width:341.15pt;
-  height:15.75pt'>
-  <p ><span >Materiella
-  anläggningstillgångar<o:p></o:p></span></p>
-  </td>
-  <td width=97  colspan=2 style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:18;height:15.75pt'>
-  <td width=304  colspan=2 style='width:228.2pt;
-  height:15.75pt'>
-  <p ><span >Byggnader<o:p></o:p></span></p>
-  </td>
-  <td width=128  style='width:95.8pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=97  colspan=2 style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >enligt amortering<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:19;height:15.75pt'>
-  <td width=432  colspan=3 style='width:324.0pt;
-  height:15.75pt'>
-  <p ><a name="RANGE!F25"></a><a name="RANGE!F22"></a><span
-  style='mso-bookmark:"RANGE\!F25"'><span >Fastighetsförbättringar
-  </span></span><span ><o:p></o:p></span></p>
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=97  colspan=2 style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >10 år<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:20;height:15.0pt'>
-  <td width=455  colspan=4 style='width:341.15pt;
-  height:15.0pt'>
-  <p ><span >Inventarier,
-  fastighetsinventarier<o:p></o:p></span></p>
-  </td>
-  <td width=97  colspan=2 style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >5 år<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:21;height:15.0pt'>
-  <td width=288  style='width:216.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=16  style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=128  style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=97  colspan=2 style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:22;height:15.75pt'>
-  <td width=288  style='width:216.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=16  style='width:12.2pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=128  style='width:95.8pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=97  colspan=2 valign=bottom style='width:72.85pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  >2002-06-30<o:p></o:p></span></b></p>
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  >2001-06-30<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:23;height:15.75pt'>
-  <td width=288  style='width:216.0pt;
-  height:15.75pt'>
-  <p ><b><span >Not 1<o:p></o:p></span></b></p>
-  </td>
-  <td width=167  colspan=3 style='width:125.15pt;
-  height:15.75pt'>
-  <p ><b><span >Årsavgifter
-  och hyror<o:p></o:p></span></b></p>
-  </td>
-  <td width=97  colspan=2 style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:24;height:15.0pt'>
-  <td width=432  colspan=3 style='width:324.0pt;
-  height:15.0pt'>
-  <p ><span >Årsavgifter,
-  bostäder<o:p></o:p></span></p>
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=97  colspan=2 style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >7 553 901<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >7 393 391<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:25;height:15.75pt'>
-  <td width=304  colspan=2 style='width:228.2pt;
-  height:15.75pt'>
-  <p ><span >Hyror, lokaler<o:p></o:p></span></p>
-  </td>
-  <td width=128  style='width:95.8pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=97  colspan=2 style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>4
-  680<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>7
-  685<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:26;height:15.75pt'>
-  <td width=304  colspan=2 style='width:228.2pt;
-  height:15.75pt'>
-  <p ><span >Hyror, garage<o:p></o:p></span></p>
-  </td>
-  <td width=128  style='width:95.8pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=97  colspan=2 style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>171 600<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>156 000<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:27;height:15.75pt'>
-  <td width=304  colspan=2 style='width:228.2pt;
-  height:15.75pt'>
-  <p ><span >Hyror,
-  p-platser<o:p></o:p></span></p>
-  </td>
-  <td width=128  style='width:95.8pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=97  colspan=2 style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>46 800<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>39 000<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:28;height:15.0pt'>
-  <td width=288  valign=bottom style='width:216.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=16  valign=bottom style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=128  valign=bottom style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=23  valign=bottom style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=97  colspan=2 valign=bottom style='width:72.85pt;border:none;
-  border-top:mso-border-top-alt:solid windowtext .5pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >7 776 981<o:p></o:p></span></p>
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;border:none;border-top:
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >7 596 076<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:29;height:15.0pt'>
-  <td width=288  style='width:216.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=16  style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=128  style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=97  colspan=2 style='width:72.85pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  
-  </td>
- </tr>
- <tr style='mso-yfti-irow:30;height:15.75pt'>
-  <td width=288  style='width:216.0pt;
-  height:15.75pt'>
-  <p ><b><span >Not 2<o:p></o:p></span></b></p>
-  </td>
-  <td width=167  colspan=3 style='width:125.15pt;
-  height:15.75pt'>
-  <p ><b><span >Hyres- och
-  avgiftsbortfall<o:p></o:p></span></b></p>
-  </td>
-  <td width=97  colspan=2 style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:31;height:15.75pt'>
-  <td width=455  colspan=4 style='width:341.15pt;
-  height:15.75pt'>
-  <p ><span >Hyres- och
-  avgiftsbortfall, bostäder<o:p></o:p></span></p>
-  </td>
-  <td width=97  colspan=2 style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >–<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >- 13 541<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:32;height:15.0pt'>
-  <td width=288  style='width:216.0pt;
-  height:15.0pt'>
-  <p ><span >Hyres- och
-  avgiftsbortfall, garage<o:p></o:p></span></p>
-  </td>
-  <td width=16  style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=128  style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=97  colspan=2 style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >- 2 980<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >-<span > 
-  </span>843<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:33;height:15.0pt'>
-  <td width=288  style='width:216.0pt;
-  height:15.0pt'>
-  <p ><span >Hyres- och
-  avgiftsbortfall, p-platser<o:p></o:p></span></p>
-  </td>
-  <td width=16  style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=128  style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=97  colspan=2 style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >- 4 260<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >- 2 800<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:34;height:15.0pt'>
-  <td width=288  valign=bottom style='width:216.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=16  valign=bottom style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=128  valign=bottom style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=23  valign=bottom style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=97  colspan=2 valign=bottom style='width:72.85pt;border:none;
-  border-top:mso-border-top-alt:solid windowtext .5pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >- 7 240<o:p></o:p></span></p>
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;border:none;border-top:
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >- 17 184<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:35;height:15.0pt'>
-  <td width=288  style='width:216.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=16  style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=128  style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=97  colspan=2 style='width:72.85pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  
-  </td>
- </tr>
- <tr style='mso-yfti-irow:36;height:15.75pt'>
-  <td width=288  style='width:216.0pt;
-  height:15.75pt'>
-  <p ><b><span >Not 3<o:p></o:p></span></b></p>
-  </td>
-  <td  colspan=3 style='
-  height:15.75pt'>
-  <p ><b><span >Övriga
-  förvaltningsintäkter<o:p></o:p></span></b></p>
-  </td>
-  <td width=97  colspan=2 style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:37;height:15.0pt'>
-  <td width=432  colspan=3 style='width:324.0pt;
-  height:15.0pt'>
-  <p ><span >Övriga ersättningar<o:p></o:p></span></p>
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=97  colspan=2 style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >–<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>1
-  100<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:38;height:15.0pt'>
-  <td width=455  colspan=4 style='width:341.15pt;
-  height:15.0pt'>
-  <p ><span >Övriga intäkter
-  från medlemmar<o:p></o:p></span></p>
-  </td>
-  <td width=97  colspan=2 style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>25 749<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>1
-  670<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:39;height:15.0pt'>
-  <td width=304  colspan=2 style='width:228.2pt;
-  height:15.0pt'>
-  <p ><span class=SpellE><span style='font-family:Arial;
-  '>Öresutjämning</span></span><span style='font-family:Arial;
-  '><o:p></o:p></span></p>
-  </td>
-  <td width=128  style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=97  colspan=2 style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > 
-  </span>210<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > 
-  </span>68<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:40;height:15.0pt'>
-  <td  colspan=4 style='
-  height:15.0pt'>
-  <p ><span >Vinst vid
-  avyttring av anläggningstillgångar<o:p></o:p></span></p>
-  </td>
-  <td width=97  colspan=2 style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >–<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>60 000<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:41;mso-yfti-lastrow:yes;height:15.0pt'>
-  <td width=288  valign=bottom style='width:216.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=16  valign=bottom style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=128  valign=bottom style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=23  valign=bottom style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=97  colspan=2 valign=bottom style='width:72.85pt;border:none;
-  border-top:mso-border-top-alt:solid windowtext .5pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>25 959<o:p></o:p></span></p>
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;border:none;border-top:
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>62 837<o:p></o:p></span></p>
-  </td>
- </tr>
- <![if !supportMisalignedColumns]>
- <tr height=0>
-  <td width=288 style='border:none'></td>
-  <td width=16 style='border:none'></td>
-  <td width=128 style='border:none'></td>
-  <td width=23 style='border:none'></td>
-  <td width=96 style='border:none'></td>
-  <td width=1 style='border:none'></td>
-  <td width=96 style='border:none'></td>
- </tr>
- <![endif]>
-</table>
-
-
-
-<table class="border1" width="100%"
->
- <tr style='mso-yfti-irow:0;height:15.0pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.0pt'><span style='font-size:12.0pt;font-family:"Times New Roman";
-  mso-fareast-font-family:"Times New Roman";mso-ansi-language:SV;mso-fareast-language:
-  SV;mso-bidi-language:AR-SA'><br clear=all style='mso-special-character:line-break;
-  page-break-before:always'>
-  </span>
-  <p ><span ><o:p></o:p></span></p>
-  </td>
-  <td width=16  colspan=2 style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=128  style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1;height:15.75pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.75pt'>
-  <p ><b><span >Not 4</p>
-  
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1;height:15.75pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.75pt'>
-  <p ><b><span >Not 4<o:p></o:p></span></b></p>
-  </td>
-  <td width=144  colspan=3 style='width:108.0pt;
-  height:15.75pt'>
-  <p ><b><span >Reparationer
-  <o:p></o:p></span></b></p>
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.75pt'>
-  <p  align=center style='text-align:center'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:2;height:15.0pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.0pt'>
-  <p ><span >Reparationer<o:p></o:p></span></p>
-  </td>
-  <td width=16  colspan=2 style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=128  style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>643 009<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >–<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:3;height:15.0pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.0pt'>
-  <p ><span >Nedlagda
-  underhållskostnader<o:p></o:p></span></p>
-  </td>
-  <td width=16  colspan=2 style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=128  style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>864 222<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>672 823<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:4;height:15.0pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.0pt'><a name="RANGE!F85"></a>
-  
-  </td>
-  <td width=16  colspan=2 style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=128  style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  valign=bottom style='width:72.85pt;border:none;
-  border-top:mso-border-top-alt:solid windowtext .5pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >1 507 231<o:p></o:p></span></p>
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;border:none;border-top:
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>672 823<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:5;height:15.75pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=16  colspan=2 style='width:12.2pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=128  style='width:95.8pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  
-  </td>
- </tr>
- <tr style='mso-yfti-irow:6;height:15.75pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.75pt'>
-  <p ><b><span style='font-family:Arial;
-  '>Not 5</span></b></a><b><span ><o:p></o:p></span></b></p>
-  </td>
-  <td width=144  colspan=3 style='width:108.0pt;
-  height:15.75pt'>
-  <p ><b><span >Driftskostnader<o:p></o:p></span></b></p>
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.75pt'>
-  <p  align=center style='text-align:center'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=97  valign=bottom style='width:72.85pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:7;height:15.0pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.0pt'>
-  <p ><span >Fastighetsförsäkring<o:p></o:p></span></p>
-  </td>
-  <td width=16  colspan=2 style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=128  style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>58 208<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>17 730<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:8;height:15.0pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.0pt'>
-  <p ><span >Arvode
-  förvaltning<o:p></o:p></span></p>
-  </td>
-  <td width=16  colspan=2 style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=128  style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>217 968<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>215 735<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:9;height:15.0pt'>
-  <td width=304  colspan=4 valign=bottom style='width:228.2pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.0pt'>
-  <p ><span >Kabel-TV<o:p></o:p></span></p>
-  </td>
-  <td width=128  style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>67 004<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>65 806<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:10;height:15.0pt'>
-  <td width=432  colspan=5 style='width:324.0pt;
-  height:15.0pt'>
-  <p ><span >Juridiska kostnader<o:p></o:p></span></p>
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>12 323<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>7
-  652<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:11;height:15.0pt'>
-  <td width=432  colspan=5 style='width:324.0pt;
-  height:15.0pt'>
-  <p ><span >Arvode
-  auktoriserad revisor<o:p></o:p></span></p>
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>15 000<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >–<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:12;height:15.0pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.0pt'>
-  <p ><span >Fastighetsskötsel<o:p></o:p></span></p>
-  </td>
-  <td width=16  colspan=2 style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=128  style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>207 105<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>197 203<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:13;height:15.0pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.0pt'>
-  <p ><span >Sotning<o:p></o:p></span></p>
-  </td>
-  <td width=16  colspan=2 style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=128  style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>122 983<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >–<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:14;height:15.0pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.0pt'>
-  <p ><span >Snöröjning<o:p></o:p></span></p>
-  </td>
-  <td width=16  colspan=2 style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=128  style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>38 051<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>6
-  059<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:15;height:15.0pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.0pt'>
-  <p ><span >Förbrukningsmateriel<o:p></o:p></span></p>
-  </td>
-  <td width=16  colspan=2 style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=128  style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>42 141<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>41 123<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:16;height:15.0pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.0pt'>
-  <p ><span >Övriga
-  kostnader reparation och underhåll<o:p></o:p></span></p>
-  </td>
-  <td width=16  colspan=2 style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=128  style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>4
-  289<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>1
-  657<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:17;height:15.0pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.0pt'>
-  <p ><span >Vatten<o:p></o:p></span></p>
-
-  </td>
-  <td width=16  colspan=2 style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=128  style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>211 061<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>190 473<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:18;height:15.0pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.0pt'>
-  <p ><span >El <o:p></o:p></span></p>
-  </td>
-  <td width=16  colspan=2 style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=128  style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>57 216<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>31 929<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:19;height:15.0pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.0pt'>
-  <p ><span >Uppvärmning<o:p></o:p></span></p>
-  </td>
-  <td width=16  colspan=2 style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=128  style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>987 446<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>787 991<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:20;height:15.0pt'>
-  <td width=304  colspan=4 style='width:228.2pt;
-  height:15.0pt'>
-  <p ><span >Sophantering<o:p></o:p></span></p>
-  </td>
-  <td width=128  style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>122 636<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>100 967<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:21;height:15.0pt'>
-  <td width=432  colspan=5 style='width:324.0pt;
-  height:15.0pt'>
-  <p ><span >Övrig
-  sophantering<o:p></o:p></span></p>
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>23 592<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>41 640<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:22;height:15.0pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=16  colspan=2 style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=128  style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  valign=bottom style='width:72.85pt;border:none;
-  border-top:mso-border-top-alt:solid windowtext .5pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >2 187 021<o:p></o:p></span></p>
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;border:none;border-top:
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >1 705 964<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:23;height:15.0pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=16  colspan=2 style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=128  style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  
-  </td>
- </tr>
- <tr style='mso-yfti-irow:24;height:15.75pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.75pt'>
-  <p ><b><span >Not 6<o:p></o:p></span></b></p>
-  </td>
-  <td width=144  colspan=3 style='width:108.0pt;
-  height:15.75pt'>
-  <p ><b><span >Övriga
-  kostnader<o:p></o:p></span></b></p>
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  
-  </td>
- </tr>
- <tr style='mso-yfti-irow:25;height:15.0pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.0pt'>
-  <p ><span >Övriga
-  administrativa kostnader<o:p></o:p></span></p>
-  </td>
-  <td width=16  colspan=2 style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=128  style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>32 947<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>58 555<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:26;height:15.0pt'>
-  <td width=304  colspan=4 style='width:228.2pt;
-  height:15.0pt'>
-  <p ><span >Telefon och
-  porto<o:p></o:p></span></p>
-  </td>
-  <td width=128  style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>4
-  448<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>5
-  690<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:27;height:15.0pt'>
-  <td width=455  colspan=5 style='width:341.15pt;
-  height:15.0pt'>
-  <p ><span >Medlems- och
-  föreningsavgifter<o:p></o:p></span></p>
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>3
-  483<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>3
-  483<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:28;height:15.0pt'>
-  <td width=304  colspan=4 style='width:228.2pt;
-  height:15.0pt'>
-  <p ><span >Köpta tjänster<o:p></o:p></span></p>
-  </td>
-  <td width=128  style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>19 719<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>18 256<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:29;height:15.0pt'>
-  <td width=264  valign=bottom style='width:198.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=40  colspan=3 valign=bottom style='width:30.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=128  valign=bottom style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=14  colspan=2 valign=bottom style='width:10.35pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.0pt'>
-  
-  </td>
-  <td width=97  valign=bottom style='width:72.85pt;border:none;
-  border-top:mso-border-top-alt:solid windowtext .5pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>60 597<o:p></o:p></span></p>
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;border:none;border-top:
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>85 984<o:p></o:p></span></p>
-  </td>
-
- </tr>
- <tr style='mso-yfti-irow:30;height:15.75pt'>
-  <td width=264  valign=bottom style='width:198.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=40  colspan=3 valign=bottom style='width:30.2pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=128  valign=bottom style='width:95.8pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=14  colspan=2 valign=bottom style='width:10.35pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.75pt'>
-  
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:31;height:15.75pt'>
-  <td width=264  style='width:198.0pt;
-  height:15.75pt'>
-  <p ><b><span >Not 7<o:p></o:p></span></b></p>
-  </td>
-  <td width=168  colspan=4 style='width:126.0pt;
-  height:15.75pt'>
-  <p ><b><span >Personalkostnader<o:p></o:p></span></b></p>
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.75pt'>
-  <p  align=center style='text-align:center'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:32;height:15.0pt'>
-  <td width=515  colspan=8 valign=bottom style='width:386.15pt;
-  height:15.0pt'>
-  <p ><b><span >Löner,
-  andra ersättningar och sociala kostnader<o:p></o:p></span></b></p>
-  </td>
-  <td width=12  valign=bottom style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
- </tr>
- <tr style='mso-yfti-irow:33;height:15.0pt'>
-  <td width=304  colspan=4 valign=bottom style='width:228.2pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.0pt'>
-  <p ><span >Styrelsearvode<o:p></o:p></span></p>
-  </td>
-  <td width=128  valign=bottom style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=49  valign=bottom style='width:36.85pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.0pt'>
-  
-  </td>
-  <td width=11  valign=bottom style='width:8.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=97  valign=bottom style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>42 500<o:p></o:p></span></p>
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>48 400<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:34;height:15.0pt'>
-  <td width=504  colspan=7 valign=bottom style='width:378.0pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.0pt'>
-  <p ><span >Övriga
-  ersättningar till förtroendevalda<o:p></o:p></span></p>
-  </td>
-  <td width=97  valign=bottom style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>16 373<o:p></o:p></span></p>
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>5
-  047<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:35;height:15.0pt'>
-  <td width=432  colspan=5 valign=bottom style='width:324.0pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.0pt'>
-  <p ><span >Arvode
-  trädgårdsskötsel <o:p></o:p></span></p>
-  </td>
-  <td width=49  valign=bottom style='width:36.85pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.0pt'>
-  
-  </td>
-  <td width=11  valign=bottom style='width:8.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=97  valign=bottom style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>25 200<o:p></o:p></span></p>
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >–<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:36;height:15.0pt'>
-  <td width=432  colspan=5 valign=bottom style='width:324.0pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.0pt'>
-  <p ><span class=SpellE><span style='font-family:Arial;
-  '>Föreningsvald</span></span><span style='font-family:Arial;
-  '> revisor<o:p></o:p></span></p>
-  </td>
-  <td width=49  valign=bottom style='width:36.85pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.0pt'>
-  
-  </td>
-  <td width=11  valign=bottom style='width:8.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=97  valign=bottom style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>1
-  000<o:p></o:p></span></p>
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>15 625<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:37;height:15.0pt'>
-  <td width=432  colspan=5 valign=bottom style='width:324.0pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.0pt'>
-  <p ><span >Arvode skötsel
-  kvartersgård<o:p></o:p></span></p>
-  </td>
-  <td width=49  valign=bottom style='width:36.85pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.0pt'>
-  
-  </td>
-  <td width=11  valign=bottom style='width:8.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=97  valign=bottom style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>1
-  900<o:p></o:p></span></p>
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >–<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:38;height:15.0pt'>
-  <td width=432  colspan=5 valign=bottom style='width:324.0pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.0pt'>
-  <p ><span >Utbildning,
-  förtroendevalda<o:p></o:p></span></p>
-  </td>
-  <td width=49  valign=bottom style='width:36.85pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.0pt'>
-  
-  </td>
-  <td width=11  valign=bottom style='width:8.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=97  valign=bottom style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>9
-  125<o:p></o:p></span></p>
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >–<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:39;height:15.0pt'>
-  <td width=304  colspan=4 valign=bottom style='width:228.2pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.0pt'>
-  <p ><span >Summa<o:p></o:p></span></p>
-  </td>
-  <td width=128  valign=bottom style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=49  valign=bottom style='width:36.85pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.0pt'>
-  
-  </td>
-  <td width=11  valign=bottom style='width:8.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=97  valign=bottom style='width:72.85pt;border:none;
-  border-top:mso-border-top-alt:solid windowtext .5pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>96 098<o:p></o:p></span></p>
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;border:none;border-top:
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>69 072<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:40;height:15.0pt'>
-  <td width=432  colspan=5 valign=bottom style='width:324.0pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.0pt'>
-  <p ><span >Sociala
-  kostnader<o:p></o:p></span></p>
-  </td>
-  <td width=49  valign=bottom style='width:36.85pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.0pt'>
-  
-  </td>
-  <td width=11  valign=bottom style='width:8.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=97  valign=bottom style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>20 589<o:p></o:p></span></p>
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>16 302<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:41;height:15.0pt'>
-  <td width=294  colspan=3 style='width:220.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=11  style='width:8.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=128  style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=49  valign=bottom style='width:36.85pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.0pt'>
-  
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;border:none;border-top:
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>116 687<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;border:none;border-top:
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>85 374<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:42;mso-yfti-lastrow:yes;height:15.75pt'>
-  <td width=294  colspan=3 style='width:220.2pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=11  style='width:8.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=128  style='width:95.8pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=49  style='width:36.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.75pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <![if !supportMisalignedColumns]>
- <tr height=0>
-  <td width=264 style='border:none'></td>
-  <td width=24 style='border:none'></td>
-  <td width=6 style='border:none'></td>
-  <td width=11 style='border:none'></td>
-  <td width=128 style='border:none'></td>
-  <td width=3 style='border:none'></td>
-  <td width=11 style='border:none'></td>
-  <td width=97 style='border:none'></td>
-  <td width=96 style='border:none'></td>
- </tr>
- <![endif]>
-</table>
-
-<span style='font-size:12.0pt;font-family:"Times New Roman";mso-fareast-font-family:
-"Times New Roman";mso-ansi-language:SV;mso-fareast-language:SV;mso-bidi-language:
-AR-SA'><br clear=all style='mso-special-character:line-break;page-break-before:
-always'>
-</span>
-
-<p ><o:p>&nbsp;</o:p></p>
-
-<table class="border1" width="100%"
->
- <tr style='mso-yfti-irow:0;height:15.75pt'>
-  <td width=294  colspan=3 style='width:220.2pt;
-  height:15.75pt'>
-  <p ><b><span >Not 8<o:p></o:p></span></b></p>
-  </td>
-  <td width=210  colspan=7 style='width:157.8pt;
-  height:15.75pt'>
-  <p ><b><span >Avskrivningar
-  av anläggningstillgångar<o:p></o:p></span></b></p>
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.75pt'>
-  <p  align=center style='text-align:center'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1;height:15.0pt'>
-  <td width=504  colspan=10 style='width:378.0pt;
-  height:15.0pt'>
-  <p ><span >Byggnader, <span
-  class=SpellE>byggn.inventarier</span>, <span class=SpellE>markanl</span>.<o:p></o:p></span></p>
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>303 340<o:p></o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>166 130<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:2;height:15.0pt'>
-  <td width=432  colspan=7 style='width:324.0pt;
-  height:15.0pt'>
-  <p ><span >Maskiner och
-  inventarier<o:p></o:p></span></p>
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=49  colspan=2 style='width:36.85pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>24 459<o:p></o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>8
-  573<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:3;height:15.75pt'>
-  <td width=288  colspan=2 valign=bottom style='width:216.0pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=16  colspan=2 valign=bottom style='width:12.2pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=128  colspan=3 valign=bottom style='width:95.8pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.75pt'>
-  
-  </td>
-  <td width=23  valign=bottom style='width:17.15pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=49  colspan=2 valign=bottom style='width:36.85pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.75pt'>
-  
-  </td>
-  <td width=11  valign=bottom style='width:8.15pt;
-  height:15.75pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  valign=bottom style='width:72.85pt;border:none;
-  border-top:mso-border-top-alt:solid windowtext .5pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>327 798<o:p></o:p></span></p>
-  </td>
-  <td width=12  valign=bottom style='width:9.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;border:none;border-top:
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>174 703<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:4;height:15.0pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=16  colspan=2 style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=128  colspan=3 style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=49  colspan=2 style='width:36.85pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  
-  </td>
- </tr>
- <tr style='mso-yfti-irow:5;height:15.75pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.75pt'>
-  <p ><b><span >Not 9<o:p></o:p></span></b></p>
-  </td>
-  <td width=144  colspan=5 style='width:108.0pt;
-  height:15.75pt'>
-  <p ><b><span >Ränteintäkter<o:p></o:p></span></b></p>
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=49  colspan=2 style='width:36.85pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.75pt'>
-  <p  align=center style='text-align:center'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:6;height:15.0pt'>
-  <td width=432  colspan=7 style='width:324.0pt;
-  height:15.0pt'>
-  <p ><span >Ränteintäkter
-  bank<o:p></o:p></span></p>
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=49  colspan=2 style='width:36.85pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >–<o:p></o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>126 225<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:7;height:15.0pt'>
-  <td width=455  colspan=8 style='width:341.15pt;
-  height:15.0pt'>
-  <p ><span >Ränteintäkter
-  avräkning med FSB<o:p></o:p></span></p>
-  </td>
-  <td width=49  colspan=2 style='width:36.85pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>9
-  363<o:p></o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>16 105<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:8;height:15.0pt'>
-  <td width=455  colspan=8 style='width:341.15pt;
-  height:15.0pt'>
-  <p ><span >Ränteintäkter
-  spec. utlån till RB<o:p></o:p></span></p>
-  </td>
-  <td width=49  colspan=2 style='width:36.85pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>147 337<o:p></o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>21 869<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:9;height:15.0pt'>
-  <td width=432  colspan=7 style='width:324.0pt;
-  height:15.0pt'>
-  <p ><span >Avgifts- och
-  hyresfordringar<o:p></o:p></span></p>
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=49  colspan=2 style='width:36.85pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >–<o:p></o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > 
-  </span>910<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:10;height:15.0pt'>
-  <td width=288  colspan=2 valign=bottom style='width:216.0pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.0pt'>
-  
-  </td>
-  <td width=16  colspan=2 valign=bottom style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=128  colspan=3 valign=bottom style='width:95.8pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.0pt'>
-  
-  </td>
-  <td width=23  valign=bottom style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=49  colspan=2 valign=bottom style='width:36.85pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.0pt'>
-  
-  </td>
-  <td width=11  valign=bottom style='width:8.15pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  valign=bottom style='width:72.85pt;border:none;
-  border-top:mso-border-top-alt:solid windowtext .5pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>156 700<o:p></o:p></span></p>
-  </td>
-  <td width=12  valign=bottom style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;border:none;border-top:
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>165 110<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:11;height:15.0pt'>
-  <td width=432  colspan=7 valign=bottom style='width:324.0pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.0pt'>
-  <p ><span >FSB =
-  Föreningssparbanken<o:p></o:p></span></p>
-  </td>
-  <td width=23  valign=bottom style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=49  colspan=2 valign=bottom style='width:36.85pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.0pt'>
-  
-  </td>
-  <td width=11  valign=bottom style='width:8.15pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  valign=bottom style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=12  valign=bottom style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:12;height:15.0pt'>
-  <td width=304  colspan=4 style='width:228.2pt;
-  height:15.0pt'>
-  <p ><span >RB = Riksbyggen<o:p></o:p></span></p>
-  </td>
-  <td width=128  colspan=3 style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=49  colspan=2 style='width:36.85pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  
-  </td>
- </tr>
- <tr style='mso-yfti-irow:13;height:15.0pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=16  colspan=2 style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=128  colspan=3 style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=49  colspan=2 style='width:36.85pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  
-  </td>
- </tr>
- <tr style='mso-yfti-irow:14;height:15.75pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.75pt'>
-  <p ><b><span >Not 10<o:p></o:p></span></b></p>
-  </td>
-  <td width=144  colspan=5 style='width:108.0pt;
-  height:15.75pt'>
-  <p ><b><span >Räntekostnader<o:p></o:p></span></b></p>
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=49  colspan=2 style='width:36.85pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.75pt'>
-  <p  align=center style='text-align:center'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:15;height:15.75pt'>
-  <td width=432  colspan=7 style='width:324.0pt;
-  height:15.75pt'>
-  <p ><span >Räntekostnader,
-  <span class=SpellE>fastighetslån</span><o:p></o:p></span></p>
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=49  colspan=2 style='width:36.85pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.75pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >5 170 158<o:p></o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >5 178 748<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:16;height:15.75pt'>
-  <td width=432  colspan=7 style='width:324.0pt;
-  height:15.75pt'>
-  <p ><span >Övriga
-  räntekostnader<o:p></o:p></span></p>
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=49  colspan=2 style='width:36.85pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.75pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>2
-  145<o:p></o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >–<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:17;height:15.75pt'>
-  <td width=432  colspan=7 style='width:324.0pt;
-  height:15.75pt'>
-  <p ><span >Övriga
-  finansiella kostnader<o:p></o:p></span></p>
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=49  colspan=2 style='width:36.85pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.75pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > 
-  </span>200<o:p></o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > 
-  </span>200<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:18;height:15.75pt'>
-  <td width=276  valign=bottom style='width:207.0pt;
-  height:15.75pt'><a name="RANGE!F230"></a><a name="RANGE!F177"></a><a
-  name="RANGE!F173"></a>
-  
-  </td>
-  <td width=28  colspan=3 valign=bottom style='width:21.2pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=128  colspan=3 valign=bottom style='width:95.8pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.75pt'>
-  
-  </td>
-  <td width=23  valign=bottom style='width:17.15pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=49  colspan=2 valign=bottom style='width:36.85pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.75pt'>
-  
-  </td>
-  <td width=11  valign=bottom style='width:8.15pt;
-  height:15.75pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  valign=bottom style='width:72.85pt;border:none;
-  border-top:mso-border-top-alt:solid windowtext .5pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >5 172 503<o:p></o:p></span></p>
-  </td>
-  <td width=12  valign=bottom style='width:9.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;border:none;border-top:
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >5 178 948<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:19;height:15.0pt'>
-  <td width=276  style='width:207.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=28  colspan=3 style='width:21.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=128  colspan=3 style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=49  colspan=2 style='width:36.85pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  
-  </td>
- </tr>
- <tr style='mso-yfti-irow:20;height:15.75pt'>
-  <td width=276  style='width:207.0pt;
-  height:15.75pt'>
-  <p ><b><span >Not 11<o:p></o:p></span></b></p>
-  </td>
-  <td width=179  colspan=7 style='width:134.15pt;
-  height:15.75pt'>
-  <p ><b><span >Byggnader
-  och mark<o:p></o:p></span></b></p>
-  </td>
-  <td width=49  colspan=2 style='width:36.85pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.75pt'>
-  <p  align=center style='text-align:center'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:21;height:15.75pt'>
-  <td width=504  colspan=10 style='width:378.0pt;
-  height:15.75pt'>
-  <p ><b><span >Ackumulerade
-  anskaffningsvärden<o:p></o:p></span></b></p>
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.75pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:22;height:15.75pt'>
-  <td width=304  colspan=4 style='width:228.2pt;
-  height:15.75pt'>
-  <p ><span style='font-size:10.0pt;
-  font-family:Arial;'><span >      
-  </span>Byggnader</span></a><span style='font-size:10.0pt;font-family:Arial;
-  '><o:p></o:p></span></p>
-  </td>
-  <td width=128  colspan=3 style='width:95.8pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=49  colspan=2 style='width:36.85pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.75pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >101 482 190<o:p></o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >101 482 190<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:23;height:15.75pt'>
-  <td width=304  colspan=4 style='width:228.2pt;
-  height:15.75pt'>
-  <p ><span style='font-size:10.0pt;font-family:Arial;
-  '><span >       </span>Mark<o:p></o:p></span></p>
-  </td>
-  <td width=128  colspan=3 style='width:95.8pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=49  colspan=2 style='width:36.85pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.75pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >6 377 800<o:p></o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >6 377 800<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:24;height:15.0pt'>
-  <td width=432  colspan=7 style='width:324.0pt;
-  height:15.0pt'>
-  <p ><span style='font-size:10.0pt;font-family:Arial;
-  '><span >       </span>Fastighetsförbättringar<o:p></o:p></span></p>
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=49  colspan=2 style='width:36.85pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >1 234 625<o:p></o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >–<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:25;height:15.0pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.0pt'>
-  <p ><span style='font-size:10.0pt;font-family:Arial;
-  '><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=16  colspan=2 style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=128  colspan=3 style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=49  colspan=2 style='width:36.85pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;border:none;border-top:
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >109 094 615<o:p></o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;border:none;border-top:
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >107 859 990<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:26;height:15.0pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.0pt'>
-  <p ><span style='font-size:10.0pt;font-family:Arial;
-  '><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=16  colspan=2 style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=128  colspan=3 style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=49  colspan=2 style='width:36.85pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:27;height:15.0pt'>
-  <td width=455  colspan=8 style='width:341.15pt;
-  height:15.0pt'>
-  <p ><b><span >Summa
-  ack. anskaffningsvärden<o:p></o:p></span></b></p>
-  </td>
-  <td width=49  colspan=2 style='width:36.85pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  valign=bottom style='width:72.85pt;border:none;
-  border-top:mso-border-top-alt:solid windowtext .5pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><b><span
-  >109 094 615<o:p></o:p></span></b></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;border:none;border-top:
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><b><span
-  >107 859 990<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:28;height:15.0pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=16  colspan=2 style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=128  colspan=3 style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=49  colspan=2 style='width:36.85pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  valign=bottom style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:29;height:15.0pt'>
-  <td width=504  colspan=10 style='width:378.0pt;
-  height:15.0pt'>
-  <p ><b><span >Ackumulerade
-  avskrivningar enligt plan<o:p></o:p></span></b></p>
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:30;height:15.0pt'>
-  <td width=304  colspan=4 style='width:228.2pt;
-  height:15.0pt'>
-  <p ><span style='font-size:10.0pt;font-family:Arial;
-  '><span >       </span>Byggnader<o:p></o:p></span></p>
-  </td>
-  <td width=128  colspan=3 style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=49  colspan=2 style='width:36.85pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >-10 297 859<o:p></o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >-10 117 982<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:31;height:15.0pt'>
-  <td width=432  colspan=7 style='width:324.0pt;
-  height:15.0pt'>
-  <p ><span style='font-size:10.0pt;font-family:Arial;
-  '><span >       </span>Fastighetsförbättringar<o:p></o:p></span></p>
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=49  colspan=2 style='width:36.85pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >- 123 463<o:p></o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >–<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:32;height:15.0pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.0pt'>
-  <p ><span style='font-size:10.0pt;font-family:Arial;
-  '><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=16  colspan=2 style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=128  colspan=3 style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=49  colspan=2 style='width:36.85pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;border:none;border-top:
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >-10 421 322<o:p></o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;border:none;border-top:
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >-10 117 982<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:33;height:15.0pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.0pt'>
-  <p ><span style='font-size:10.0pt;font-family:Arial;
-  '><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=16  colspan=2 style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=128  colspan=3 style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=49  colspan=2 style='width:36.85pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:34;height:15.0pt'>
-  <td width=455  colspan=8 style='width:341.15pt;
-  height:15.0pt'>
-  <p ><b><span >Summa
-  ack. <span class=SpellE>avskr</span>. enligt plan<o:p></o:p></span></b></p>
-  </td>
-  <td width=49  colspan=2 style='width:36.85pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  valign=bottom style='width:72.85pt;border:none;
-  border-top:mso-border-top-alt:solid windowtext .5pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><b><span
-  >-10 421 322<o:p></o:p></span></b></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;border:none;border-top:
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><b><span
-  >-10 117 982<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:35;height:15.0pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=16  colspan=2 style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=128  colspan=3 style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=49  colspan=2 style='width:36.85pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  valign=bottom style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:36;height:15.75pt'>
-  <td width=504  colspan=10 style='width:378.0pt;
-  height:15.75pt'>
-  <p ><span >Planenligt
-  restvärde byggnader vid årets slut<o:p></o:p></span></p>
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.75pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  valign=bottom style='width:72.85pt;border:none;
-  border-top:mso-border-top-alt:solid windowtext .5pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >92 295 494<o:p></o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;border:none;border-top:
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >91 364 208<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:37;height:15.75pt'>
-  <td width=504  colspan=10 style='width:378.0pt;
-  height:15.75pt'>
-  <p ><span >Planenligt
-  restvärde mark vid årets slut<o:p></o:p></span></p>
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >6 377 800<o:p></o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >6 377 800<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:38;height:15.75pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=16  colspan=2 style='width:12.2pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=128  colspan=3 style='width:95.8pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=49  colspan=2 style='width:36.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:39;height:15.75pt'>
-  <td width=504  colspan=10 style='width:378.0pt;
-  height:15.75pt'>
-  <p ><a name="RANGE!F322"></a><a name="RANGE!F317"></a><span
-  style='mso-bookmark:"RANGE\!F322"'><b><span style='font-family:Arial;
-  '>Planenligt restvärde vid årets slut</span></b></span><b><span
-  ><o:p></o:p></span></b></p>
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=97  valign=bottom style='width:72.85pt;border:none;
-  border-top:mso-border-top-alt:solid windowtext .5pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >98 673 294<o:p></o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;border:none;border-top:
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >97 742 008<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:40;height:15.75pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=16  colspan=2 style='width:12.2pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=128  colspan=3 style='width:95.8pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=49  colspan=2 style='width:36.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:41;height:15.0pt'>
-  <td width=432  colspan=7 style='width:324.0pt;
-  height:15.0pt'>
-  <p ><span >Taxeringsvärden,
-  byggnader<o:p></o:p></span></p>
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=49  colspan=2 style='width:36.85pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >57 120 000<o:p></o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >52 080 000<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:42;height:15.0pt'>
-  <td width=432  colspan=7 style='width:324.0pt;
-  height:15.0pt'>
-  <p ><span >Taxeringsvärden,
-  mark<o:p></o:p></span></p>
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=49  colspan=2 style='width:36.85pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;border:none;
-  
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >12 784 000<o:p></o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;border:none;
-  
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >11 656 000<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:43;height:15.75pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.75pt'><a name="RANGE!F329"></a>
-  
-  </td>
-  <td width=16  colspan=2 style='width:12.2pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=128  colspan=3 style='width:95.8pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=49  colspan=2 style='width:36.85pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.75pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >69 904 000<o:p></o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >63 736 000<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:44;height:15.75pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.75pt'>
-  <p ><b><span >Not 12<o:p></o:p></span></b></p>
-  </td>
-  <td width=324  colspan=10 style='width:243.0pt;
-  height:15.75pt'>
-  <p ><b><span >Maskiner,
-  inventarier, fastighetsinventarier<o:p></o:p></span></b></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:45;height:15.0pt'>
-  <td width=455  colspan=8 style='width:341.15pt;
-  height:15.0pt'>
-  <p ><span >Ackumulerade
-  anskaffningsvärden<o:p></o:p></span></p>
-  </td>
-  <td width=46  style='width:34.65pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:46;height:15.0pt'>
-  <td width=304  colspan=4 style='width:228.2pt;
-  height:15.0pt'>
-  <p ><span >Vid årets
-  början<o:p></o:p></span></p>
-  </td>
-  <td width=128  colspan=3 style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=46  style='width:34.65pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:47;height:15.0pt'>
-  <td width=304  colspan=4 style='width:228.2pt;
-  height:15.0pt'>
-  <p  style='text-indent:2.4pt;mso-char-indent-count:1.0'><span
-  style='font-size:10.0pt;font-family:Arial;'>Inventarier <o:p></o:p></span></p>
-  </td>
-  <td width=128  colspan=3 style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=46  style='width:34.65pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>187 403<o:p></o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>157 824<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:48;height:15.0pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.0pt'>
-  <p  style='text-indent:2.4pt;mso-char-indent-count:1.0'><span
-  style='font-size:10.0pt;font-family:Arial;'><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=16  colspan=2 style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=128  colspan=3 style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=46  style='width:34.65pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;border:none;border-top:
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>187 403<o:p></o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;border:none;border-top:
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>157 824<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:49;height:15.0pt'>
-  <td width=432  colspan=7 style='width:324.0pt;
-  height:15.0pt'>
-  <p ><span >Årets
-  nyanskaffningar<o:p></o:p></span></p>
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=46  style='width:34.65pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:50;height:15.0pt'>
-  <td width=304  colspan=4 style='width:228.2pt;
-  height:15.0pt'>
-  <p  style='text-indent:2.4pt;mso-char-indent-count:1.0'><span
-  style='font-size:10.0pt;font-family:Arial;'>Inventarier <o:p></o:p></span></p>
-  </td>
-  <td width=128  colspan=3 style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=46  style='width:34.65pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>79 425<o:p></o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>29 579<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:51;height:15.0pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=16  colspan=2 style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=128  colspan=3 style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=46  style='width:34.65pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  valign=bottom style='width:72.85pt;border:none;
-  border-top:mso-border-top-alt:solid windowtext .5pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>266 828<o:p></o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;border:none;border-top:
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>187 403<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:52;height:15.0pt'>
-  <td width=501  colspan=9 style='width:375.8pt;
-  height:15.0pt'>
-  <p ><span >Ackumulerade
-  avskrivningar enligt plan<o:p></o:p></span></p>
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:53;height:15.0pt'>
-  <td width=304  colspan=4 style='width:228.2pt;
-  height:15.0pt'>
-  <p ><span >Vid årets
-  början<o:p></o:p></span></p>
-  </td>
-  <td width=128  colspan=3 style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=46  style='width:34.65pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:54;height:15.0pt'>
-  <td width=304  colspan=4 style='width:228.2pt;
-  height:15.0pt'>
-  <p  style='text-indent:2.4pt;mso-char-indent-count:1.0'><span
-  style='font-size:10.0pt;font-family:Arial;'>Inventarier <o:p></o:p></span></p>
-  </td>
-  <td width=128  colspan=3 style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=46  style='width:34.65pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>158 424<o:p></o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>149 851<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:55;height:15.0pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.0pt'>
-  <p  style='text-indent:2.4pt;mso-char-indent-count:1.0'><span
-  style='font-size:10.0pt;font-family:Arial;'><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=16  colspan=2 style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=128  colspan=3 style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=46  style='width:34.65pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;border:none;border-top:
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>158 424<o:p></o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;border:none;border-top:
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>149 851<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:56;height:15.0pt'>
-  <td width=432  colspan=7 style='width:324.0pt;
-  height:15.0pt'>
-  <p ><span >Årets
-  avskrivningar<o:p></o:p></span></p>
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=46  style='width:34.65pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:57;height:15.0pt'>
-  <td width=304  colspan=4 style='width:228.2pt;
-  height:15.0pt'>
-  <p  style='text-indent:2.4pt;mso-char-indent-count:1.0'><span
-  style='font-size:10.0pt;font-family:Arial;'>Inventarier <o:p></o:p></span></p>
-  </td>
-  <td width=128  colspan=3 style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=46  style='width:34.65pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>24 459<o:p></o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>8
-  573<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:58;height:15.0pt'>
-  <td width=455  colspan=8 style='width:341.15pt;
-  height:15.0pt'>
-  <p ><b><span >Summa
-  ack. <span class=SpellE>avskr</span>. enligt plan <o:p></o:p></span></b></p>
-  </td>
-  <td width=46  style='width:34.65pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  valign=bottom style='width:72.85pt;border:none;
-  border-top:mso-border-top-alt:solid windowtext .5pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>182 883<o:p></o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;border:none;border-top:
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>158 424<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:59;height:15.75pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=16  colspan=2 style='width:12.2pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=128  colspan=3 style='width:95.8pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=46  style='width:34.65pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.75pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  valign=bottom style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:60;height:15.75pt'>
-  <td width=501  colspan=9 style='width:375.8pt;
-  height:15.75pt'>
-  <p ><b><span >Planenligt
-  restvärde vid årets slut<o:p></o:p></span></b></p>
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.75pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  valign=bottom style='width:72.85pt;border:none;
-  border-top:mso-border-top-alt:solid windowtext .5pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>83 945<o:p></o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;border:none;border-top:
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>28 978<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:61;height:15.0pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.0pt'>
-  <p  style='text-indent:7.8pt;mso-char-indent-count:1.0'><b><span
-  style='font-size:10.0pt;font-family:Arial;'><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=16  colspan=2 valign=bottom style='width:12.2pt;
-  height:15.0pt'>
-  <p ><span style='font-size:10.0pt;font-family:Arial;
-  '><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=128  colspan=3 valign=bottom style='width:95.8pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.0pt'>
-  <p ><span style='font-size:10.0pt;font-family:Arial;
-  '><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=23  valign=bottom style='width:17.15pt;
-  height:15.0pt'>
-  <p ><span style='font-size:10.0pt;font-family:Arial;
-  '><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=46  valign=bottom style='width:34.65pt;
-  height:15.0pt'>
-  <p ><span style='font-size:10.0pt;font-family:Arial;
-  '><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=14  colspan=2 valign=bottom style='width:10.35pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.0pt'>
-  <p ><span style='font-size:10.0pt;font-family:Arial;
-  '><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  valign=bottom style='width:72.85pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=12  valign=bottom style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;
-  height:15.0pt'>
-  
-  </td>
- </tr>
- <tr style='mso-yfti-irow:62;height:15.75pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=16  colspan=2 style='width:12.2pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=128  colspan=3 style='width:95.8pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=46  style='width:34.65pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.75pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:63;height:15.75pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.75pt'>
-  <p ><b><span >Not 13<o:p></o:p></span></b></p>
-  </td>
-  <td width=167  colspan=6 style='width:125.15pt;
-  height:15.75pt'>
-  <p ><b><span >Långfristiga
-  fordringar<o:p></o:p></span></b></p>
-  </td>
-  <td width=46  style='width:34.65pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.75pt'>
-  <p  align=center style='text-align:center'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:64;height:15.0pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.0pt'>
-  <p ><span >Andelar i
-  Riksbyggen<o:p></o:p></span></p>
-  </td>
-  <td width=16  colspan=2 style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=128  colspan=3 style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=46  style='width:34.65pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>129 000<o:p></o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>129 000<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:65;height:15.0pt'>
-  <td width=288  colspan=2 valign=bottom style='width:216.0pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.0pt'>
-  
-  </td>
-  <td width=16  colspan=2 valign=bottom style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=128  colspan=3 valign=bottom style='width:95.8pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.0pt'>
-  
-  </td>
-  <td width=23  valign=bottom style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=46  valign=bottom style='width:34.65pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=14  colspan=2 valign=bottom style='width:10.35pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  valign=bottom style='width:72.85pt;border:none;
-  border-top:mso-border-top-alt:solid windowtext .5pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>129 000<o:p></o:p></span></p>
-  </td>
-  <td width=12  valign=bottom style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;border:none;border-top:
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>129 000<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:66;height:15.75pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=16  colspan=2 style='width:12.2pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=128  colspan=3 style='width:95.8pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=23  style='width:17.15pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=46  style='width:34.65pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=14  colspan=2 style='width:10.35pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:67;height:15.75pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.75pt'>
-  <p ><b><span >Not 14<o:p></o:p></span></b></p>
-  </td>
-  <td width=324  colspan=10 style='width:243.0pt;
-  height:15.75pt'>
-  <p ><b><span >Förutbetalda
-  <span class=SpellE>kostn</span>. och upplupna intäkter<o:p></o:p></span></b></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:68;height:15.75pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.75pt'>
-  <p ><span >Ränteintäkter<o:p></o:p></span></p>
-  </td>
-  <td width=16  colspan=2 style='width:12.2pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=104  style='width:77.8pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=84  colspan=4 style='width:63.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>5
-  989<o:p></o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>3
-  775<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:69;height:15.75pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.75pt'>
-  <p ><span >Fastighetsförsäkring<o:p></o:p></span></p>
-  </td>
-  <td width=16  colspan=2 style='width:12.2pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=104  style='width:77.8pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=84  colspan=4 style='width:63.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>20 144<o:p></o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >–<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:70;height:15.0pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.0pt'>
-  <p ><span >Fastighetsskatt<o:p></o:p></span></p>
-  </td>
-  <td width=16  colspan=2 style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=104  style='width:77.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=84  colspan=4 style='width:63.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>885 171<o:p></o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >–<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:71;height:15.0pt'>
-  <td width=288  colspan=2 valign=bottom style='width:216.0pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.0pt'>
-  <p ><span >Övrigt<o:p></o:p></span></p>
-  </td>
-  <td width=16  colspan=2 style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=104  style='width:77.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=84  colspan=4 style='width:63.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>19 065<o:p></o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>27 531<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:72;height:15.0pt'>
-  <td width=288  colspan=2 valign=bottom style='width:216.0pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.0pt'>
-  
-  </td>
-  <td width=16  colspan=2 valign=bottom style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=104  valign=bottom style='width:77.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=12  valign=bottom style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=84  colspan=4 valign=bottom style='width:63.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=11  valign=bottom style='width:8.15pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  valign=bottom style='width:72.85pt;border:none;
-  border-top:mso-border-top-alt:solid windowtext .5pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>930 369<o:p></o:p></span></p>
-  </td>
-  <td width=12  valign=bottom style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;border:none;border-top:
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>31 306<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:73;height:15.75pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=16  colspan=2 style='width:12.2pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=104  style='width:77.8pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=84  colspan=4 style='width:63.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:74;height:15.75pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.75pt'>
-  <p ><b><span >Not 15<o:p></o:p></span></b></p>
-  </td>
-  <td width=120  colspan=3 style='width:90.0pt;
-  height:15.75pt'>
-  <p ><b><span >Kassa och
-  bank<o:p></o:p></span></b></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=84  colspan=4 style='width:63.0pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.75pt'>
-  <p  align=center style='text-align:center'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:75;height:15.0pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.0pt'>
-  <p ><span >Handkassa<o:p></o:p></span></p>
-  </td>
-  <td width=16  colspan=2 style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=104  style='width:77.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=84  colspan=4 style='width:63.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>5
-  000<o:p></o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>8
-  000<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:76;height:15.0pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.0pt'>
-  <p ><span >Avräkning med
-  FSB<o:p></o:p></span></p>
-  </td>
-  <td width=16  colspan=2 style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=104  style='width:77.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=84  colspan=4 style='width:63.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>647 104<o:p></o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >2 028 493<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:77;height:15.0pt'>
-  <td width=288  colspan=2 style='width:216.0pt;
-  height:15.0pt'>
-  <p ><span >Bankmedel<o:p></o:p></span></p>
-  </td>
-  <td width=16  colspan=2 style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=104  style='width:77.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=84  colspan=4 style='width:63.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=11  style='width:8.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >2 286 870<o:p></o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >3 673 156<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:78;mso-yfti-lastrow:yes;height:15.0pt'>
-  <td width=288  colspan=2 valign=bottom style='width:216.0pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.0pt'>
-  
-  </td>
-  <td width=16  colspan=2 valign=bottom style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=104  valign=bottom style='width:77.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=12  valign=bottom style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=84  colspan=4 valign=bottom style='width:63.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=11  valign=bottom style='width:8.15pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  valign=bottom style='width:72.85pt;border:none;
-  border-top:mso-border-top-alt:solid windowtext .5pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >2 938 974<o:p></o:p></span></p>
-  </td>
-  <td width=12  valign=bottom style='width:9.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;border:none;border-top:
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >5 709 649<o:p></o:p></span></p>
-  </td>
- </tr>
- <![if !supportMisalignedColumns]>
- <tr height=0>
-  <td width=276 style='border:none'></td>
-  <td width=12 style='border:none'></td>
-  <td width=6 style='border:none'></td>
-  <td width=11 style='border:none'></td>
-  <td width=104 style='border:none'></td>
-  <td width=12 style='border:none'></td>
-  <td width=12 style='border:none'></td>
-  <td width=23 style='border:none'></td>
-  <td width=46 style='border:none'></td>
-  <td width=3 style='border:none'></td>
-  <td width=11 style='border:none'></td>
-  <td width=97 style='border:none'></td>
-  <td width=12 style='border:none'></td>
-  <td width=96 style='border:none'></td>
- </tr>
- <![endif]>
-</table>
-
-<span style='font-size:12.0pt;font-family:"Times New Roman";mso-fareast-font-family:
-"Times New Roman";mso-ansi-language:SV;mso-fareast-language:SV;mso-bidi-language:
-AR-SA'><br clear=all style='mso-special-character:line-break;page-break-before:
-always'>
-</span>
-
-<p ><o:p>&nbsp;</o:p></p>
-
-<table class="border1" width="100%"
->
- <tr style='mso-yfti-irow:0;height:15.75pt'>
-  <td width=180  valign=bottom style='width:135.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=124  colspan=5 style='width:93.2pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=92  style='width:68.8pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=96  colspan=4 style='width:72.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1;height:15.75pt'>
-  <td width=180  style='width:135.0pt;border:none;
-  
-  height:15.75pt'>
-  <p ><b><span >Not 16<o:p></o:p></span></b></p>
-  </td>
-  <td width=216  colspan=6 style='width:162.0pt;border:none;
-  
-  height:15.75pt'>
-  <p ><b><span >Eget kapital<o:p></o:p></span></b></p>
-  </td>
-  <td width=12  style='width:9.0pt;border:none;
-  
-  height:15.75pt'>
-  <p ><span >&nbsp;<o:p></o:p></span></p>
-  </td>
-  <td width=96  colspan=4 style='width:72.0pt;border:none;
-  
-  height:15.75pt'>
-  <p ><span >&nbsp;<o:p></o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;border:none;
-  
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >&nbsp;<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;border:none;
-  
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >&nbsp;<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:2;height:15.0pt'>
-  <td width=180  style='width:135.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=124  colspan=5 style='width:93.2pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=92  style='width:68.8pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=96 colspan=4 rowspan=2 valign=bottom style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >Insatser och uppl. avgift<o:p></o:p></span></p>
-  </td>
-  <td width=97 rowspan=2 valign=top style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span class=SpellE><span
-  >Disp.fond</span></span><span
-  ><o:p></o:p></span></p>
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >Resultat<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:3;height:15.0pt'>
-  <td width=180  valign=top style='width:135.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=124  colspan=5 valign=top style='width:93.2pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=92  valign=top style='width:68.8pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=12  valign=top style='width:9.0pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=96  valign=top style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:4;height:15.75pt'>
-  <td width=304  colspan=6 style='width:228.2pt;
-  height:15.75pt'>
-  <p ><b><span >Vid årets
-  början<o:p></o:p></span></b></p>
-  </td>
-  <td width=92  style='width:68.8pt;
-  height:15.75pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.75pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=96  colspan=4 valign=bottom style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >5 777 560<o:p></o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >–<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >5 849 202<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:5;height:15.0pt'>
-  <td width=396  colspan=7 style='width:297.0pt;
-  height:15.0pt'>
-  <p ><span >Disposition <span
-  class=SpellE>enl</span> stämmobeslut<o:p></o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.0pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=96  colspan=4 style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >–<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >-2 500 000<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:6;height:15.75pt'>
-  <td width=396  colspan=7 style='width:297.0pt;
-  height:15.75pt'>
-  <p ><a name="RANGE!F486"></a><a name="RANGE!F438"></a><span
-  style='mso-bookmark:"RANGE\!F486"'><span >Övriga
-  avsättningar <span class=SpellE>fg</span> år</span></span><span
-  ><o:p></o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.75pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=96  colspan=4 style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><a name="RANGE!N486"><span
-  >–</span></a><span style='font-family:
-  Arial;'><o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:7;height:15.75pt'>
-  <td width=304  colspan=6 style='width:228.2pt;
-  height:15.75pt'>
-  <p ><span >Årets resultat<o:p></o:p></span></p>
-  </td>
-  <td width=92  style='width:68.8pt;
-  height:15.75pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.75pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=96  colspan=4 style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >–<o:p></o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>98 027<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:8;height:15.75pt'>
-  <td width=304  colspan=6 style='width:228.2pt;
-  height:15.75pt'>
-  <p ><b><span >Vid årets
-  slut<o:p></o:p></span></b></p>
-  </td>
-  <td width=92  style='width:68.8pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=96  colspan=4 style='width:72.0pt;border:none;border-top:
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >5 777 560<o:p></o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;border:none;border-top:
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >–<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;border:none;border-top:
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >3 447 229<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:9;height:15.75pt'>
-  <td width=180  style='width:135.0pt;
-  height:15.75pt'><a name="RANGE!F489"></a>
-  
-  </td>
-  <td width=124  colspan=5 style='width:93.2pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=92  style='width:68.8pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=96  colspan=4 style='width:72.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:10;height:15.75pt'>
-  <td width=180  style='width:135.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=124  colspan=5 style='width:93.2pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=92  style='width:68.8pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=12  style='width:9.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=96  colspan=4 style='width:72.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:11;height:15.75pt'>
-  <td width=180  style='width:135.0pt;
-  height:15.75pt'>
-  <p ><b><span >Not 17<o:p></o:p></span></b></p>
-  </td>
-  <td width=324  colspan=11 style='width:243.0pt;
-  height:15.75pt'>
-  <p ><b><span >Föreningens
-  underhållsfond<o:p></o:p></span></b></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:12;height:15.0pt'>
-  <td width=180  style='width:135.0pt;
-  height:15.0pt'>
-  <p ><span >Behållning vid
-  årets början<o:p></o:p></span></p>
-  </td>
-  <td width=124  colspan=5 style='width:93.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=68  style='width:50.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=108  colspan=5 style='width:81.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>4
-  749<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>362 572<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:13;height:15.0pt'>
-  <td width=180  style='width:135.0pt;
-  height:15.0pt'>
-  <p ><span >Avsättning
-  enligt plan<o:p></o:p></span></p>
-  </td>
-  <td width=124  colspan=5 style='width:93.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=68  style='width:50.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=108  colspan=5 style='width:81.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>315 000<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>315 000<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:14;height:15.0pt'>
-  <td width=180  style='width:135.0pt;
-  height:15.0pt'>
-  <p ><span >Extra
-  avsättning <span class=SpellE>enl</span> stämmobeslut<o:p></o:p></span></p>
-  </td>
-  <td width=124  colspan=5 style='width:93.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=68  style='width:50.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=108  colspan=5 style='width:81.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >2 500 000<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >–<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:15;height:15.0pt'>
-  <td width=180  style='width:135.0pt;
-  height:15.0pt'>
-  <p ><span >Uttag ur fond<o:p></o:p></span></p>
-  </td>
-  <td width=124  colspan=5 style='width:93.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=68  style='width:50.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=108  colspan=5 style='width:81.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >- 864 222<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>672 823<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:16;height:15.75pt'>
-  <td width=372  colspan=7 style='width:279.0pt;
-  height:15.75pt'>
-  <p ><b><span >Behållning
-  vid årets slut<o:p></o:p></span></b></p>
-  </td>
-  <td width=108  colspan=5 valign=bottom style='width:81.0pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.75pt'>
-  
-  </td>
-  <td width=97  valign=bottom style='width:72.85pt;border:none;
-  border-top:mso-border-top-alt:solid windowtext .5pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >1 955 527<o:p></o:p></span></p>
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;border:none;border-top:
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>4
-  749<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:17;height:15.75pt'>
-  <td width=180  style='width:135.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=124  colspan=5 style='width:93.2pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=68  style='width:50.8pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=108  colspan=5 style='width:81.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:18;height:15.75pt'>
-  <td width=180  style='width:135.0pt;
-  height:15.75pt'>
-  <p ><b><span >Not 18<o:p></o:p></span></b></p>
-  </td>
-  <td width=192  colspan=6 style='width:144.0pt;
-  height:15.75pt'>
-  <p ><span class=SpellE><b><span style='font-family:Arial;
-  '>Fastighetslån</span></b></span><b><span style='font-family:Arial;
-  '>, långa<o:p></o:p></span></b></p>
-  </td>
-  <td width=108  colspan=5 style='width:81.0pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:19;height:15.75pt'>
-  <td width=304  colspan=6 style='width:228.2pt;
-  height:15.75pt'>
-  <p ><span class=SpellE><span style='font-family:Arial;
-  '>Fastighetslån</span></span><span style='font-family:Arial;
-  '><o:p></o:p></span></p>
-  </td>
-  <td width=68  style='width:50.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=108  colspan=5 style='width:81.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >90 629 141<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >90 809 018<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:20;height:15.75pt'>
-  <td width=372  colspan=7 style='width:279.0pt;
-  height:15.75pt'>
-  <p ><b><span >Skuld vid
-  årets slut<o:p></o:p></span></b></p>
-  </td>
-  <td width=108  colspan=5 style='width:81.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  valign=bottom style='width:72.85pt;border:none;
-  border-top:mso-border-top-alt:solid windowtext .5pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >90 629 141<o:p></o:p></span></p>
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;border:none;border-top:
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >90 809 018<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:21;height:15.75pt'>
-  <td width=288  colspan=4 style='width:216.0pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=11  style='width:8.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=73  colspan=2 style='width:55.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=108  colspan=5 style='width:81.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  valign=bottom style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:22;height:15.75pt'>
-  <td width=276  colspan=3 style='width:207.0pt;border:none;
-  
-  height:15.75pt'>
-  <p ><b><span >Kreditgivare<o:p></o:p></span></b></p>
-  </td>
-  <td width=96  colspan=4 style='width:72.0pt;border:none;
-  
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  >Ränta<o:p></o:p></span></b></p>
-  </td>
-  <td width=108  colspan=5 valign=bottom style='width:81.0pt;border:none;
-  
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span class=SpellE><b><span
-  >Konv</span></b></span><b><span
-  >. Datum<o:p></o:p></span></b></p>
-  </td>
-  <td width=97  style='width:72.85pt;border:none;
-  
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  >Amortering<o:p></o:p></span></b></p>
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;border:none;
-  
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  >Utg. Skuld<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:23;height:15.75pt'>
-  <td width=252  colspan=2 style='width:189.0pt;
-  height:15.75pt'>
-  <p ><b><span >SBAB<o:p></o:p></span></b></p>
-  </td>
-  <td width=24  style='width:18.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=96  colspan=4 style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >5,<span class=GramE>35%</span><o:p></o:p></span></p>
-  </td>
-  <td width=108  colspan=5 valign=bottom style='width:81.0pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >2002-09-18<o:p></o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >2 910<o:p></o:p></span></p>
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >1 433 699<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:24;height:15.75pt'>
-  <td width=252  colspan=2 style='width:189.0pt;
-  height:15.75pt'>
-  <p ><b><span >SBAB<o:p></o:p></span></b></p>
-  </td>
-  <td width=24  style='width:18.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=96  colspan=4 style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >5,<span class=GramE>35%</span><o:p></o:p></span></p>
-  </td>
-  <td width=108  colspan=5 valign=bottom style='width:81.0pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >2002-09-18<o:p></o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >18 559<o:p></o:p></span></p>
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >9 209 109<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:25;height:15.75pt'>
-  <td width=252  colspan=2 style='width:189.0pt;
-  height:15.75pt'>
-  <p ><b><span >SBAB<o:p></o:p></span></b></p>
-  </td>
-  <td width=24  style='width:18.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=96  colspan=4 style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >5,<span class=GramE>35%</span><o:p></o:p></span></p>
-  </td>
-  <td width=108  colspan=5 valign=bottom style='width:81.0pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-
-  >2002-09-18<o:p></o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >2 558<o:p></o:p></span></p>
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >1 256 351<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:26;height:15.75pt'>
-  <td width=252  colspan=2 style='width:189.0pt;
-  height:15.75pt'>
-  <p ><b><span >SBAB<o:p></o:p></span></b></p>
-  </td>
-  <td width=24  style='width:18.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=96  colspan=4 style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >5,<span class=GramE>35%</span><o:p></o:p></span></p>
-  </td>
-  <td width=108  colspan=5 valign=bottom style='width:81.0pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >2002-09-18<o:p></o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >25 033<o:p></o:p></span></p>
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >12 427 549<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:27;height:15.75pt'>
-  <td width=252  colspan=2 style='width:189.0pt;
-  height:15.75pt'>
-  <p ><b><span >SBAB<o:p></o:p></span></b></p>
-  </td>
-  <td width=24  style='width:18.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=96  colspan=4 style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >5,75%<o:p></o:p></span></p>
-  </td>
-  <td width=108  colspan=5 valign=bottom style='width:81.0pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >2005-08-22<o:p></o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >66 867<o:p></o:p></span></p>
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >33 216 670<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:28;height:15.75pt'>
-  <td width=252  colspan=2 style='width:189.0pt;border:none;
-  
-  height:15.75pt'>
-  <p ><b><span >SBAB<o:p></o:p></span></b></p>
-  </td>
-  <td width=24  style='width:18.0pt;border:none;
-  
-  height:15.75pt'>
-  <p ><span >&nbsp;<o:p></o:p></span></p>
-  </td>
-  <td width=96  colspan=4 style='width:72.0pt;border:none;
-  
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >5,<span class=GramE>90%</span><o:p></o:p></span></p>
-  </td>
-  <td width=108  colspan=5 valign=bottom style='width:81.0pt;border:none;
-  
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >2008-03-03<o:p></o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;border:none;
-  
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >63 950<o:p></o:p></span></p>
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;border:none;
-  
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  >33 085 763<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:29;height:15.75pt'>
-  <td width=252  colspan=2 style='width:189.0pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=24  style='width:18.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=96  colspan=4 style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=108  colspan=5 valign=bottom style='width:81.0pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  >179 877<o:p></o:p></span></b></p>
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  >90 629 141<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:30;height:15.75pt'>
-  <td width=252  colspan=2 style='width:189.0pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=24  style='width:18.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=96  colspan=4 style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=108  colspan=5 style='width:81.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  valign=bottom style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:31;height:15.0pt'>
-  <td width=252  colspan=2 style='width:189.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=24  style='width:18.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=96  colspan=4 style='width:72.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=108  colspan=5 style='width:81.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:32;height:15.75pt'>
-  <td width=252  colspan=2 style='width:189.0pt;
-  height:15.75pt'>
-  <p ><b><span >Not 19<o:p></o:p></span></b></p>
-  </td>
-  <td width=144  colspan=5 style='width:108.0pt;
-  height:15.75pt'>
-  <p ><b><span >Övriga
-  skulder, korta<o:p></o:p></span></b></p>
-  </td>
-  <td width=108  colspan=5 style='width:81.0pt;
-  height:15.75pt'>
-  <p ><b><span ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=center style='text-align:center'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:33;height:15.0pt'>
-  <td width=432  colspan=9 style='width:324.0pt;
-  height:15.0pt'>
-  <p ><span >Övriga skulder
-  till kunder, korta<o:p></o:p></span></p>
-  </td>
-  <td width=11  valign=bottom style='width:8.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=61  colspan=2 style='width:46.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>5
-  575<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>5
-  575<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:34;height:15.0pt'>
-  <td width=432  colspan=9 style='width:324.0pt;
-  height:15.0pt'>
-  <p ><span >Upplupna
-  sociala avg. och skatter<o:p></o:p></span></p>
-  </td>
-  <td width=11  valign=bottom style='width:8.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=61  colspan=2 style='width:46.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>1
-  194<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >–<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:35;height:15.75pt'>
-  <td width=288  colspan=4 style='width:216.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=16  colspan=2 style='width:12.2pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=128  colspan=3 style='width:95.8pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=11  valign=bottom style='width:8.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=61  colspan=2 style='width:46.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=97  valign=bottom style='width:72.85pt;border:none;
-  border-top:mso-border-top-alt:solid windowtext .5pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>6
-  769<o:p></o:p></span></p>
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;border:none;border-top:
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><span
-  ><span > </span>5
-  575<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:36;height:15.75pt'>
-  <td width=288  colspan=4 style='width:216.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=16  colspan=2 style='width:12.2pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=128  colspan=3 style='width:95.8pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=11  style='width:8.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=61  colspan=2 style='width:46.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:37;height:15.75pt'>
-  <td width=288  colspan=4 style='width:216.0pt;
-  height:15.75pt'>
-  <p ><b><span >Not 20<o:p></o:p></span></b></p>
-  </td>
-  <td width=324  colspan=9 style='width:243.0pt;
-  height:15.75pt'>
-  <p ><b><span >Upplupna <span
-  class=SpellE>kostn</span>. och förutbetalda intäkter<o:p></o:p></span></b></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:38;height:15.0pt'>
-  <td width=455  colspan=11 style='width:341.15pt;
-  height:15.0pt'>
-  <p ><span >Upplupna löner
-  och sociala avgifter<o:p></o:p></span></p>
-  </td>
-  <td width=46  style='width:34.65pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>19 965<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >–<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:39;height:15.0pt'>
-  <td width=304  colspan=6 style='width:228.2pt;
-  height:15.0pt'>
-  <p ><span >Räntekostnader<o:p></o:p></span></p>
-  </td>
-  <td width=128  colspan=3 style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=23  colspan=2 style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=46  style='width:34.65pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>524 284<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>525 327<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:40;height:15.0pt'>
-  <td width=501  colspan=12 style='width:375.8pt;
-  height:15.0pt'>
-  <p ><span >Upplupna drift-
-  och underhållskostnader<o:p></o:p></span></p>
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>73 918<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>80 327<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:41;height:15.0pt'>
-  <td width=288  colspan=4 style='width:216.0pt;
-  height:15.0pt'>
-  <p ><span >Övrigt<o:p></o:p></span></p>
-  </td>
-  <td width=16  colspan=2 style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=128  colspan=3 style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=23  colspan=2 style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=46  style='width:34.65pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>16 000<o:p></o:p></span></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  >–<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:42;height:15.0pt'>
-  <td width=288  colspan=4 style='width:216.0pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=16  colspan=2 style='width:12.2pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=128  colspan=3 style='width:95.8pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=23  colspan=2 style='width:17.15pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=46  style='width:34.65pt;
-  height:15.0pt'>
-  
-  </td>
-  <td width=97  valign=bottom style='width:72.85pt;border:none;
-  border-top:mso-border-top-alt:solid windowtext .5pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>634 167<o:p></o:p></span></p>
-  </td>
-  <td width=96  valign=bottom style='width:72.0pt;border:none;border-top:
-  mso-border-top-alt:solid windowtext .5pt;
-  height:15.0pt'>
-  <p  align=right style='text-align:right'><span
-  ><span
-  > </span>605 654<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:43;mso-yfti-lastrow:yes;height:15.75pt'>
-  <td width=288  colspan=4 style='width:216.0pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=16  colspan=2 style='width:12.2pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=128  colspan=3 style='width:95.8pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=23  colspan=2 style='width:17.15pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=46  style='width:34.65pt;
-  height:15.75pt'>
-  
-  </td>
-  <td width=97  style='width:72.85pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=96  style='width:72.0pt;
-  height:15.75pt'>
-  <p  align=right style='text-align:right'><b><span
-  ><o:p>&nbsp;</o:p></span></b></p>
-  </td>
- </tr>
- <![if !supportMisalignedColumns]>
- <tr height=0>
-  <td width=180 style='border:none'></td>
-  <td width=72 style='border:none'></td>
-  <td width=24 style='border:none'></td>
-  <td width=12 style='border:none'></td>
-  <td width=11 style='border:none'></td>
-  <td width=6 style='border:none'></td>
-  <td width=68 style='border:none'></td>
-  <td width=12 style='border:none'></td>
-  <td width=24 style='border:none'></td>
-  <td width=11 style='border:none'></td>
-  <td width=12 style='border:none'></td>
-  <td width=46 style='border:none'></td>
-  <td width=97 style='border:none'></td>
-  <td width=96 style='border:none'></td>
- </tr>
- <![endif]>
-</table>
-
-<p ><o:p>&nbsp;</o:p></p>
-
-</div>
-
-
-
+   
+        <br />
+        <br />
+        <table width="100%">
+            <tr>
+                <td bgcolor="#efefef">
+                    <strong>Resultatr&#228;kning Brf Valdemar 2001-07-01 -- 2002-06-30 </strong>
+                </td>
+            </tr>
+        </table>
+        <table width="100%">
+            <tr>
+                <td colspan="2">
+                </td>
+                <td width="64">
+                  
+                </td>
+                <td width="101">
+                    <p align="right">
+                    2001-07-01
+                </td>
+                <td width="101">
+                    <p align="right">
+                    2000-07-01
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" rowspan="2">
+                    <p>
+                        Belopp i kr
+                        <p>
+                </td>
+                <td width="64">
+                    <p align="right">
+                    Not
+                </td>
+                <td width="101">
+                    <p align="right">
+                    2002-06-30
+                </td>
+                <td width="101">
+                    <p align="right">
+                    2001-06-30
+                </td>
+            </tr>
+            <tr>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                </td>
+                <td width="101">
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                        <b>R&#246;relsens int&#228;kter</b>
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                </td>
+                <td width="101">
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                    &#197;rsavgifter och hyror
+                </td>
+                <td width="64">
+                    <p align="right">
+                    1
+                </td>
+                <td width="101">
+                    <p align="right">
+                    7 776 981
+                </td>
+                <td width="101">
+                    <p align="right">
+                    7 596 076
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                    Hyres- och avgiftsbortfall
+                </td>
+                <td width="64">
+                    <p align="right">
+                    2
+                </td>
+                <td width="101">
+                    <p align="right">
+                    - 7 240
+                </td>
+                <td width="101">
+                    <p align="right">
+                    - 17 184
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                    Br&#228;nsleavgifter
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                    686 677
+                </td>
+                <td width="101">
+                    <p align="right">
+                    675 399
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                    &#214;vriga f&#246;rvaltningsint&#228;kter
+                </td>
+                <td width="64">
+                    <p align="right">
+                    3
+                </td>
+                <td width="101">
+                    <p align="right">
+                    25 959
+                </td>
+                <td width="101">
+                    <p align="right">
+                    62 837
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" rowspan="2">
+                    <p>
+                        <b></b>
+                        <p>
+                            <b></b>
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                    8 482 376
+                </td>
+                <td width="101">
+                    <p align="right">
+                    8 317 128
+                </td>
+            </tr>
+            <tr>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                        <b>R&#246;relsens kostnader</b>
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                    Reparationer
+                </td>
+                <td width="64">
+                    <p align="right">
+                    4
+                </td>
+                <td width="101">
+                    <p align="right">
+                    - 643 009
+                </td>
+                <td width="101">
+                    <p align="right">
+                    0
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                    Avs&#228;ttning till underh&#229;llsfond
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                    - 315 000
+                </td>
+                <td width="101">
+                    <p align="right">
+                    - 315 000
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                    Fastighetsskatt
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                    - 334 100
+                </td>
+                <td width="101">
+                    <p align="right">
+                    - 531 476
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                    Driftskostnader
+                </td>
+                <td width="64">
+                    <p align="right">
+                    5
+                </td>
+                <td width="101">
+                    <p align="right">
+                    -2 187 021
+                </td>
+                <td width="101">
+                    <p align="right">
+                    -1 705 964
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                    &#214;vriga kostnader
+                </td>
+                <td width="64">
+                    <p align="right">
+                    6
+                </td>
+                <td width="101">
+                    <p align="right">
+                    - 60 597
+                </td>
+                <td width="101">
+                    <p align="right">
+                    - 85 984
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                    Personalkostnader
+                </td>
+                <td width="64">
+                    <p align="right">
+                    7
+                </td>
+                <td width="101">
+                    <p align="right">
+                    - 116 687
+                </td>
+                <td width="101">
+                    <p align="right">
+                    - 85 374
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                    Avskrivningar av anl&#228;ggningstillg&#229;ngar
+                </td>
+               
+                <td width="101">
+                    <p align="right">
+                    - 327 798
+                </td>
+                <td width="101">
+                    <p align="right">
+                    - 174 703
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" rowspan="2">
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                    -3 984 212
+                </td>
+                <td width="101">
+                    <p align="right">
+                    -2 898 501
+                </td>
+            </tr>
+            <tr>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                        <b>R&#246;relseresultat</b>
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                        <b>4 498 164</b>
+                </td>
+                <td width="101">
+                    <p align="right">
+                        <b>5 418 627</b>
+                </td>
+            </tr>
+            <tr>
+                <td width="106">
+                    <p>
+                        <b></b>
+                </td>
+                <td width="211">
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                        <b></b>
+                </td>
+                <td width="101">
+                    <p align="right">
+                        <b></b>
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                        <b>J&#228;mnf&#246;relsest&#246;rande</b><b> post</b>
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                        <b></b>
+                </td>
+                <td width="101">
+                    <p align="right">
+                        <b></b>
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                    &#197;terf&#246;rd fastighetsskatt
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                    607 926
+                </td>
+                <td width="101">
+                    <p align="right">
+                    &#8211;
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" rowspan="2">
+                    <p>
+                        <b></b>
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                    607 926
+                </td>
+                <td width="101">
+                    <p align="right">
+                    &#8211;
+                </td>
+            </tr>
+            <tr>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                        <b>Resultat fr&#229;n finansiella poster</b>
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                    Resultat fr&#229;n finansiella anl. tillg.
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                    7 740
+                </td>
+                <td width="101">
+                    <p align="right">
+                    7 740
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                    R&#228;nteint&#228;kter
+                </td>
+                <td width="64">
+                    <p align="right">
+                    9
+                </td>
+                <td width="101">
+                    <p align="right">
+                    156 700
+                </td>
+                <td width="101">
+                    <p align="right">
+                    165 110
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                    Statliga bostadsbyggnadssubventioner
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                    &#8211;
+                </td>
+                <td width="101">
+                    <p align="right">
+                    70 814
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                    R&#228;ntekostnader
+                </td>
+                <td width="64">
+                    <p align="right">
+                    10
+                </td>
+                <td width="101">
+                    <p align="right">
+                    -5 172 503
+                </td>
+                <td width="101">
+                    <p align="right">
+                    -5 178 948
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                        <b>Resultat efter finansiella poster</b>
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                        <b>98 027</b>
+                </td>
+                <td width="101">
+                    <p align="right">
+                        <b>483 343</b>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <p>
+                        <b></b>
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                    Inkomstskatt
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                    &#8211;
+                </td>
+                <td width="101">
+                    <p align="right">
+                    &#8211;
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                        <b>&#197;rets resultat</b>
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                        <b>98 027</b>
+                </td>
+                <td width="101">
+                    <p align="right">
+                        <b>483 343</b>
+                </td>
+            </tr>
+            <tr>
+                <td width="106">
+                    <p>
+                        <b></b>
+                </td>
+                <td width="211">
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                        <b></b>
+                </td>
+                <td width="101">
+                    <p align="right">
+                        <b></b>
+                </td>
+            </tr>
+            <tr>
+                <td width="106">
+                    <p>
+                        <b></b>
+                </td>
+                <td width="211">
+                    <p>
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                        <b></b>
+                </td>
+                <td width="101">
+                    <p align="right">
+                        <b></b>
+                </td>
+            </tr>
+        </table>
+        <table class="border1" width="100%">
+            <tr>
+                <td width="317" bgcolor="#efefef" colspan="2">
+                    <p>
+                        <b>Balansr&#228;kning</b>
+                </td>
+                <td width="64" bgcolor="#efefef">
+                    </b>
+                </td>
+                <td width="101" bgcolor="#efefef">
+                    <p align="right">
+                        <b></b>
+                </td>
+                <td width="29" bgcolor="#efefef">
+                    <p>
+                </td>
+            </tr>
+            <tr>
+                <td width="106">
+                    <p>
+                    Belopp i kr
+                </td>
+                <td width="211">
+                    <p>
+                </td>
+                <td width="64">
+                    <p align="right">
+                    Not
+                </td>
+                <td width="101">
+                    <p align="right">
+                    2002-06-30
+                </td>
+                <td width="101">
+                    <p align="right">
+                    2001-06-30
+                </td>
+            </tr>
+            <tr>
+                <td width="106">
+                </td>
+                <td width="211">
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p>
+                </td>
+                <td width="101">
+                    <p align="right">
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                        <b>TILLG&#197;NGAR</b>
+                </td>
+                <td width="64">
+                    <p align="right">
+                        <b></b>
+                </td>
+                <td width="101">
+                    <p>
+                </td>
+                <td width="101">
+                    <p align="right">
+                        <b></b>
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                        <b>Anl&#228;ggningstillg&#229;ngar</b>
+                </td>
+                <td width="64">
+                    <p align="right">
+                        <b></b>
+                </td>
+                <td width="101">
+                    <p>
+                </td>
+                <td width="101">
+                    <p align="right">
+                        <b></b>
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                        <b>Materiella anl&#228;ggningstillg&#229;ngar</b>
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p>
+                </td>
+                <td width="101">
+                    <p align="right">
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                    Byggnader och mark
+                </td>
+                <td width="64">
+                    <p align="right">
+                    11
+                </td>
+                <td width="101">
+                    <p align="right">
+                    98 673 294
+                </td>
+                <td width="101">
+                    <p align="right">
+                    97 742 008
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                    Maskiner, inventarier, fastighetsinventarier
+                </td>
+                <td width="64">
+                    <p align="right">
+                    12
+                </td>
+                <td width="101">
+                    <p>
+                    83 945
+                </td>
+                <td width="101">
+                    <p align="right">
+                    28 978
+                </td>
+            </tr>
+            <tr>
+                <td width="106">
+                    <p>
+                        <b></b>
+                </td>
+                <td width="211">
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                    98 757 238
+                </td>
+                <td width="101">
+                    <p align="right">
+                    97 770 986
+                </td>
+            </tr>
+            <tr>
+                <td width="106">
+                    <p>
+                        <b></b>
+                </td>
+                <td width="211">
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p>
+                </td>
+                <td width="101">
+                    <p align="right">
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                        <b>Finansiella anl&#228;ggningstillg&#229;ngar</b>
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p>
+                </td>
+                <td width="101">
+                    <p align="right">
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                    L&#229;ngfristiga fordringar
+                </td>
+                <td width="64">
+                    <p align="right">
+                    13
+                </td>
+                <td width="101">
+                    <p>
+                    129 000
+                </td>
+                <td width="101">
+                    <p align="right">
+                    129 000
+                </td>
+            </tr>
+            <tr>
+                <td width="106">
+                    <p>
+                        <b></b>
+                </td>
+                <td width="211">
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p>
+                    129 000
+                </td>
+                <td width="101">
+                    <p align="right">
+                    129 000
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                        <b>Summa anl&#228;ggningstillg&#229;ngar</b>
+                </td>
+                <td width="64">
+                    <p align="right">
+                        <b></b>
+                </td>
+                <td width="101">
+                    <p align="right">
+                    98 886 238
+                </td>
+                <td width="101">
+                    <p align="right">
+                        <b>97 899 986</b>
+                </td>
+            </tr>
+            <tr>
+                <td width="106">
+                    <p>
+                        <b></b>
+                </td>
+                <td width="211">
+                    <p>
+                        <b></b>
+                </td>
+                <td width="64">
+                    <p align="right">
+                        <b></b>
+                </td>
+                <td width="101">
+                    <p>
+                </td>
+                <td width="101">
+                    <p align="right">
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                        <b>Oms&#228;ttningstillg&#229;ngar</b>
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p>
+                </td>
+                <td width="101">
+                    <p align="right">
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                        <b>Kortfristiga fordringar</b>
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p>
+                </td>
+                <td width="101">
+                    <p align="right">
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                    Avgifts- och hyresfordringar
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p>
+                    32 044
+                </td>
+                <td width="101">
+                    <p align="right">
+                    117
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                    F&#246;rutbetalda kostn. och upplupna int&#228;kter
+                </td>
+                <td width="64">
+                    <p align="right">
+                    14
+                </td>
+                <td width="101">
+                    <p>
+                    930 369
+                </td>
+                <td width="101">
+                    <p align="right">
+                    31 306
+                </td>
+            </tr>
+            <tr>
+                <td width="106">
+                    <p>
+                        <b></b>
+                </td>
+                <td width="211">
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p>
+                    962 413
+                </td>
+                <td width="101">
+                    <p align="right">
+                    31 423
+                </td>
+            </tr>
+            <tr>
+                <td width="106">
+                    <p>
+                        <b></b>
+                </td>
+                <td width="211">
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p>
+                </td>
+                <td width="101">
+                    <p align="right">
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                        <b>Kortfristiga placeringar</b>
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p style="text-align: right">
+                </td>
+                <td width="101">
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                    Specialutl&#229;ning till Riksbyggen
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p>
+                    600 000
+                </td>
+                <td width="101">
+                    <p align="right">
+                    &#8211;
+                </td>
+            </tr>
+            <tr>
+                <td width="106">
+                </td>
+                <td width="211">
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p>
+                    600 000
+                </td>
+                <td width="101">
+                    <p align="right">
+                    &#8211;
+                </td>
+            </tr>
+            <tr>
+                <td width="106">
+                </td>
+                <td width="211">
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p>
+                </td>
+                <td width="101">
+                    <p align="right">
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                        <b>Kassa och bank</b>
+                </td>
+                <td width="64">
+                    <p align="right">
+                    15
+                </td>
+                <td width="101">
+                    <p align="right">
+                    2 938 974
+                </td>
+                <td width="101">
+                    <p align="right">
+                    5 709 649
+                </td>
+            </tr>
+            <tr>
+                <td width="106">
+                    <p>
+                        <b></b>
+                </td>
+                <td width="211">
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p>
+                </td>
+                <td width="101">
+                    <p align="right">
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                        <b>Summa oms&#228;ttningstillg&#229;ngar</b>
+                </td>
+                <td width="64">
+                    <p align="right">
+                        <b></b>
+                </td>
+                <td width="101">
+                    <p align="right">
+                    4 501 387
+                </td>
+                <td width="101">
+                    <p align="right">
+                        <b>5 741 072</b>
+                </td>
+            </tr>
+            <tr>
+                <td width="106">
+                    <p>
+                        <b></b>
+                </td>
+                <td width="211">
+                    <p>
+                        <b></b>
+                </td>
+                <td width="64">
+                    <p align="right">
+                        <b></b>
+                </td>
+                <td width="101">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                        <b></b>
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                        <b>SUMMA TILLG&#197;NGAR</b>
+                </td>
+                <td width="64">
+                    <p align="right">
+                        <b></b>
+                </td>
+                <td width="101">
+                    <p align="right">
+                    103 387 625
+                </td>
+                <td width="101">
+                    <p align="right">
+                        <b>103 641 058</b>
+                </td>
+            </tr>
+        </table>
+        <br clear="all">
+        <table class="border1" width="100%">
+            <tr>
+                <td width="317" bgcolor="#efefef" colspan="2">
+                    <p>
+                        <b>Balansr&#228;kning</b>
+                </td>
+                <td width="64" bgcolor="#efefef">
+                    </b>
+                </td>
+                <td width="101" bgcolor="#efefef">
+                    <p align="right">
+                        <b></b>
+                </td>
+                <td width="101" bgcolor="#efefef">
+                    <p align="right">
+                        <b></b>
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                    Belopp i kr
+                </td>
+                <td width="64">
+                    <p align="right">
+                    Not
+                </td>
+                <td width="101">
+                    <p align="right">
+                    2002-06-30
+                </td>
+                <td width="101">
+                    <p align="right">
+                    2001-06-30
+                </td>
+            </tr>
+            <tr>
+                <td width="106">
+                </td>
+                <td width="211">
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                        <b>EGET KAPITAL OCH SKULDER</b>
+                </td>
+                <td width="64">
+                    <p align="right">
+                        <b></b>
+                </td>
+                <td width="101">
+                    <p align="right">
+                        <b></b>
+                </td>
+                <td width="101">
+                    <p align="right">
+                        <b></b>
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                        <b>Eget kapital</b>
+                </td>
+                <td width="64">
+                    <p align="right">
+                    16
+                </td>
+                <td width="101">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                    Bundet eget kapital
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                </td>
+            </tr>
+            <tr>
+                <td width="106">
+                    <p>
+                    Insatser
+                </td>
+                <td width="211">
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                    5 509 995
+                </td>
+                <td width="101">
+                    <p align="right">
+                    5 509 995
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                    Uppl&#229;telseavgifter
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                    267 565
+                </td>
+                <td width="101">
+                    <p align="right">
+                    267 565
+                </td>
+            </tr>
+            <tr>
+                <td width="106">
+                    <p>
+                        <b></b>
+                </td>
+                <td width="211">
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                    5 777 560
+                </td>
+                <td width="101">
+                    <p align="right">
+                    5 777 560
+                </td>
+            </tr>
+            <tr>
+                <td width="106">
+                    <p>
+                        <b></b>
+                </td>
+                <td width="211">
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                    Fritt eget kapital
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                </td>
+            </tr>
+            <tr>
+                <td width="106">
+                </td>
+                <td width="211">
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                </td>
+                <td width="101">
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                    Balanserat resultat
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                    3 349 202
+                </td>
+                <td width="101">
+                    <p align="right">
+                    5 365 859
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                    &#197;rets resultat
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                    98 027
+                </td>
+                <td width="101">
+                    <p align="right">
+                    483 343
+                </td>
+            </tr>
+            <tr>
+                <td width="106">
+                    <p>
+                        <b></b>
+                </td>
+                <td width="211">
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                    3 447 229
+                </td>
+                <td width="101">
+                    <p align="right">
+                    5 849 202
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                        <b>Summa eget kapital </b>
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                        <b>9 224 789</b>
+                </td>
+                <td width="101">
+                    <p align="right">
+                        <b>11 626 762</b>
+                </td>
+            </tr>
+            <tr>
+                <td width="106">
+                    <p>
+                        <b></b>
+                </td>
+                <td width="211">
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                        <b></b>
+                </td>
+                <td width="101">
+                    <p align="right">
+                        <b></b>
+                </td>
+            </tr>
+            <tr>
+                <td width="106">
+                </td>
+                <td width="211">
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                        <b>Avs&#228;ttningar</b>
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                    F&#246;reningens underh&#229;llsfond
+                </td>
+                <td width="64">
+                    <p align="right">
+                    17
+                </td>
+                <td width="101">
+                    <p align="right">
+                    1 955 527
+                </td>
+                <td width="101">
+                    <p align="right">
+                    4 749
+                </td>
+            </tr>
+            <tr>
+                <td width="106">
+                    <p>
+                        <b></b>
+                </td>
+                <td width="211">
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                    1 955 527
+                </td>
+                <td width="101">
+                    <p align="right">
+                    4 749
+                </td>
+            </tr>
+            <tr>
+                <td width="106">
+                    <p>
+                        <b></b>
+                </td>
+                <td width="211">
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                        <b>L&#229;ngfristiga skulder</b>
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                    Fastighetsl&#229;n, l&#229;nga
+                </td>
+                <td width="64">
+                    <p align="right">
+                    18
+                </td>
+                <td width="101">
+                    <p align="right">
+                    90 629 141
+                </td>
+                <td width="101">
+                    <p align="right">
+                    90 809 018
+                </td>
+            </tr>
+            <tr>
+                <td width="106">
+                    <p>
+                        <b></b>
+                </td>
+                <td width="211">
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                    90 629 141
+                </td>
+                <td width="101">
+                    <p align="right">
+                    90 809 018
+                </td>
+            </tr>
+            <tr>
+                <td width="106">
+                    <p>
+                        <b></b>
+                </td>
+                <td width="211">
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                        <b>Kortfristiga skulder</b>
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                    Leverant&#246;rsskulder
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                    210 915
+                </td>
+                <td width="101">
+                    <p align="right">
+                    102 493
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                    Skatteskulder
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                    442 071
+                </td>
+                <td width="101">
+                    <p align="right">
+                    145 199
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                    F&#246;rutbetalda m&#229;nadsavgifter
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                    284 246
+                </td>
+                <td width="101">
+                    <p align="right">
+                    341 608
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                    &#214;vriga skulder, korta
+                </td>
+                <td width="64">
+                    <p align="right">
+                    19
+                </td>
+                <td width="101">
+                    <p align="right">
+                    6 769
+                </td>
+                <td width="101">
+                    <p align="right">
+                    5 575
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                    Upplupna kostn. och f&#246;rutbetalda int&#228;kter
+                </td>
+                <td width="64">
+                    <p align="right">
+                    20
+                </td>
+                <td width="101">
+                    <p align="right">
+                    634 167
+                </td>
+                <td width="101">
+                    <p align="right">
+                    605 654
+                </td>
+            </tr>
+            <tr>
+                <td width="106">
+                    <p>
+                        <b></b>
+                </td>
+                <td width="211">
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                    1 578 168
+                </td>
+                <td width="101">
+                    <p align="right">
+                    1 200 529
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                        <b>Summa skulder</b>
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                        <b>94 162 836</b>
+                </td>
+                <td width="101">
+                    <p align="right">
+                        <b>92 014 296</b>
+                </td>
+            </tr>
+            <tr>
+                <td width="106">
+                    <p>
+                        <b></b>
+                </td>
+                <td width="211">
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                    <p align="right">
+                        <b></b>
+                </td>
+                <td width="101">
+                    <p align="right">
+                        <b></b>
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                        <b>SUMMA EGET KAPITAL OCH SKULDER</b>
+                </td>
+                <td width="64">
+                    <p align="right">
+                        <b></b>
+                </td>
+                <td width="101">
+                    <p align="right">
+                        <b>103 387 625</b>
+                </td>
+                <td width="101">
+                    <p align="right">
+                        <b>103 641 058</b>
+                </td>
+            </tr>
+            <tr>
+                <td width="106">
+                </td>
+                <td width="211">
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                </td>
+                <td width="101">
+                </td>
+            </tr>
+            <tr>
+                <td width="106">
+                </td>
+                <td width="211">
+                </td>
+                <td width="64">
+                    <p align="right">
+                </td>
+                <td width="101">
+                </td>
+                <td width="101">
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                        <b>Ansvarsf&#246;rbindelser</b>
+                </td>
+                <td width="64">
+                </td>
+                <td width="101">
+                    <br />
+                    Inga
+                </td>
+                <td width="101">
+                    <br />
+                    Inga
+                </td>
+            </tr>
+            <tr>
+                <td width="106">
+                    <p>
+                        <b></b>
+                </td>
+                <td width="211">
+                </td>
+                <td width="64">
+                </td>
+                <td width="101">
+                </td>
+                <td width="101">
+                </td>
+            </tr>
+            <tr>
+                <td width="106">
+                    <p>
+                        <b>St&#228;llda panter</b>
+                </td>
+                <td width="211">
+                </td>
+                <td width="64">
+                </td>
+                <td width="101">
+                </td>
+                <td width="101">
+                </td>
+            </tr>
+            <tr>
+                <td width="317" colspan="2">
+                    <p>
+                    Fastighetsinteckningar
+                </td>
+                <td width="64">
+                </td>
+                <td width="101">
+                    <p align="right">
+                    103 427 000
+                </td>
+                <td width="101">
+                    <p align="right">
+                    103 427 000
+                </td>
+            </tr>
+        </table>
+        <table width="100%">
+            <tr>
+                <td colspan="7">
+                    <p>
+                        <b>Noter med redovisningsprinciper och bokslutskommentarer</b>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="7">
+                    <p>
+                        Belopp i kr om inget annat anges
+                    </p>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="7">
+                    <p>
+                        <b>Allm&#228;nna redovisningsprinciper</b>
+                    </p>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="7">
+                    <table width="100%">
+                        <tr>
+                            <td width="538">
+                                <p>
+                                &#197;rsredovisningen &#228;r uppr&#228;ttad enligt &#229;rsredovisningslagen (&#197;RL),
+                                med undantag av underh&#229;llsfonden som f&#246;ljer f&#246;reningens stadgar.
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="7">
+                    <table>
+                        <tr>
+                            <td>
+                                <table>
+                                    <tr>
+                                        <td>
+                                            <p>
+                                                <b>V&#228;rderingsprinciper m m</b><br>
+                                                Tillg&#229;ngar och skulder har v&#228;rderats till anskaffningsv&#228;rden om inget
+                                                annat anges nedan.<br>
+                                                <br>
+                                                Fordringar<br>
+                                                Fordringar har efter individuell v&#228;rdering upptagits till belopp varmed de
+                                                ber&#228;knas inflyta.<br>
+                                                <br>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                    <p>
+                </td>
+            </tr>
+            <tr>
+                <td width="288">
+                    <p>
+                        <b></b>
+                </td>
+                <td width="16">
+                    <p>
+                        <b></b>
+                </td>
+                <td width="128">
+                    <p>
+                        <b></b>
+                </td>
+                <td width="23">
+                    <p>
+                        <b></b>
+                </td>
+                <td width="96">
+                    <p align="right">
+                        <b></b>
+                </td>
+                <td width="13">
+                    <p>
+                        <b></b>
+                </td>
+                <td width="96">
+                    <p align="right">
+                        <b></b>
+                </td>
+            </tr>
+            <tr>
+                <td width="720" colspan="7">
+                </td>
+            </tr>
+            <tr>
+                <td colspan="4">
+                    <p>
+                        <a name="RANGE!F19"></a><a name="RANGE!F18"></a>
+                    F&#246;ljande avskrivningspriciper till&#228;mpas:
+                </td>
+                <td width="97" colspan="2">
+                    <p align="right">
+                        <u></u>
+                </td>
+                <td width="96">
+                    <p align="right">
+                </td>
+            </tr>
+            <tr>
+                <td width="455" colspan="4">
+                    <p>
+                    Materiella anl&#228;ggningstillg&#229;ngar
+                </td>
+                <td width="97" colspan="2">
+                    <p align="right">
+                </td>
+                <td width="96">
+                    <p align="right">
+                </td>
+            </tr>
+            <tr>
+                <td width="304" colspan="2">
+                    <p>
+                    Byggnader
+                </td>
+                <td width="128">
+                </td>
+                <td width="23">
+                </td>
+                <td width="97" colspan="2">
+                    <p align="right">
+                    enligt amortering
+                </td>
+                <td width="96">
+                    <p align="right">
+                </td>
+            </tr>
+            <tr>
+                <td width="432" colspan="3">
+                    <p>
+                        <a name="RANGE!F25"></a><a name="RANGE!F22"></a>
+                    Fastighetsf&#246;rb&#228;ttringar
+                </td>
+                <td width="23">
+                </td>
+                <td width="97" colspan="2">
+                    <p align="right">
+                    10 &#229;r
+                </td>
+                <td width="96">
+                    <p align="right">
+                </td>
+            </tr>
+            <tr>
+                <td width="455" colspan="4">
+                    <p>
+                    Inventarier, fastighetsinventarier
+                </td>
+                <td width="97" colspan="2">
+                    <p align="right">
+                    5 &#229;r
+                </td>
+                <td width="96">
+                    <p align="right">
+                </td>
+            </tr>
+            <tr>
+                <td width="288">
+                </td>
+                <td width="16">
+                </td>
+                <td width="128">
+                </td>
+                <td width="23">
+                </td>
+                <td width="97" colspan="2">
+                    <p align="right">
+                </td>
+                <td width="96">
+                    <p align="right">
+                </td>
+            </tr>
+            <tr>
+                <td width="288">
+                </td>
+                <td width="16">
+                </td>
+                <td width="128">
+                </td>
+                <td width="23">
+                </td>
+                <td width="97" colspan="2">
+                    <p align="right">
+                        <b>2002-06-30</b>
+                </td>
+                <td width="96">
+                    <p align="right">
+                        <b>2001-06-30</b>
+                </td>
+            </tr>
+            <tr>
+                <td width="288">
+                    <p>
+                        <b>Not 1</b>
+                </td>
+                <td width="167" colspan="3">
+                    <p>
+                        <b>&#197;rsavgifter och hyror</b>
+                </td>
+                <td width="97" colspan="2">
+                    <p align="right">
+                        <b></b>
+                </td>
+                <td width="96">
+                    <p align="right">
+                        <b></b>
+                </td>
+            </tr>
+            <tr>
+                <td width="432" colspan="3">
+                    <p>
+                    &#197;rsavgifter, bost&#228;der
+                </td>
+                <td width="23">
+                </td>
+                <td width="97" colspan="2">
+                    <p align="right">
+                    7 553 901
+                </td>
+                <td width="96">
+                    <p align="right">
+                    7 393 391
+                </td>
+            </tr>
+            <tr>
+                <td width="304" colspan="2">
+                    <p>
+                    Hyror, lokaler
+                </td>
+                <td width="128">
+                </td>
+                <td width="23">
+                </td>
+                <td width="97" colspan="2">
+                    <p align="right">
+                    4 680
+                </td>
+                <td width="96">
+                    <p align="right">
+                    7 685
+                </td>
+            </tr>
+            <tr>
+                <td width="304" colspan="2">
+                    <p>
+                    Hyror, garage
+                </td>
+                <td width="128">
+                </td>
+                <td width="23">
+                </td>
+                <td width="97" colspan="2">
+                    <p align="right">
+                    171 600
+                </td>
+                <td width="96">
+                    <p align="right">
+                    156 000
+                </td>
+            </tr>
+            <tr>
+                <td width="304" colspan="2">
+                    <p>
+                    Hyror, p-platser
+                </td>
+                <td width="128">
+                </td>
+                <td width="23">
+                </td>
+                <td width="97" colspan="2">
+                    <p align="right">
+                    46 800
+                </td>
+                <td width="96">
+                    <p align="right">
+                    39 000
+                </td>
+            </tr>
+            <tr>
+                <td width="288">
+                </td>
+                <td width="16">
+                </td>
+                <td width="128">
+                </td>
+                <td width="23">
+                </td>
+                <td width="97" colspan="2">
+                    <p align="right">
+                    7 776 981
+                </td>
+                <td width="96">
+                    <p align="right">
+                    7 596 076
+                </td>
+            </tr>
+            <tr>
+                <td width="288">
+                </td>
+                <td width="16">
+                </td>
+                <td width="128">
+                </td>
+                <td width="23">
+                </td>
+                <td width="97" colspan="2">
+                </td>
+                <td width="96">
+                </td>
+            </tr>
+            <tr>
+                <td width="288">
+                    <p>
+                        <b>Not 2</b>
+                </td>
+                <td width="167" colspan="3">
+                    <p>
+                        <b>Hyres- och avgiftsbortfall</b>
+                </td>
+                <td width="97" colspan="2">
+                    <p align="right">
+                        <b></b>
+                </td>
+                <td width="96">
+                    <p align="right">
+                        <b></b>
+                </td>
+            </tr>
+            <tr>
+                <td width="455" colspan="4">
+                    <p>
+                    Hyres- och avgiftsbortfall, bost&#228;der
+                </td>
+                <td width="97" colspan="2">
+                    <p align="right">
+                    &#8211;
+                </td>
+                <td width="96">
+                    <p align="right">
+                    - 13 541
+                </td>
+            </tr>
+            <tr>
+                <td width="288">
+                    <p>
+                    Hyres- och avgiftsbortfall, garage
+                </td>
+                <td width="16">
+                </td>
+                <td width="128">
+                </td>
+                <td width="23">
+                </td>
+                <td width="97" colspan="2">
+                    <p align="right">
+                    - 2 980
+                </td>
+                <td width="96">
+                    <p align="right">
+                    - 843
+                </td>
+            </tr>
+            <tr>
+                <td width="288">
+                    <p>
+                    Hyres- och avgiftsbortfall, p-platser
+                </td>
+                <td width="16">
+                </td>
+                <td width="128">
+                </td>
+                <td width="23">
+                </td>
+                <td width="97" colspan="2">
+                    <p align="right">
+                    - 4 260
+                </td>
+                <td width="96">
+                    <p align="right">
+                    - 2 800
+                </td>
+            </tr>
+            <tr>
+                <td width="288">
+                </td>
+                <td width="16">
+                </td>
+                <td width="128">
+                </td>
+                <td width="23">
+                </td>
+                <td width="97" colspan="2">
+                    <p align="right">
+                    - 7 240
+                </td>
+                <td width="96">
+                    <p align="right">
+                    - 17 184
+                </td>
+            </tr>
+            <tr>
+                <td width="288">
+                </td>
+                <td width="16">
+                </td>
+                <td width="128">
+                </td>
+                <td width="23">
+                </td>
+                <td width="97" colspan="2">
+                </td>
+                <td width="96">
+                </td>
+            </tr>
+            <tr>
+                <td width="288">
+                    <p>
+                        <b>Not 3</b>
+                </td>
+                <td colspan="6">
+                    <p>
+                        <b>&#214;vriga f&#246;rvaltningsint&#228;kter</b>
+                </td>
+            </tr>
+            <tr>
+                <td width="432" colspan="3">
+                    <p>
+                    &#214;vriga ers&#228;ttningar
+                </td>
+                <td width="23">
+                </td>
+                <td width="97" colspan="2">
+                    <p align="right">
+                    &#8211;
+                </td>
+                <td width="96">
+                    <p align="right">
+                    1 100
+                </td>
+            </tr>
+            <tr>
+                <td width="455" colspan="4">
+                    <p>
+                    &#214;vriga int&#228;kter fr&#229;n medlemmar
+                </td>
+                <td width="97" colspan="2">
+                    <p align="right">
+                    25 749
+                </td>
+                <td width="96">
+                    <p align="right">
+                    1 670
+                </td>
+            </tr>
+            <tr>
+                <td width="304" colspan="2">
+                    <p>
+                    &#214;resutj&#228;mning
+                </td>
+                <td width="128">
+                </td>
+                <td width="23">
+                </td>
+                <td width="97" colspan="2">
+                    <p align="right">
+                    210
+                </td>
+                <td width="96">
+                    <p align="right">
+                    68
+                </td>
+            </tr>
+            <tr>
+                <td colspan="4">
+                    <p>
+                    Vinst vid avyttring av anl&#228;ggningstillg&#229;ngar
+                </td>
+                <td width="97" colspan="2">
+                    <p align="right">
+                    &#8211;
+                </td>
+                <td width="96">
+                    <p align="right">
+                    60 000
+                </td>
+            </tr>
+            <tr>
+                <td width="288">
+                </td>
+                <td width="16">
+                </td>
+                <td width="128">
+                </td>
+                <td width="23">
+                </td>
+                <td width="97" colspan="2">
+                    <p align="right">
+                    25 959
+                </td>
+                <td width="96">
+                    <p align="right">
+                    62 837
+                </td>
+            </tr>
+            <tr height="0">
+                <td width="288">
+                </td>
+                <td width="16">
+                </td>
+                <td width="128">
+                </td>
+                <td width="23">
+                </td>
+                <td width="96">
+                </td>
+                <td width="1">
+                </td>
+                <td width="96">
+                </td>
+            </tr>
+        </table>
+        <table class="border1" width="100%">
+            <tr>
+                <td width="288" colspan="2">
+                    <br clear="all">
+                    <p>
+                </td>
+                <td width="16" colspan="2">
+                </td>
+                <td width="128">
+                </td>
+                <td width="14" colspan="2">
+                </td>
+                <td width="97">
+                </td>
+                <td width="96">
+                </td>
+            </tr>
+            <tr>
+                <td width="288" colspan="2">
+                    <p>
+                        <b>Not 4</b>
+                </td>
+                <td width="144" colspan="3">
+                    <p>
+                        <b>Reparationer </b>
+                </td>
+                <td width="14" colspan="2">
+                    <p align="center">
+                        <b></b>
+                </td>
+                <td width="97">
+                    <p align="right">
+                        <b></b>
+                </td>
+                <td width="96">
+                    <p align="right">
+                        <b></b>
+                </td>
+            </tr>
+            <tr>
+                <td width="288" colspan="2">
+                    <p>
+                    Reparationer
+                </td>
+                <td width="16" colspan="2">
+                </td>
+                <td width="128">
+                </td>
+                <td width="14" colspan="2">
+                    <p align="center">
+                </td>
+                <td width="97">
+                    <p align="right">
+                    643 009
+                </td>
+                <td width="96">
+                    <p align="right">
+                    &#8211;
+                </td>
+            </tr>
+            <tr>
+                <td width="288" colspan="2">
+                    <p>
+                    Nedlagda underh&#229;llskostnader
+                </td>
+                <td width="16" colspan="2">
+                </td>
+                <td width="128">
+                </td>
+                <td width="14" colspan="2">
+                    <p align="center">
+                </td>
+                <td width="97">
+                    <p align="right">
+                    864 222
+                </td>
+                <td width="96">
+                    <p align="right">
+                    672 823
+                </td>
+            </tr>
+            <tr>
+                <td width="288" colspan="2">
+                    <a name="RANGE!F85"></a>
+                </td>
+                <td width="16" colspan="2">
+                </td>
+                <td width="128">
+                </td>
+                <td width="14" colspan="2">
+                    <p align="center">
+                </td>
+                <td width="97">
+                    <p align="right">
+                    1 507 231
+                </td>
+                <td width="96">
+                    <p align="right">
+                    672 823
+                </td>
+            </tr>
+            <tr>
+                <td width="288" colspan="2">
+                </td>
+                <td width="16" colspan="2">
+                </td>
+                <td width="128">
+                </td>
+                <td width="14" colspan="2">
+                </td>
+                <td width="97">
+                </td>
+                <td width="96">
+                </td>
+            </tr>
+            <tr>
+                <td width="288" colspan="2">
+                    <p>
+                        <b>Not 5</b></a><b></b>
+                </td>
+                <td width="144" colspan="3">
+                    <p>
+                        <b>Driftskostnader</b>
+                </td>
+                <td width="14" colspan="2">
+                    <p align="center">
+                        <b></b>
+                </td>
+                <td width="97">
+                </td>
+                <td width="96">
+                    <p align="right">
+                        <b></b>
+                </td>
+            </tr>
+            <tr>
+                <td width="288" colspan="2">
+                    <p>
+                    Fastighetsf&#246;rs&#228;kring
+                </td>
+                <td width="16" colspan="2">
+                </td>
+                <td width="128">
+                </td>
+                <td width="14" colspan="2">
+                    <p align="center">
+                </td>
+                <td width="97">
+                    <p align="right">
+                    58 208
+                </td>
+                <td width="96">
+                    <p align="right">
+                    17 730
+                </td>
+            </tr>
+            <tr>
+                <td width="288" colspan="2">
+                    <p>
+                    Arvode f&#246;rvaltning
+                </td>
+                <td width="16" colspan="2">
+                </td>
+                <td width="128">
+                </td>
+                <td width="14" colspan="2">
+                    <p align="center">
+                </td>
+                <td width="97">
+                    <p align="right">
+                    217 968
+                </td>
+                <td width="96">
+                    <p align="right">
+                    215 735
+                </td>
+            </tr>
+            <tr>
+                <td width="304" colspan="4">
+                    <p>
+                    Kabel-TV
+                </td>
+                <td width="128">
+                </td>
+                <td width="14" colspan="2">
+                    <p align="center">
+                </td>
+                <td width="97">
+                    <p align="right">
+                    67 004
+                </td>
+                <td width="96">
+                    <p align="right">
+                    65 806
+                </td>
+            </tr>
+            <tr>
+                <td width="432" colspan="5">
+                    <p>
+                    Juridiska kostnader
+                </td>
+                <td width="14" colspan="2">
+                    <p align="center">
+                </td>
+                <td width="97">
+                    <p align="right">
+                    12 323
+                </td>
+                <td width="96">
+                    <p align="right">
+                    7 652
+                </td>
+            </tr>
+            <tr>
+                <td width="432" colspan="5">
+                    <p>
+                    Arvode auktoriserad revisor
+                </td>
+                <td width="14" colspan="2">
+                    <p align="center">
+                </td>
+                <td width="97">
+                    <p align="right">
+                    15 000
+                </td>
+                <td width="96">
+                    <p align="right">
+                    &#8211;
+                </td>
+            </tr>
+            <tr>
+                <td width="288" colspan="2">
+                    <p>
+                    Fastighetssk&#246;tsel
+                </td>
+                <td width="16" colspan="2">
+                </td>
+                <td width="128">
+                </td>
+                <td width="14" colspan="2">
+                    <p align="center">
+                </td>
+                <td width="97">
+                    <p align="right">
+                    207 105
+                </td>
+                <td width="96">
+                    <p align="right">
+                    197 203
+                </td>
+            </tr>
+            <tr>
+                <td width="288" colspan="2">
+                    <p>
+                    Sotning
+                </td>
+                <td width="16" colspan="2">
+                </td>
+                <td width="128">
+                </td>
+                <td width="14" colspan="2">
+                    <p align="center">
+                </td>
+                <td width="97">
+                    <p align="right">
+                    122 983
+                </td>
+                <td width="96">
+                    <p align="right">
+                    &#8211;
+                </td>
+            </tr>
+            <tr>
+                <td width="288" colspan="2">
+                    <p>
+                    Sn&#246;r&#246;jning
+                </td>
+                <td width="16" colspan="2">
+                </td>
+                <td width="128">
+                </td>
+                <td width="14" colspan="2">
+                    <p align="center">
+                </td>
+                <td width="97">
+                    <p align="right">
+                    38 051
+                </td>
+                <td width="96">
+                    <p align="right">
+                    6 059
+                </td>
+            </tr>
+            <tr>
+                <td width="288" colspan="2">
+                    <p>
+                    F&#246;rbrukningsmateriel
+                </td>
+                <td width="16" colspan="2">
+                </td>
+                <td width="128">
+                </td>
+                <td width="14" colspan="2">
+                    <p align="center">
+                </td>
+                <td width="97">
+                    <p align="right">
+                    42 141
+                </td>
+                <td width="96">
+                    <p align="right">
+                    41 123
+                </td>
+            </tr>
+            <tr>
+                <td width="288" colspan="2">
+                    <p>
+                    &#214;vriga kostnader reparation och underh&#229;ll
+                </td>
+                <td width="16" colspan="2">
+                </td>
+                <td width="128">
+                </td>
+                <td width="14" colspan="2">
+                    <p align="center">
+                </td>
+                <td width="97">
+                    <p align="right">
+                    4 289
+                </td>
+                <td width="96">
+                    <p align="right">
+                    1 657
+                </td>
+            </tr>
+            <tr>
+                <td width="288" colspan="2">
+                    <p>
+                    Vatten
+                </td>
+                <td width="16" colspan="2">
+                </td>
+                <td width="128">
+                </td>
+                <td width="14" colspan="2">
+                    <p align="center">
+                </td>
+                <td width="97">
+                    <p align="right">
+                    211 061
+                </td>
+                <td width="96">
+                    <p align="right">
+                    190 473
+                </td>
+            </tr>
+            <tr>
+                <td width="288" colspan="2">
+                    <p>
+                    El
+                </td>
+                <td width="16" colspan="2">
+                </td>
+                <td width="128">
+                </td>
+                <td width="14" colspan="2">
+                    <p align="center">
+                </td>
+                <td width="97">
+                    <p align="right">
+                    57 216
+                </td>
+                <td width="96">
+                    <p align="right">
+                    31 929
+                </td>
+            </tr>
+            <tr>
+                <td width="288" colspan="2">
+                    <p>
+                    Uppv&#228;rmning
+                </td>
+                <td width="16" colspan="2">
+                </td>
+                <td width="128">
+                </td>
+                <td width="14" colspan="2">
+                    <p align="center">
+                </td>
+                <td width="97">
+                    <p align="right">
+                    987 446
+                </td>
+                <td width="96">
+                    <p align="right">
+                    787 991
+                </td>
+            </tr>
+            <tr>
+                <td width="304" colspan="4">
+                    <p>
+                    Sophantering
+                </td>
+                <td width="128">
+                </td>
+                <td width="14" colspan="2">
+                    <p align="center">
+                </td>
+                <td width="97">
+                    <p align="right">
+                    122 636
+                </td>
+                <td width="96">
+                    <p align="right">
+                    100 967
+                </td>
+            </tr>
+            <tr>
+                <td width="432" colspan="5">
+                    <p>
+                    &#214;vrig sophantering
+                </td>
+                <td width="14" colspan="2">
+                    <p align="center">
+                </td>
+                <td width="97">
+                    <p align="right">
+                    23 592
+                </td>
+                <td width="96">
+                    <p align="right">
+                    41 640
+                </td>
+            </tr>
+            <tr>
+                <td width="288" colspan="2">
+                </td>
+                <td width="16" colspan="2">
+                </td>
+                <td width="128">
+                </td>
+                <td width="14" colspan="2">
+                    <p align="center">
+                </td>
+                <td width="97">
+                    <p align="right">
+                    2 187 021
+                </td>
+                <td width="96">
+                    <p align="right">
+                    1 705 964
+                </td>
+            </tr>
+            <tr>
+                <td width="288" colspan="2">
+                </td>
+                <td width="16" colspan="2">
+                </td>
+                <td width="128">
+                </td>
+                <td width="14" colspan="2">
+                </td>
+                <td width="97">
+                </td>
+                <td width="96">
+                </td>
+            </tr>
+            <tr>
+                <td width="288" colspan="2">
+                    <p>
+                        <b>Not 6</b>
+                </td>
+                <td width="144" colspan="3">
+                    <p>
+                        <b>&#214;vriga kostnader</b>
+                </td>
+                <td width="14" colspan="2">
+                </td>
+                <td width="97">
+                </td>
+                <td width="96">
+                </td>
+            </tr>
+            <tr>
+                <td width="288" colspan="2">
+                    <p>
+                    &#214;vriga administrativa kostnader
+                </td>
+                <td width="16" colspan="2">
+                </td>
+                <td width="128">
+                </td>
+                <td width="14" colspan="2">
+                    <p align="center">
+                </td>
+                <td width="97">
+                    <p align="right">
+                    32 947
+                </td>
+                <td width="96">
+                    <p align="right">
+                    58 555
+                </td>
+            </tr>
+            <tr>
+                <td width="304" colspan="4">
+                    <p>
+                    Telefon och porto
+                </td>
+                <td width="128">
+                </td>
+                <td width="14" colspan="2">
+                    <p align="center">
+                </td>
+                <td width="97">
+                    <p align="right">
+                    4 448
+                </td>
+                <td width="96">
+                    <p align="right">
+                    5 690
+                </td>
+            </tr>
+            <tr>
+                <td width="455" colspan="5">
+                    <p>
+                    Medlems- och f&#246;reningsavgifter
+                </td>
+                <td width="14" colspan="2">
+                </td>
+                <td width="97">
+                    <p align="right">
+                    3 483
+                </td>
+                <td width="96">
+                    <p align="right">
+                    3 483
+                </td>
+            </tr>
+            <tr>
+                <td width="304" colspan="4">
+                    <p>
+                    K&#246;pta tj&#228;nster
+                </td>
+                <td width="128">
+                </td>
+                <td width="14" colspan="2">
+                </td>
+                <td width="97">
+                    <p align="right">
+                    19 719
+                </td>
+                <td width="96">
+                    <p align="right">
+                    18 256
+                </td>
+            </tr>
+            <tr>
+                <td width="264">
+                </td>
+                <td width="40" colspan="3">
+                </td>
+                <td width="128">
+                </td>
+                <td width="14" colspan="2">
+                </td>
+                <td width="97">
+                    <p align="right">
+                    60 597
+                </td>
+                <td width="96">
+                    <p align="right">
+                    85 984
+                </td>
+            </tr>
+            <tr>
+                <td width="264">
+                </td>
+                <td width="40" colspan="3">
+                </td>
+                <td width="128">
+                </td>
+                <td width="14" colspan="2">
+                </td>
+                <td width="97">
+                    <p align="right">
+                        <b></b>
+                </td>
+                <td width="96">
+                    <p align="right">
+                        <b></b>
+                </td>
+            </tr>
+            <tr>
+                <td width="264">
+                    <p>
+                        <b>Not 7</b>
+                </td>
+                <td width="168" colspan="4">
+                    <p>
+                        <b>Personalkostnader</b>
+                </td>
+                <td width="14" colspan="2">
+                    <p align="center">
+                        <b></b>
+                </td>
+                <td width="97">
+                    <p align="right">
+                        <b></b>
+                </td>
+                <td width="96">
+                    <p align="right">
+                        <b></b>
+                </td>
+            </tr>
+            <tr>
+                <td width="515" colspan="8">
+                    <p>
+                        <b>L&#246;ner, andra ers&#228;ttningar och sociala kostnader</b>
+                </td>
+                <td width="12">
+                </td>
+            </tr>
+            <tr>
+                <td width="304" colspan="4">
+                    <p>
+                    Styrelsearvode
+                </td>
+                <td width="128">
+                </td>
+                <td width="49">
+                </td>
+                <td width="11">
+                </td>
+                <td width="97">
+                    <p align="right">
+                    42 500
+                </td>
+                <td width="96">
+                    <p align="right">
+                    48 400
+                </td>
+            </tr>
+            <tr>
+                <td width="504" colspan="7">
+                    <p>
+                    &#214;vriga ers&#228;ttningar till f&#246;rtroendevalda
+                </td>
+                <td width="97">
+                    <p align="right">
+                    16 373
+                </td>
+                <td width="96">
+                    <p align="right">
+                    5 047
+                </td>
+            </tr>
+            <tr>
+                <td width="432" colspan="5">
+                    <p>
+                    Arvode tr&#228;dg&#229;rdssk&#246;tsel
+                </td>
+                <td width="49">
+                </td>
+                <td width="11">
+                </td>
+                <td width="97">
+                    <p align="right">
+                    25 200
+                </td>
+                <td width="96">
+                    <p align="right">
+                    &#8211;
+                </td>
+            </tr>
+            <tr>
+                <td width="432" colspan="5">
+                    <p>
+                    F&#246;reningsvald revisor
+                </td>
+                <td width="49">
+                </td>
+                <td width="11">
+                </td>
+                <td width="97">
+                    <p align="right">
+                    1 000
+                </td>
+                <td width="96">
+                    <p align="right">
+                    15 625
+                </td>
+            </tr>
+            <tr>
+                <td width="432" colspan="5">
+                    <p>
+                    Arvode sk&#246;tsel kvartersg&#229;rd
+                </td>
+                <td width="49">
+                </td>
+                <td width="11">
+                </td>
+                <td width="97">
+                    <p align="right">
+                    1 900
+                </td>
+                <td width="96">
+                    <p align="right">
+                    &#8211;
+                </td>
+            </tr>
+            <tr>
+                <td width="432" colspan="5">
+                    <p>
+                    Utbildning, f&#246;rtroendevalda
+                </td>
+                <td width="49">
+                </td>
+                <td width="11">
+                </td>
+                <td width="97">
+                    <p align="right">
+                    9 125
+                </td>
+                <td width="96">
+                    <p align="right">
+                    &#8211;
+                </td>
+            </tr>
+            <tr>
+                <td width="304" colspan="4">
+                    <p>
+                    Summa
+                </td>
+                <td width="128">
+                </td>
+                <td width="49">
+                </td>
+                <td width="11">
+                </td>
+                <td width="97">
+                    <p align="right">
+                    96 098
+                </td>
+                <td width="96">
+                    <p align="right">
+                    69 072
+                </td>
+            </tr>
+            <tr>
+                <td width="432" colspan="5">
+                    <p>
+                    Sociala kostnader
+                </td>
+                <td width="49">
+                </td>
+                <td width="11">
+                </td>
+                <td width="97">
+                    <p align="right">
+                    20 589
+                </td>
+                <td width="96">
+                    <p align="right">
+                    16 302
+                </td>
+            </tr>
+            <tr>
+                <td width="294" colspan="3">
+                </td>
+                <td width="11">
+                </td>
+                <td width="128">
+                </td>
+                <td width="49">
+                </td>
+                <td width="11">
+                    <p align="center">
+                </td>
+                <td width="97">
+                    <p align="right">
+                    116 687
+                </td>
+                <td width="96">
+                    <p align="right">
+                    85 374
+                </td>
+            </tr>
+            <tr>
+                <td width="294" colspan="3">
+                </td>
+                <td width="11">
+                </td>
+                <td width="128">
+                </td>
+                <td width="49">
+                    <p align="right">
+                </td>
+                <td width="11">
+                    <p align="center">
+                </td>
+                <td width="97">
+                    <p align="right">
+                </td>
+                <td width="96">
+                    <p align="right">
+                </td>
+            </tr>
+            <tr height="0">
+                <td width="264">
+                </td>
+                <td width="24">
+                </td>
+                <td width="6">
+                </td>
+                <td width="11">
+                </td>
+                <td width="128">
+                </td>
+                <td width="3">
+                </td>
+                <td width="11">
+                </td>
+                <td width="97">
+                </td>
+                <td width="96">
+                </td>
+            </tr>
+        </table>
+        <br clear="all">
+        <p>
+            <table class="border1" width="100%">
+                <tr>
+                    <td width="294" colspan="3">
+                        <p>
+                            <b>Not 8</b>
+                    </td>
+                    <td colspan="11">
+                        <p>
+                            <b>Avskrivningar av anl&#228;ggningstillg&#229;ngar</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="504" colspan="10">
+                        <p>
+                        Byggnader, byggn.inventarier, markanl.
+                    </td>
+                    <td width="11">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                        303 340
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                        166 130
+                    </td>
+                </tr>
+                <tr>
+                    <td width="432" colspan="7">
+                        <p>
+                        Maskiner och inventarier
+                    </td>
+                    <td width="23">
+                    </td>
+                    <td width="49" colspan="2">
+                    </td>
+                    <td width="11">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                        24 459
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                        8 573
+                    </td>
+                </tr>
+                <tr>
+                    <td width="288" colspan="2">
+                        <p>
+                            <b></b>
+                    </td>
+                    <td width="16" colspan="2">
+                    </td>
+                    <td width="128" colspan="3">
+                    </td>
+                    <td width="23">
+                    </td>
+                    <td width="49" colspan="2">
+                    </td>
+                    <td width="11">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                        327 798
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                        174 703
+                    </td>
+                </tr>
+                <tr>
+                    <td width="288" colspan="2">
+                    </td>
+                    <td width="16" colspan="2">
+                    </td>
+                    <td width="128" colspan="3">
+                    </td>
+                    <td width="23">
+                    </td>
+                    <td width="49" colspan="2">
+                    </td>
+                    <td width="11">
+                    </td>
+                    <td width="97">
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                    </td>
+                </tr>
+                <tr>
+                    <td width="288" colspan="2">
+                        <p>
+                            <b>Not 9</b>
+                    </td>
+                    <td width="144" colspan="5">
+                        <p>
+                            <b>R&#228;nteint&#228;kter</b>
+                    </td>
+                    <td width="23">
+                        <p>
+                            <b></b>
+                    </td>
+                    <td width="49" colspan="2">
+                        <p>
+                            <b></b>
+                    </td>
+                    <td width="11">
+                        <p align="center">
+                            <b></b>
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                            <b></b>
+                    </td>
+                    <td width="12">
+                        <p>
+                            <b></b>
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                            <b></b>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="432" colspan="7">
+                        <p>
+                        R&#228;nteint&#228;kter bank
+                    </td>
+                    <td width="23">
+                    </td>
+                    <td width="49" colspan="2">
+                    </td>
+                    <td width="11">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                        &#8211;
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                        126 225
+                    </td>
+                </tr>
+                <tr>
+                    <td width="455" colspan="8">
+                        <p>
+                        R&#228;nteint&#228;kter avr&#228;kning med FSB
+                    </td>
+                    <td width="49" colspan="2">
+                    </td>
+                    <td width="11">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                        9 363
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                        16 105
+                    </td>
+                </tr>
+                <tr>
+                    <td width="455" colspan="8">
+                        <p>
+                        R&#228;nteint&#228;kter spec. utl&#229;n till RB
+                    </td>
+                    <td width="49" colspan="2">
+                    </td>
+                    <td width="11">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                        147 337
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                        21 869
+                    </td>
+                </tr>
+                <tr>
+                    <td width="432" colspan="7">
+                        <p>
+                        Avgifts- och hyresfordringar
+                    </td>
+                    <td width="23">
+                    </td>
+                    <td width="49" colspan="2">
+                    </td>
+                    <td width="11">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                        &#8211;
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                        910
+                    </td>
+                </tr>
+                <tr>
+                    <td width="288" colspan="2">
+                    </td>
+                    <td width="16" colspan="2">
+                    </td>
+                    <td width="128" colspan="3">
+                    </td>
+                    <td width="23">
+                    </td>
+                    <td width="49" colspan="2">
+                    </td>
+                    <td width="11">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                        156 700
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                        165 110
+                    </td>
+                </tr>
+                <tr>
+                    <td width="432" colspan="7">
+                        <p>
+                        FSB = F&#246;reningssparbanken
+                    </td>
+                    <td width="23">
+                    </td>
+                    <td width="49" colspan="2">
+                    </td>
+                    <td width="11">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                    </td>
+                </tr>
+                <tr>
+                    <td width="304" colspan="4">
+                        <p>
+                        RB = Riksbyggen
+                    </td>
+                    <td width="128" colspan="3">
+                    </td>
+                    <td width="23">
+                    </td>
+                    <td width="49" colspan="2">
+                    </td>
+                    <td width="11">
+                    </td>
+                    <td width="97">
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                    </td>
+                </tr>
+                <tr>
+                    <td width="288" colspan="2">
+                    </td>
+                    <td width="16" colspan="2">
+                    </td>
+                    <td width="128" colspan="3">
+                    </td>
+                    <td width="23">
+                    </td>
+                    <td width="49" colspan="2">
+                    </td>
+                    <td width="11">
+                    </td>
+                    <td width="97">
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                    </td>
+                </tr>
+                <tr>
+                    <td width="288" colspan="2">
+                        <p>
+                            <b>Not 10</b>
+                    </td>
+                    <td width="144" colspan="5">
+                        <p>
+                            <b>R&#228;ntekostnader</b>
+                    </td>
+                    <td width="23">
+                        <p>
+                            <b></b>
+                    </td>
+                    <td width="49" colspan="2">
+                        <p>
+                            <b></b>
+                    </td>
+                    <td width="11">
+                        <p align="center">
+                            <b></b>
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                            <b></b>
+                    </td>
+                    <td width="12">
+                        <p>
+                            <b></b>
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                            <b></b>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="432" colspan="7">
+                        <p>
+                        R&#228;ntekostnader, fastighetsl&#229;n
+                    </td>
+                    <td width="23">
+                    </td>
+                    <td width="49" colspan="2">
+                    </td>
+                    <td width="11">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                        5 170 158
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                        5 178 748
+                    </td>
+                </tr>
+                <tr>
+                    <td width="432" colspan="7">
+                        <p>
+                        &#214;vriga r&#228;ntekostnader
+                    </td>
+                    <td width="23">
+                    </td>
+                    <td width="49" colspan="2">
+                    </td>
+                    <td width="11">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                        2 145
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                        &#8211;
+                    </td>
+                </tr>
+                <tr>
+                    <td width="432" colspan="7">
+                        <p>
+                        &#214;vriga finansiella kostnader
+                    </td>
+                    <td width="23">
+                    </td>
+                    <td width="49" colspan="2">
+                    </td>
+                    <td width="11">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                        200
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                        200
+                    </td>
+                </tr>
+                <tr>
+                    <td width="276">
+                        <a name="RANGE!F230"></a><a name="RANGE!F177"></a><a name="RANGE!F173"></a>
+                    </td>
+                    <td width="28" colspan="3">
+                    </td>
+                    <td width="128" colspan="3">
+                    </td>
+                    <td width="23">
+                    </td>
+                    <td width="49" colspan="2">
+                    </td>
+                    <td width="11">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                        5 172 503
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                        5 178 948
+                    </td>
+                </tr>
+                <tr>
+                    <td width="276">
+                    </td>
+                    <td width="28" colspan="3">
+                    </td>
+                    <td width="128" colspan="3">
+                    </td>
+                    <td width="23">
+                    </td>
+                    <td width="49" colspan="2">
+                    </td>
+                    <td width="11">
+                    </td>
+                    <td width="97">
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                    </td>
+                </tr>
+                <tr>
+                    <td width="276">
+                        <p>
+                            <b>Not 11</b>
+                    </td>
+                    <td width="179" colspan="7">
+                        <p>
+                            <b>Byggnader och mark</b>
+                    </td>
+                    <td width="49" colspan="2">
+                        <p>
+                            <b></b>
+                    </td>
+                    <td width="11">
+                        <p align="center">
+                            <b></b>
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                            <b></b>
+                    </td>
+                    <td width="12">
+                        <p>
+                            <b></b>
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                            <b></b>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="504" colspan="10">
+                        <p>
+                            <b>Ackumulerade anskaffningsv&#228;rden</b>
+                    </td>
+                    <td width="11">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                    </td>
+                </tr>
+                <tr>
+                    <td width="304" colspan="4">
+                        <p>
+                        Byggnader</a>
+                    </td>
+                    <td width="128" colspan="3">
+                    </td>
+                    <td width="23">
+                    </td>
+                    <td width="49" colspan="2">
+                    </td>
+                    <td width="11">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                        101 482 190
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                        101 482 190
+                    </td>
+                </tr>
+                <tr>
+                    <td width="304" colspan="4">
+                        <p>
+                        Mark
+                    </td>
+                    <td width="128" colspan="3">
+                    </td>
+                    <td width="23">
+                    </td>
+                    <td width="49" colspan="2">
+                    </td>
+                    <td width="11">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                        6 377 800
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                        6 377 800
+                    </td>
+                </tr>
+                <tr>
+                    <td width="432" colspan="7">
+                        <p>
+                        Fastighetsf&#246;rb&#228;ttringar
+                    </td>
+                    <td width="23">
+                    </td>
+                    <td width="49" colspan="2">
+                    </td>
+                    <td width="11">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                        1 234 625
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                        &#8211;
+                    </td>
+                </tr>
+                <tr>
+                    <td width="288" colspan="2">
+                        <p>
+                    </td>
+                    <td width="16" colspan="2">
+                    </td>
+                    <td width="128" colspan="3">
+                    </td>
+                    <td width="23">
+                    </td>
+                    <td width="49" colspan="2">
+                    </td>
+                    <td width="11">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                        109 094 615
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                        107 859 990
+                    </td>
+                </tr>
+                <tr>
+                    <td width="288" colspan="2">
+                        <p>
+                    </td>
+                    <td width="16" colspan="2">
+                    </td>
+                    <td width="128" colspan="3">
+                    </td>
+                    <td width="23">
+                    </td>
+                    <td width="49" colspan="2">
+                    </td>
+                    <td width="11">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                    </td>
+                </tr>
+                <tr>
+                    <td width="455" colspan="8">
+                        <p>
+                            <b>Summa ack. anskaffningsv&#228;rden</b>
+                    </td>
+                    <td width="49" colspan="2">
+                    </td>
+                    <td width="11">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                            <b>109 094 615</b>
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                            <b>107 859 990</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="288" colspan="2">
+                    </td>
+                    <td width="16" colspan="2">
+                    </td>
+                    <td width="128" colspan="3">
+                    </td>
+                    <td width="23">
+                    </td>
+                    <td width="49" colspan="2">
+                    </td>
+                    <td width="11">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                    </td>
+                </tr>
+                <tr>
+                    <td width="504" colspan="10">
+                        <p>
+                            <b>Ackumulerade avskrivningar enligt plan</b>
+                    </td>
+                    <td width="11">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                    </td>
+                </tr>
+                <tr>
+                    <td width="304" colspan="4">
+                        <p>
+                        Byggnader
+                    </td>
+                    <td width="128" colspan="3">
+                    </td>
+                    <td width="23">
+                    </td>
+                    <td width="49" colspan="2">
+                    </td>
+                    <td width="11">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                        -10 297 859
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                        -10 117 982
+                    </td>
+                </tr>
+                <tr>
+                    <td width="432" colspan="7">
+                        <p>
+                        Fastighetsf&#246;rb&#228;ttringar
+                    </td>
+                    <td width="23">
+                    </td>
+                    <td width="49" colspan="2">
+                    </td>
+                    <td width="11">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                        - 123 463
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                        &#8211;
+                    </td>
+                </tr>
+                <tr>
+                    <td width="288" colspan="2">
+                        <p>
+                    </td>
+                    <td width="16" colspan="2">
+                    </td>
+                    <td width="128" colspan="3">
+                    </td>
+                    <td width="23">
+                    </td>
+                    <td width="49" colspan="2">
+                    </td>
+                    <td width="11">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                        -10 421 322
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                        -10 117 982
+                    </td>
+                </tr>
+                <tr>
+                    <td width="288" colspan="2">
+                        <p>
+                    </td>
+                    <td width="16" colspan="2">
+                    </td>
+                    <td width="128" colspan="3">
+                    </td>
+                    <td width="23">
+                    </td>
+                    <td width="49" colspan="2">
+                    </td>
+                    <td width="11">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                    </td>
+                </tr>
+                <tr>
+                    <td width="455" colspan="8">
+                        <p>
+                            <b>Summa ack. avskr. enligt plan</b>
+                    </td>
+                    <td width="49" colspan="2">
+                    </td>
+                    <td width="11">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                            <b>-10 421 322</b>
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                            <b>-10 117 982</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="288" colspan="2">
+                    </td>
+                    <td width="16" colspan="2">
+                    </td>
+                    <td width="128" colspan="3">
+                    </td>
+                    <td width="23">
+                    </td>
+                    <td width="49" colspan="2">
+                    </td>
+                    <td width="11">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                    </td>
+                </tr>
+                <tr>
+                    <td width="504" colspan="10">
+                        <p>
+                        Planenligt restv&#228;rde byggnader vid &#229;rets slut
+                    </td>
+                    <td width="11">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                        92 295 494
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                        91 364 208
+                    </td>
+                </tr>
+                <tr>
+                    <td width="504" colspan="10">
+                        <p>
+                        Planenligt restv&#228;rde mark vid &#229;rets slut
+                    </td>
+                    <td width="11">
+                        <p align="right">
+                            <b></b>
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                        6 377 800
+                    </td>
+                    <td width="12">
+                        <p>
+                            <b></b>
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                        6 377 800
+                    </td>
+                </tr>
+                <tr>
+                    <td width="288" colspan="2">
+                    </td>
+                    <td width="16" colspan="2">
+                    </td>
+                    <td width="128" colspan="3">
+                    </td>
+                    <td width="23">
+                    </td>
+                    <td width="49" colspan="2">
+                        <p align="right">
+                            <b></b>
+                    </td>
+                    <td width="11">
+                        <p align="right">
+                            <b></b>
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                    </td>
+                    <td width="12">
+                        <p>
+                            <b></b>
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                    </td>
+                </tr>
+                <tr>
+                    <td width="504" colspan="10">
+                        <p>
+                            <a name="RANGE!F322"></a><a name="RANGE!F317"></a><b>Planenligt restv&#228;rde vid &#229;rets
+                                slut</b><b></b>
+                    </td>
+                    <td width="11">
+                        <p align="right">
+                            <b></b>
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                        98 673 294
+                    </td>
+                    <td width="12">
+                        <p>
+                            <b></b>
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                        97 742 008
+                    </td>
+                </tr>
+                <tr>
+                    <td width="288" colspan="2">
+                        <p>
+                            <b></b>
+                    </td>
+                    <td width="16" colspan="2">
+                    </td>
+                    <td width="128" colspan="3">
+                    </td>
+                    <td width="23">
+                    </td>
+                    <td width="49" colspan="2">
+                        <p align="right">
+                            <b></b>
+                    </td>
+                    <td width="11">
+                        <p align="right">
+                            <b></b>
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                    </td>
+                    <td width="12">
+                        <p>
+                            <b></b>
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                    </td>
+                </tr>
+                <tr>
+                    <td width="432" colspan="7">
+                        <p>
+                        Taxeringsv&#228;rden, byggnader
+                    </td>
+                    <td width="23">
+                    </td>
+                    <td width="49" colspan="2">
+                    </td>
+                    <td width="11">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                        57 120 000
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                        52 080 000
+                    </td>
+                </tr>
+                <tr>
+                    <td width="432" colspan="7">
+                        <p>
+                        Taxeringsv&#228;rden, mark
+                    </td>
+                    <td width="23">
+                    </td>
+                    <td width="49" colspan="2">
+                    </td>
+                    <td width="11">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                        12 784 000
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                        11 656 000
+                    </td>
+                </tr>
+                <tr>
+                    <td width="288" colspan="2">
+                        <a name="RANGE!F329"></a>
+                    </td>
+                    <td width="16" colspan="2">
+                    </td>
+                    <td width="128" colspan="3">
+                    </td>
+                    <td width="23">
+                    </td>
+                    <td width="49" colspan="2">
+                    </td>
+                    <td width="11">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                        69 904 000
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                        63 736 000
+                    </td>
+                </tr>
+                <tr>
+                    <td width="288" colspan="2">
+                        <p>
+                            <b>Not 12</b>
+                    </td>
+                    <td width="324" colspan="10">
+                        <p>
+                            <b>Maskiner, inventarier, fastighetsinventarier</b>
+                    </td>
+                    <td width="12">
+                        <p>
+                            <b></b>
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                            <b></b>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="455" colspan="8">
+                        <p>
+                        Ackumulerade anskaffningsv&#228;rden
+                    </td>
+                    <td width="46">
+                    </td>
+                    <td width="14" colspan="2">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                    </td>
+                </tr>
+                <tr>
+                    <td width="304" colspan="4">
+                        <p>
+                        Vid &#229;rets b&#246;rjan
+                    </td>
+                    <td width="128" colspan="3">
+                    </td>
+                    <td width="23">
+                    </td>
+                    <td width="46">
+                    </td>
+                    <td width="14" colspan="2">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                    </td>
+                </tr>
+                <tr>
+                    <td width="304" colspan="4">
+                        <p>
+                        Inventarier
+                    </td>
+                    <td width="128" colspan="3">
+                    </td>
+                    <td width="23">
+                    </td>
+                    <td width="46">
+                    </td>
+                    <td width="14" colspan="2">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                        187 403
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                        157 824
+                    </td>
+                </tr>
+                <tr>
+                    <td width="288" colspan="2">
+                        <p>
+                    </td>
+                    <td width="16" colspan="2">
+                    </td>
+                    <td width="128" colspan="3">
+                    </td>
+                    <td width="23">
+                    </td>
+                    <td width="46">
+                    </td>
+                    <td width="14" colspan="2">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                        187 403
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                        157 824
+                    </td>
+                </tr>
+                <tr>
+                    <td width="432" colspan="7">
+                        <p>
+                        &#197;rets nyanskaffningar
+                    </td>
+                    <td width="23">
+                    </td>
+                    <td width="46">
+                    </td>
+                    <td width="14" colspan="2">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                    </td>
+                </tr>
+                <tr>
+                    <td width="304" colspan="4">
+                        <p>
+                        Inventarier
+                    </td>
+                    <td width="128" colspan="3">
+                    </td>
+                    <td width="23">
+                    </td>
+                    <td width="46">
+                    </td>
+                    <td width="14" colspan="2">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                        79 425
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                        29 579
+                    </td>
+                </tr>
+                <tr>
+                    <td width="288" colspan="2">
+                    </td>
+                    <td width="16" colspan="2">
+                    </td>
+                    <td width="128" colspan="3">
+                    </td>
+                    <td width="23">
+                    </td>
+                    <td width="46">
+                    </td>
+                    <td width="14" colspan="2">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                        266 828
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                        187 403
+                    </td>
+                </tr>
+                <tr>
+                    <td width="501" colspan="9">
+                        <p>
+                        Ackumulerade avskrivningar enligt plan
+                    </td>
+                    <td width="14" colspan="2">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                    </td>
+                </tr>
+                <tr>
+                    <td width="304" colspan="4">
+                        <p>
+                        Vid &#229;rets b&#246;rjan
+                    </td>
+                    <td width="128" colspan="3">
+                    </td>
+                    <td width="23">
+                    </td>
+                    <td width="46">
+                    </td>
+                    <td width="14" colspan="2">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                    </td>
+                </tr>
+                <tr>
+                    <td width="304" colspan="4">
+                        <p>
+                        Inventarier
+                    </td>
+                    <td width="128" colspan="3">
+                    </td>
+                    <td width="23">
+                    </td>
+                    <td width="46">
+                    </td>
+                    <td width="14" colspan="2">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                        158 424
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                        149 851
+                    </td>
+                </tr>
+                <tr>
+                    <td width="288" colspan="2">
+                        <p>
+                    </td>
+                    <td width="16" colspan="2">
+                    </td>
+                    <td width="128" colspan="3">
+                    </td>
+                    <td width="23">
+                    </td>
+                    <td width="46">
+                    </td>
+                    <td width="14" colspan="2">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                        158 424
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                        149 851
+                    </td>
+                </tr>
+                <tr>
+                    <td width="432" colspan="7">
+                        <p>
+                        &#197;rets avskrivningar
+                    </td>
+                    <td width="23">
+                    </td>
+                    <td width="46">
+                    </td>
+                    <td width="14" colspan="2">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                    </td>
+                </tr>
+                <tr>
+                    <td width="304" colspan="4">
+                        <p>
+                        Inventarier
+                    </td>
+                    <td width="128" colspan="3">
+                    </td>
+                    <td width="23">
+                    </td>
+                    <td width="46">
+                    </td>
+                    <td width="14" colspan="2">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                        24 459
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                        8 573
+                    </td>
+                </tr>
+                <tr>
+                    <td width="455" colspan="8">
+                        <p>
+                            <b>Summa ack. avskr. enligt plan </b>
+                    </td>
+                    <td width="46">
+                    </td>
+                    <td width="14" colspan="2">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                        182 883
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                        158 424
+                    </td>
+                </tr>
+                <tr>
+                    <td width="288" colspan="2">
+                        <p>
+                            <b></b>
+                    </td>
+                    <td width="16" colspan="2">
+                    </td>
+                    <td width="128" colspan="3">
+                    </td>
+                    <td width="23">
+                    </td>
+                    <td width="46">
+                    </td>
+                    <td width="14" colspan="2">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                    </td>
+                </tr>
+                <tr>
+                    <td width="501" colspan="9">
+                        <p>
+                            <b>Planenligt restv&#228;rde vid &#229;rets slut</b>
+                    </td>
+                    <td width="14" colspan="2">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                        83 945
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                        28 978
+                    </td>
+                </tr>
+                <tr>
+                    <td width="288" colspan="2">
+                        <p>
+                            <b></b>
+                    </td>
+                    <td width="16" colspan="2">
+                        <p>
+                    </td>
+                    <td width="128" colspan="3">
+                        <p>
+                    </td>
+                    <td width="23">
+                        <p>
+                    </td>
+                    <td width="46">
+                        <p>
+                    </td>
+                    <td width="14" colspan="2">
+                        <p>
+                    </td>
+                    <td width="97">
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                    </td>
+                </tr>
+                <tr>
+                    <td width="288" colspan="2">
+                    </td>
+                    <td width="16" colspan="2">
+                    </td>
+                    <td width="128" colspan="3">
+                    </td>
+                    <td width="23">
+                    </td>
+                    <td width="46">
+                    </td>
+                    <td width="14" colspan="2">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                    </td>
+                    <td width="12">
+                        <p>
+                            <b></b>
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                            <b></b>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="288" colspan="2">
+                        <p>
+                            <b>Not 13</b>
+                    </td>
+                    <td width="167" colspan="6">
+                        <p>
+                            <b>L&#229;ngfristiga fordringar</b>
+                    </td>
+                    <td width="46">
+                        <p>
+                            <b></b>
+                    </td>
+                    <td width="14" colspan="2">
+                        <p align="center">
+                            <b></b>
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                            <b></b>
+                    </td>
+                    <td width="12">
+                        <p>
+                            <b></b>
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                            <b></b>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="288" colspan="2">
+                        <p>
+                        Andelar i Riksbyggen
+                    </td>
+                    <td width="16" colspan="2">
+                    </td>
+                    <td width="128" colspan="3">
+                    </td>
+                    <td width="23">
+                    </td>
+                    <td width="46">
+                    </td>
+                    <td width="14" colspan="2">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                        129 000
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                        129 000
+                    </td>
+                </tr>
+                <tr>
+                    <td width="288" colspan="2">
+                    </td>
+                    <td width="16" colspan="2">
+                    </td>
+                    <td width="128" colspan="3">
+                    </td>
+                    <td width="23">
+                    </td>
+                    <td width="46">
+                    </td>
+                    <td width="14" colspan="2">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                        129 000
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                        129 000
+                    </td>
+                </tr>
+                <tr>
+                    <td width="288" colspan="2">
+                    </td>
+                    <td width="16" colspan="2">
+                    </td>
+                    <td width="128" colspan="3">
+                    </td>
+                    <td width="23">
+                    </td>
+                    <td width="46">
+                    </td>
+                    <td width="14" colspan="2">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                            <b></b>
+                    </td>
+                    <td width="12">
+                        <p>
+                            <b></b>
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                            <b></b>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="288" colspan="2">
+                        <p>
+                            <b>Not 14</b>
+                    </td>
+                    <td width="324" colspan="10">
+                        <p>
+                            <b>F&#246;rutbetalda kostn. och upplupna int&#228;kter</b>
+                    </td>
+                    <td width="12">
+                        <p>
+                            <b></b>
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                            <b></b>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="288" colspan="2">
+                        <p>
+                        R&#228;nteint&#228;kter
+                    </td>
+                    <td width="16" colspan="2">
+                    </td>
+                    <td width="104">
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="84" colspan="4">
+                    </td>
+                    <td width="11">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                        5 989
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                        3 775
+                    </td>
+                </tr>
+                <tr>
+                    <td width="288" colspan="2">
+                        <p>
+                        Fastighetsf&#246;rs&#228;kring
+                    </td>
+                    <td width="16" colspan="2">
+                    </td>
+                    <td width="104">
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="84" colspan="4">
+                    </td>
+                    <td width="11">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                        20 144
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                        &#8211;
+                    </td>
+                </tr>
+                <tr>
+                    <td width="288" colspan="2">
+                        <p>
+                        Fastighetsskatt
+                    </td>
+                    <td width="16" colspan="2">
+                    </td>
+                    <td width="104">
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="84" colspan="4">
+                    </td>
+                    <td width="11">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                        885 171
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                        &#8211;
+                    </td>
+                </tr>
+                <tr>
+                    <td width="288" colspan="2">
+                        <p>
+                        &#214;vrigt
+                    </td>
+                    <td width="16" colspan="2">
+                    </td>
+                    <td width="104">
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="84" colspan="4">
+                    </td>
+                    <td width="11">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                        19 065
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                        27 531
+                    </td>
+                </tr>
+                <tr>
+                    <td width="288" colspan="2">
+                    </td>
+                    <td width="16" colspan="2">
+                    </td>
+                    <td width="104">
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="84" colspan="4">
+                    </td>
+                    <td width="11">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                        930 369
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                        31 306
+                    </td>
+                </tr>
+                <tr>
+                    <td width="288" colspan="2">
+                    </td>
+                    <td width="16" colspan="2">
+                    </td>
+                    <td width="104">
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="84" colspan="4">
+                    </td>
+                    <td width="11">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                            <b></b>
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                            <b></b>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="288" colspan="2">
+                        <p>
+                            <b>Not 15</b>
+                    </td>
+                    <td width="120" colspan="3">
+                        <p>
+                            <b>Kassa och bank</b>
+                    </td>
+                    <td width="12">
+                        <p>
+                            <b></b>
+                    </td>
+                    <td width="84" colspan="4">
+                        <p>
+                            <b></b>
+                    </td>
+                    <td width="11">
+                        <p align="center">
+                            <b></b>
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                            <b></b>
+                    </td>
+                    <td width="12">
+                        <p>
+                            <b></b>
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                            <b></b>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="288" colspan="2">
+                        <p>
+                        Handkassa
+                    </td>
+                    <td width="16" colspan="2">
+                    </td>
+                    <td width="104">
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="84" colspan="4">
+                    </td>
+                    <td width="11">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                        5 000
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                        8 000
+                    </td>
+                </tr>
+                <tr>
+                    <td width="288" colspan="2">
+                        <p>
+                        Avr&#228;kning med FSB
+                    </td>
+                    <td width="16" colspan="2">
+                    </td>
+                    <td width="104">
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="84" colspan="4">
+                    </td>
+                    <td width="11">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                        647 104
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                        2 028 493
+                    </td>
+                </tr>
+                <tr>
+                    <td width="288" colspan="2">
+                        <p>
+                        Bankmedel
+                    </td>
+                    <td width="16" colspan="2">
+                    </td>
+                    <td width="104">
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="84" colspan="4">
+                    </td>
+                    <td width="11">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                        2 286 870
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                        3 673 156
+                    </td>
+                </tr>
+                <tr>
+                    <td width="288" colspan="2">
+                    </td>
+                    <td width="16" colspan="2">
+                    </td>
+                    <td width="104">
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="84" colspan="4">
+                    </td>
+                    <td width="11">
+                        <p align="center">
+                    </td>
+                    <td width="97">
+                        <p align="right">
+                        2 938 974
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                        <p align="right">
+                        5 709 649
+                    </td>
+                </tr>
+                <tr height="0">
+                    <td width="276">
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="6">
+                    </td>
+                    <td width="11">
+                    </td>
+                    <td width="104">
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="23">
+                    </td>
+                    <td width="46">
+                    </td>
+                    <td width="3">
+                    </td>
+                    <td width="11">
+                    </td>
+                    <td width="97">
+                    </td>
+                    <td width="12">
+                    </td>
+                    <td width="96">
+                    </td>
+                </tr>
+            </table>
+            <br clear="all">
+            <p>
+                <table class="border1" width="100%">
+                    <tr>
+                        <td width="180">
+                        </td>
+                        <td width="124" colspan="5">
+                        </td>
+                        <td width="92">
+                        </td>
+                        <td width="12">
+                        </td>
+                        <td width="96" colspan="4">
+                        </td>
+                        <td width="97">
+                            <p align="right">
+                                <b></b>
+                        </td>
+                        <td width="96">
+                            <p align="right">
+                                <b></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="180">
+                            <p>
+                                <b>Not 16</b>
+                        </td>
+                        <td width="216" colspan="6">
+                            <p>
+                                <b>Eget kapital</b>
+                        </td>
+                        <td width="12">
+                            <p>
+                        </td>
+                        <td width="96" colspan="4">
+                            <p>
+                        </td>
+                        <td width="97">
+                            <p align="right">
+                        </td>
+                        <td width="96">
+                            <p align="right">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="180">
+                        </td>
+                        <td width="124" colspan="5">
+                            <p align="right">
+                        </td>
+                        <td width="92">
+                            <p align="right">
+                        </td>
+                        <td width="12">
+                            <p align="right">
+                        </td>
+                        <td colspan="4" rowspan="2" align="right">
+                            Insatser och uppl. avgift
+                        </td>
+                        <td width="97" rowspan="2" align="right">
+                            Disp.fond
+                        </td>
+                        <td width="96" align="right">
+                            Resultat
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="180">
+                        </td>
+                        <td width="124" colspan="5">
+                            <p align="center">
+                        </td>
+                        <td width="92">
+                            <p align="center">
+                        </td>
+                        <td width="12">
+                            <p align="center">
+                        </td>
+                        <td width="96">
+                            <p align="right">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="304" colspan="6">
+                            <p>
+                                <b>Vid &#229;rets b&#246;rjan</b>
+                        </td>
+                        <td width="92">
+                            <p align="center">
+                        </td>
+                        <td width="12">
+                            <p align="center">
+                        </td>
+                        <td width="96" colspan="4">
+                            <p align="right">
+                            5 777 560
+                        </td>
+                        <td width="97">
+                            <p align="right">
+                            &#8211;
+                        </td>
+                        <td width="96">
+                            <p align="right">
+                            5 849 202
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="396" colspan="7">
+                            <p>
+                            Disposition enl st&#228;mmobeslut
+                        </td>
+                        <td width="12">
+                            <p align="center">
+                        </td>
+                        <td width="96" colspan="4">
+                            <p align="right">
+                        </td>
+                        <td width="97">
+                            <p align="right">
+                            &#8211;
+                        </td>
+                        <td width="96">
+                            <p align="right">
+                            -2 500 000
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="396" colspan="7">
+                            <p>
+                                <a name="RANGE!F486"></a><a name="RANGE!F438"></a>
+                            &#214;vriga avs&#228;ttningar fg &#229;r
+                        </td>
+                        <td width="12">
+                            <p align="center">
+                        </td>
+                        <td width="96" colspan="4">
+                            <p align="right">
+                        </td>
+                        <td width="97">
+                            <p align="right">
+                        </td>
+                        <td width="96">
+                            <p align="right">
+                                <a name="RANGE!N486">&#8211;</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="304" colspan="6">
+                            <p>
+                            &#197;rets resultat
+                        </td>
+                        <td width="92">
+                            <p align="center">
+                        </td>
+                        <td width="12">
+                            <p align="center">
+                        </td>
+                        <td width="96" colspan="4">
+                            <p align="right">
+                            &#8211;
+                        </td>
+                        <td width="97">
+                            <p align="right">
+                        </td>
+                        <td width="96">
+                            <p align="right">
+                            98 027
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="304" colspan="6">
+                            <p>
+                                <b>Vid &#229;rets slut</b>
+                        </td>
+                        <td width="92">
+                        </td>
+                        <td width="12">
+                        </td>
+                        <td width="96" colspan="4">
+                            <p align="right">
+                            5 777 560
+                        </td>
+                        <td width="97">
+                            <p align="right">
+                            &#8211;
+                        </td>
+                        <td width="96">
+                            <p align="right">
+                            3 447 229
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="180">
+                            <a name="RANGE!F489"></a>
+                        </td>
+                        <td width="124" colspan="5">
+                        </td>
+                        <td width="92">
+                        </td>
+                        <td width="12">
+                        </td>
+                        <td width="96" colspan="4">
+                        </td>
+                        <td width="97">
+                        </td>
+                        <td width="96">
+                            <p align="right">
+                                <b></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="180">
+                        </td>
+                        <td width="124" colspan="5">
+                        </td>
+                        <td width="92">
+                        </td>
+                        <td width="12">
+                        </td>
+                        <td width="96" colspan="4">
+                        </td>
+                        <td width="97">
+                        </td>
+                        <td width="96">
+                            <p align="right">
+                                <b></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="180">
+                            <p>
+                                <b>Not 17</b>
+                        </td>
+                        <td width="324" colspan="11">
+                            <p>
+                                <b>F&#246;reningens underh&#229;llsfond</b>
+                        </td>
+                        <td width="97">
+                            <p align="right">
+                                <b></b>
+                        </td>
+                        <td width="96">
+                            <p align="right">
+                                <b></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="180">
+                            <p>
+                            Beh&#229;llning vid &#229;rets b&#246;rjan
+                        </td>
+                        <td width="124" colspan="5">
+                        </td>
+                        <td width="68">
+                        </td>
+                        <td width="108" colspan="5">
+                        </td>
+                        <td width="97">
+                            <p align="right">
+                            4 749
+                        </td>
+                        <td width="96">
+                            <p align="right">
+                            362 572
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="180">
+                            <p>
+                            Avs&#228;ttning enligt plan
+                        </td>
+                        <td width="124" colspan="5">
+                        </td>
+                        <td width="68">
+                        </td>
+                        <td width="108" colspan="5">
+                        </td>
+                        <td width="97">
+                            <p align="right">
+                            315 000
+                        </td>
+                        <td width="96">
+                            <p align="right">
+                            315 000
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="180">
+                            <p>
+                            Extra avs&#228;ttning enl st&#228;mmobeslut
+                        </td>
+                        <td width="124" colspan="5">
+                        </td>
+                        <td width="68">
+                        </td>
+                        <td width="108" colspan="5">
+                        </td>
+                        <td width="97">
+                            <p align="right">
+                            2 500 000
+                        </td>
+                        <td width="96">
+                            <p align="right">
+                            &#8211;
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="180">
+                            <p>
+                            Uttag ur fond
+                        </td>
+                        <td width="124" colspan="5">
+                        </td>
+                        <td width="68">
+                        </td>
+                        <td width="108" colspan="5">
+                        </td>
+                        <td width="97">
+                            <p align="right">
+                            - 864 222
+                        </td>
+                        <td width="96">
+                            <p align="right">
+                            672 823
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="372" colspan="7">
+                            <p>
+                                <b>Beh&#229;llning vid &#229;rets slut</b>
+                        </td>
+                        <td width="108" colspan="5">
+                        </td>
+                        <td width="97">
+                            <p align="right">
+                            1 955 527
+                        </td>
+                        <td width="96">
+                            <p align="right">
+                            4 749
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="180">
+                        </td>
+                        <td width="124" colspan="5">
+                        </td>
+                        <td width="68">
+                        </td>
+                        <td width="108" colspan="5">
+                        </td>
+                        <td width="97">
+                            <p align="right">
+                                <b></b>
+                        </td>
+                        <td width="96">
+                            <p align="right">
+                                <b></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="180">
+                            <p>
+                                <b>Not 18</b>
+                        </td>
+                        <td width="192" colspan="6">
+                            <p>
+                                <b>Fastighetsl&#229;n</b><b>, l&#229;nga</b>
+                        </td>
+                        <td width="108" colspan="5">
+                            <p>
+                                <b></b>
+                        </td>
+                        <td width="97">
+                            <p align="center">
+                        </td>
+                        <td width="96">
+                            <p align="center">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="304" colspan="6">
+                            <p>
+                            Fastighetsl&#229;n
+                        </td>
+                        <td width="68">
+                            <p align="right">
+                        </td>
+                        <td width="108" colspan="5">
+                            <p align="right">
+                        </td>
+                        <td width="97">
+                            <p align="right">
+                            90 629 141
+                        </td>
+                        <td width="96">
+                            <p align="right">
+                            90 809 018
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="372" colspan="7">
+                            <p>
+                                <b>Skuld vid &#229;rets slut</b>
+                        </td>
+                        <td width="108" colspan="5">
+                            <p align="right">
+                        </td>
+                        <td width="97">
+                            <p align="right">
+                            90 629 141
+                        </td>
+                        <td width="96">
+                            <p align="right">
+                            90 809 018
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="288" colspan="4">
+                            <p>
+                                <b></b>
+                        </td>
+                        <td width="11">
+                        </td>
+                        <td width="73" colspan="2">
+                            <p align="right">
+                        </td>
+                        <td width="108" colspan="5">
+                            <p align="right">
+                        </td>
+                        <td width="97">
+                            <p align="right">
+                        </td>
+                        <td width="96">
+                            <p align="right">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="276" colspan="3">
+                            <p>
+                                <b>Kreditgivare</b>
+                        </td>
+                        <td width="96" colspan="4">
+                            <p align="right">
+                                <b>R&#228;nta</b>
+                        </td>
+                        <td width="108" colspan="5">
+                            <p align="right">
+                                <b>Konv</b><b>. Datum</b>
+                        </td>
+                        <td width="97">
+                            <p align="right">
+                                <b>Amortering</b>
+                        </td>
+                        <td width="96">
+                            <p align="right">
+                                <b>Utg. Skuld</b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="252" colspan="2">
+                            <p>
+                                <b>SBAB</b>
+                        </td>
+                        <td width="24">
+                        </td>
+                        <td width="96" colspan="4">
+                            <p align="right">
+                            5,35%
+                        </td>
+                        <td width="108" colspan="5">
+                            <p align="right">
+                            2002-09-18
+                        </td>
+                        <td width="97">
+                            <p align="right">
+                            2 910
+                        </td>
+                        <td width="96">
+                            <p align="right">
+                            1 433 699
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="252" colspan="2">
+                            <p>
+                                <b>SBAB</b>
+                        </td>
+                        <td width="24">
+                        </td>
+                        <td width="96" colspan="4">
+                            <p align="right">
+                            5,35%
+                        </td>
+                        <td width="108" colspan="5">
+                            <p align="right">
+                            2002-09-18
+                        </td>
+                        <td width="97">
+                            <p align="right">
+                            18 559
+                        </td>
+                        <td width="96">
+                            <p align="right">
+                            9 209 109
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="252" colspan="2">
+                            <p>
+                                <b>SBAB</b>
+                        </td>
+                        <td width="24">
+                        </td>
+                        <td width="96" colspan="4">
+                            <p align="right">
+                            5,35%
+                        </td>
+                        <td width="108" colspan="5">
+                            <p align="right">
+                            2002-09-18
+                        </td>
+                        <td width="97">
+                            <p align="right">
+                            2 558
+                        </td>
+                        <td width="96">
+                            <p align="right">
+                            1 256 351
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="252" colspan="2">
+                            <p>
+                                <b>SBAB</b>
+                        </td>
+                        <td width="24">
+                        </td>
+                        <td width="96" colspan="4">
+                            <p align="right">
+                            5,35%
+                        </td>
+                        <td width="108" colspan="5">
+                            <p align="right">
+                            2002-09-18
+                        </td>
+                        <td width="97">
+                            <p align="right">
+                            25 033
+                        </td>
+                        <td width="96">
+                            <p align="right">
+                            12 427 549
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="252" colspan="2">
+                            <p>
+                                <b>SBAB</b>
+                        </td>
+                        <td width="24">
+                        </td>
+                        <td width="96" colspan="4">
+                            <p align="right">
+                            5,75%
+                        </td>
+                        <td width="108" colspan="5">
+                            <p align="right">
+                            2005-08-22
+                        </td>
+                        <td width="97">
+                            <p align="right">
+                            66 867
+                        </td>
+                        <td width="96">
+                            <p align="right">
+                            33 216 670
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="252" colspan="2">
+                            <p>
+                                <b>SBAB</b>
+                        </td>
+                        <td width="24">
+                            <p>
+                        </td>
+                        <td width="96" colspan="4">
+                            <p align="right">
+                            5,90%
+                        </td>
+                        <td width="108" colspan="5">
+                            <p align="right">
+                            2008-03-03
+                        </td>
+                        <td width="97">
+                            <p align="right">
+                            63 950
+                        </td>
+                        <td width="96">
+                            <p align="right">
+                            33 085 763
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="252" colspan="2">
+                            <p>
+                                <b></b>
+                        </td>
+                        <td width="24">
+                        </td>
+                        <td width="96" colspan="4">
+                            <p align="right">
+                        </td>
+                        <td width="108" colspan="5">
+                            <p>
+                                <b></b>
+                        </td>
+                        <td width="97">
+                            <p align="right">
+                                <b>179 877</b>
+                        </td>
+                        <td width="96">
+                            <p align="right">
+                                <b>90 629 141</b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="252" colspan="2">
+                            <p>
+                                <b></b>
+                        </td>
+                        <td width="24">
+                        </td>
+                        <td width="96" colspan="4">
+                            <p align="right">
+                        </td>
+                        <td width="108" colspan="5">
+                            <p align="right">
+                        </td>
+                        <td width="97">
+                            <p align="right">
+                        </td>
+                        <td width="96">
+                            <p align="right">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="252" colspan="2">
+                        </td>
+                        <td width="24">
+                        </td>
+                        <td width="96" colspan="4">
+                        </td>
+                        <td width="108" colspan="5">
+                        </td>
+                        <td width="97">
+                            <p align="right">
+                        </td>
+                        <td width="96">
+                            <p align="right">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="252" colspan="2">
+                            <p>
+                                <b>Not 19</b>
+                        </td>
+                        <td width="144" colspan="12">
+                            <p>
+                                <b>&#214;vriga skulder, korta</b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="432" colspan="9">
+                            <p>
+                            &#214;vriga skulder till kunder, korta
+                        </td>
+                        <td width="11">
+                        </td>
+                        <td width="61" colspan="2">
+                            <p align="right">
+                        </td>
+                        <td width="97">
+                            <p align="right">
+                            5 575
+                        </td>
+                        <td width="96">
+                            <p align="right">
+                            5 575
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="432" colspan="9">
+                            <p>
+                            Upplupna sociala avg. och skatter
+                        </td>
+                        <td width="11">
+                        </td>
+                        <td width="61" colspan="2">
+                            <p align="right">
+                        </td>
+                        <td width="97">
+                            <p align="right">
+                            1 194
+                        </td>
+                        <td width="96">
+                            <p align="right">
+                            &#8211;
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="288" colspan="4">
+                        </td>
+                        <td width="16" colspan="2">
+                        </td>
+                        <td width="128" colspan="3">
+                            <p align="right">
+                        </td>
+                        <td width="11">
+                        </td>
+                        <td width="61" colspan="2">
+                            <p align="right">
+                        </td>
+                        <td width="97">
+                            <p align="right">
+                            6 769
+                        </td>
+                        <td width="96">
+                            <p align="right">
+                            5 575
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="288" colspan="4">
+                        </td>
+                        <td width="16" colspan="2">
+                        </td>
+                        <td width="128" colspan="3">
+                        </td>
+                        <td width="11">
+                        </td>
+                        <td width="61" colspan="2">
+                        </td>
+                        <td width="97">
+                            <p align="right">
+                                <b></b>
+                        </td>
+                        <td width="96">
+                            <p align="right">
+                                <b></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="288" colspan="4">
+                            <p>
+                                <b>Not 20</b>
+                        </td>
+                        <td width="324" colspan="9">
+                            <p>
+                                <b>Upplupna kostn. och f&#246;rutbetalda int&#228;kter</b>
+                        </td>
+                        <td width="96">
+                            <p align="right">
+                                <b></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="455" colspan="11">
+                            <p>
+                            Upplupna l&#246;ner och sociala avgifter
+                        </td>
+                        <td width="46">
+                        </td>
+                        <td width="97">
+                            <p align="right">
+                            19 965
+                        </td>
+                        <td width="96">
+                            <p align="right">
+                            &#8211;
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="304" colspan="6">
+                            <p>
+                            R&#228;ntekostnader
+                        </td>
+                        <td width="128" colspan="3">
+                        </td>
+                        <td width="23" colspan="2">
+                        </td>
+                        <td width="46">
+                        </td>
+                        <td width="97">
+                            <p align="right">
+                            524 284
+                        </td>
+                        <td width="96">
+                            <p align="right">
+                            525 327
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="501" colspan="12">
+                            <p>
+                            Upplupna drift- och underh&#229;llskostnader
+                        </td>
+                        <td width="97">
+                            <p align="right">
+                            73 918
+                        </td>
+                        <td width="96">
+                            <p align="right">
+                            80 327
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="288" colspan="4">
+                            <p>
+                            &#214;vrigt
+                        </td>
+                        <td width="16" colspan="2">
+                        </td>
+                        <td width="128" colspan="3">
+                        </td>
+                        <td width="23" colspan="2">
+                        </td>
+                        <td width="46">
+                        </td>
+                        <td width="97">
+                            <p align="right">
+                            16 000
+                        </td>
+                        <td width="96">
+                            <p align="right">
+                            &#8211;
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="288" colspan="4">
+                        </td>
+                        <td width="16" colspan="2">
+                        </td>
+                        <td width="128" colspan="3">
+                        </td>
+                        <td width="23" colspan="2">
+                        </td>
+                        <td width="46">
+                        </td>
+                        <td width="97">
+                            <p align="right">
+                            634 167
+                        </td>
+                        <td width="96">
+                            <p align="right">
+                            605 654
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="288" colspan="4">
+                        </td>
+                        <td width="16" colspan="2">
+                        </td>
+                        <td width="128" colspan="3">
+                        </td>
+                        <td width="23" colspan="2">
+                        </td>
+                        <td width="46">
+                        </td>
+                        <td width="97">
+                            <p align="right">
+                                <b></b>
+                        </td>
+                        <td width="96">
+                            <p align="right">
+                                <b></b>
+                        </td>
+                    </tr>
+                </table>
 </asp:Content>
-
