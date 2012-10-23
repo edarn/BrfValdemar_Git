@@ -41,7 +41,7 @@
            <li><a href="pdf/BRFValdemar2009.pdf" target="_blank">Resultat & Balansräkning för år 2009</a></li>
             <li><a href="pdf/BRFValdemar2008.pdf" target="_blank">Resultat & Balansräkning för år 2008</a></li>
             <li><a href="pdf/BRFValdemar2007.pdf" target="_blank">Resultat & Balansräkning för år 2007</a></li>
-           <li><a href="pdf/RValdemar2006.pdf" target="_blank">Resultat & Balansräkning för år 2006</a></li>
+           <li><a href="pdf/RRValdemar2006.pdf" target="_blank">Resultat & Balansräkning för år 2006</a></li>
            <li><a href="pdf/RRValdemar2005.pdf" target="_blank">Resultat & Balansräkning för år 2005</a></li>
         <li><a href="RRValdemar2004.aspx" target="_self">Resultat & Balansräkning för år 2004</a></li>
            <li><a href="RR_BR_2002_2003.aspx" target="_self">Resultat & Balansräkning för år  2002/2003</a></li>
