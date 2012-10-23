@@ -28,7 +28,8 @@ strong {
 }
 
 a {
-	color: #000000;
+	color: #0000FF;
+
 }
 
 a:hover {
@@ -98,20 +99,20 @@ hr {
 #menu ul {
 	float: right;
 	margin: 0px;
-	padding: 18px 5px 0px 0px;
+	padding: 28px 5px 0px 0px;
 	list-style: none;
 	line-height: normal;
 }
 
 #menu li {
 	float: left;
-	padding: 0px 17px;
+	padding: 0px 25px;
 }
 
 #menu a {
 	display: block;
 	float: left;
-	height: 67px;
+	height: 57px;
 	letter-spacing: -1px;
 	text-decoration: none;
 	font-family: Arial, Helvetica, sans-serif;
@@ -244,6 +245,9 @@ hr {
 .box3-bgtop {
 	background: url(./../images/homepage09.jpg) no-repeat left top;
 }
+.box31-bgtop {
+	background: url(images/bgblog.jpg) repeat;
+}
 
 .box3-bgbtm {
 	overflow: hidden;
@@ -251,7 +255,10 @@ hr {
 	background: url(./../images/homepage11.jpg) no-repeat left bottom;
 }
 
-
+.ali
+{
+    text-align:justify;
+ }
 /** FOOTER */
 
 #footer {
@@ -701,3 +708,8 @@ ul.style4 li {
 
 
 
+ .border1
+        {
+            border: 1px solid #efefef;
+            text-align: justify;
+        }

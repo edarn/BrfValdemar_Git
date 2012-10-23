@@ -8,7 +8,7 @@
     <title>Brf NicklasHuset</title>
     <asp:ContentPlaceHolder ID="HeadContent" runat="server">
     </asp:ContentPlaceHolder>
-    <link href="default.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="./Styles/default.css" rel="stylesheet" type="text/css" media="all" />
     
 </head>
 <body class="wide-column" >
