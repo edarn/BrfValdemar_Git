@@ -1,0 +1,89 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Site.master.cs" Inherits="SiteMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+    <title>Brf NicklasHuset</title>
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="default.css" rel="stylesheet" type="text/css" media="all" />
+    
+</head>
+<body >
+<form id="Form1" runat="server">
+<div id="wrapper">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" class="container">
+		<tr>
+			<td id="header" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td valign="top"> <br /><img src="~/images/brf valdemar2.png" runat="server" alt="" style="height: 27px; width: 312px" /></td>
+						<td><div id="menu">
+                       <ul>
+                    <li  id="Start" runat="server"><a href="~/Default.aspx" runat="server" accesskey="1" title="">Startsida</a></li>
+                    <li id="Bilder" runat="server"><a href="~/Bilder.aspx" runat="server"  accesskey="2" title="">Bilder</a></li>
+                    <li id="Information" runat="server"><a href="~/Information.aspx" runat="server"  accesskey="3" title="">Information</a></li>
+                    <li id="Blog" runat="server"><a href="~/Blog.aspx" accesskey="4" runat="server"  title="">Blog</a></li>
+                    <li id="Links" runat="server"><a href="~/Links.aspx" accesskey="6" runat="server"  title="">Länkar</a></li>
+                    
+                    <li id="Styrelsen" runat="server"><a href="~/Styrelsen.aspx" runat="server"  accesskey="7" title="">Styrelse</a></li>
+                    
+                </ul>
+								 
+							</div></td>
+					</tr>
+				</table></td>
+		</tr>
+	</table>
+
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" id="page" class="container">
+		<tr>
+			<td><asp:ContentPlaceHolder ID="MainContent" runat="server" /></td>
+		</tr>
+	</table>
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+		<tr>
+			<td><div id="footer-wrapper" class="container">
+					<div id="footer-wrapper-bgtop">
+						<div id="footer-wrapper-bgbtm">
+							<div id="box1" class="box-style2">
+								<h2 class="title">Engagera sig i styrelsearbete</h2>
+					<p>Styrelsearbete kan vara både intressant, roligt och ett sätt att själv kunna påverka vad som händer på vårt område. Vi ser gärna
+                    att nya och gamla medlemmar kontaktar oss om ni vill vara med.</p>
+							</div>
+							<div id="box2" class="box-style2">
+								<h2 class="title">Kontakta oss: </h2>
+                     <asp:LoginView ID="HeadLoginView" runat="server" EnableViewState="false">
+            <AnonymousTemplate>
+                [ <a href="~/Account/Login.aspx" id="HeadLoginStatus" runat="server">Log In</a>
+                ]
+            </AnonymousTemplate>
+            <LoggedInTemplate>
+                Welcome <span class="bold">
+                    <asp:LoginName ID="HeadLoginName" runat="server" />
+                </span>! [
+                <asp:LoginStatus ID="HeadLoginStatus" runat="server" LogoutAction="Redirect" LogoutText="Log Out"
+                    LogoutPageUrl="~/" />
+                ]
+                  <div class="clear hideSkiplink">
+                    <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false"
+                        IncludeStyleBlock="false" Orientation="Horizontal">
+                        <Items>
+                            <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Home" />
+                            <asp:MenuItem NavigateUrl="~/About.aspx" Text="About" />
+                        </Items>
+                   </asp:Menu>
+            </LoggedInTemplate>
+        </asp:LoginView>
+							</div>
+							<div class="clearfix">&nbsp;</div>
+						</div>
+					</div>
+				</div></td>
+		</tr>
+	</table>
+	
+</div>
+  </form>
+</body>
+</html>
+
