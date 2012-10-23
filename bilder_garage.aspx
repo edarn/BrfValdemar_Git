@@ -19,31 +19,7 @@
         </tr>
     </table>
     <br>
-   <%--  
-    <table width="50%" border="0" cellspacing="0" cellpadding="4" align="center">
-        <tr>
-            <td align="center" colspan="2">
-                Garageportarna
-            </td>
-        </tr>
-        <tr>
-            <td align="center">
-                <img src="images/garage_red.jpg" width="320" height="240">
-            </td>
-            <td align="center">
-                <img src="images/garage_blue.jpg" width="320" height="240">
-            </td>
-        </tr>
-        <tr>
-            <td colspan="2" align="center">
-                Garageportarna efter omm&aring;lning och ny f&auml;rgs&auml;ttning. Tidigare färg
-                var ljusgrått.<br>
-                Arbetet utf&ouml;rt av Stråheds Bygg och Fastighetsservice under september 2002
-            </td>
-        </tr>
-        </tr>
-    </table>--%>
-    <div id="slider">
+     <div id="slider">
 				<a href="#" class="button previous-button">&lt;</a>
 				<a href="#" class="button next-button">&gt;</a>
 				<div class="viewer">
