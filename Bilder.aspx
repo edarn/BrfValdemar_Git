@@ -9,8 +9,6 @@
     <link href="Styles/style_slidertron.css" rel="stylesheet" type="text/css" media="all" />
     <script type="text/javascript" src="Scripts/jquery-1.7.1.min.js"></script>
     <script type="text/javascript" src="Scripts/jquery.slidertron-1.0.js"></script>
-    <!--[if IE 6]><link href="ie6fix.css" rel="stylesheet" type="text/css" /><![endif]-->
-    <!--[if IE 7]><link href="ie7fix.css" rel="stylesheet" type="text/css" /><![endif]-->
 </asp:Content>
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
     <div id="slider">
