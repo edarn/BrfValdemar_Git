@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Bostadsrättsföreningen Valdemar" Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true"
+﻿<%@ Page Title="Bostadsrättsföreningen Valdemar" Language="C#" MasterPageFile="~/Site_Transparent.master" AutoEventWireup="true"
     CodeFile="Default.aspx.cs" Inherits="_Default" %>
 
 <asp:Content ID="HeaderContent" runat="server" ContentPlaceHolderID="HeadContent">

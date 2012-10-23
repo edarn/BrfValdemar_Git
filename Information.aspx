@@ -1,5 +1,5 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Information.aspx.cs" Inherits="Information"
-    MasterPageFile="~/Site.Master" %>
+    MasterPageFile="~/Site_Transparent.master" %>
 
 <asp:Content ID="HeaderContent" runat="server" ContentPlaceHolderID="HeadContent">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />

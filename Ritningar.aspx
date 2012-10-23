@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true" CodeFile="Ritningar.aspx.cs" Inherits="Ritningar" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site_Transparent.master" AutoEventWireup="true" CodeFile="Ritningar.aspx.cs" Inherits="Ritningar" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" Runat="Server">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
