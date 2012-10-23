@@ -61,7 +61,7 @@
 							</BLOCKQUOTE>
 							<BLOCKQUOTE>
 								<LI>
-								läsa stadgarna. Läs Brf Valdemars <a href="stadgar.htm"> stadgar</a>
+								läsa stadgarna. Läs Brf Valdemars <a href="stadgar.aspx"> stadgar</a>
 								</LI>
 							</BLOCKQUOTE>
 							<BLOCKQUOTE>
