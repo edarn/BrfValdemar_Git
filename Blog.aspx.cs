@@ -13,9 +13,12 @@ public partial class Blog : System.Web.UI.Page
     {
         if (!User.Identity.IsAuthenticated)
         {
-           CKEditor1.Visible = false;
+          // CKEditor1.Visible = false;
            Button1.Visible = false;
+           CKEditor2.Visible = false;
 
+          
+	
         }
         if (!IsPostBack)
         {
@@ -25,9 +28,14 @@ public partial class Blog : System.Web.UI.Page
     }
      void bind()
     {
+        CKFinder.FileBrowser _FileBrowser = new CKFinder.FileBrowser();
+        _FileBrowser.BasePath = "/ckfinder/";
+        _FileBrowser.SetupCKEditor(CKEditor2);
+         
+
         //define the connection reference and initialize it
         MySql.Data.MySqlClient.MySqlConnection msqlConnection = null;
-        msqlConnection = new MySql.Data.MySqlClient.MySqlConnection("server=tnasoftware.dyndns.org;user id=valdemar;Password=password;database=test;persist security info=False");
+        msqlConnection = new MySql.Data.MySqlClient.MySqlConnection("server=valdemar-193220.mysql.binero.se;user id=193220_bw12731;Password=Brysselkal1;database=193220-valdemar;persist security info=False");
         
         //define the command reference
         MySql.Data.MySqlClient.MySqlCommand mysqlCommand = new MySql.Data.MySqlClient.MySqlCommand();
@@ -54,17 +62,6 @@ public partial class Blog : System.Web.UI.Page
             MySql.Data.MySqlClient.MySqlDataReader mysqlReader = mysqlCommand.ExecuteReader();
             GrdPreview.DataSource = mysqlReader;
             GrdPreview.DataBind();
-
-            //while (mysqlReader.Read())
-            //{
-            //    TableRow t = new TableRow();
-            //    TableCell d = new TableCell();
-            //    d.Text = (string)mysqlReader["html"];
-            //    t.Cells.Add(d);
-            //    news.Rows.Add(t);
-
-            //    //do something with each record
-            //}
         }
         catch (Exception er)
         {
@@ -77,34 +74,12 @@ public partial class Blog : System.Web.UI.Page
         }
     }
 
-    //protected void GrdPreview_RowDeleting(object sender, GridViewDeleteEventArgs e)
-    //{
-    //    MySql.Data.MySqlClient.MySqlConnection msqlConnection = null;
-    //    msqlConnection = new MySql.Data.MySqlClient.MySqlConnection("server=tnasoftware.dyndns.org;user id=valdemar;Password=password;database=test;persist security info=False");
-
-    //    MySql.Data.MySqlClient.MySqlCommand mysqlCommand = new MySql.Data.MySqlClient.MySqlCommand();
-
-    //    mysqlCommand.Connection = msqlConnection;
-
-
-    //    msqlConnection.Open();
-      
-    //    mysqlCommand.CommandText = " delete from Valdemar_News where tid= '" + GrdPreview.DataKeys[e.RowIndex].Value.ToString() + "'";
-        
-    //    mysqlCommand.ExecuteNonQuery();
-    //    msqlConnection.Close();
-    //}
+    
     protected void Button1_Click1(object sender, EventArgs e)
     {
-        string fn = "";
-        string fname = "<BR>";
-        string SaveLocation = "";
-
-
-
         //define the connection reference and initialize it
         MySql.Data.MySqlClient.MySqlConnection msqlConnection = null;
-        msqlConnection = new MySql.Data.MySqlClient.MySqlConnection("server=tnasoftware.dyndns.org;user id=valdemar;Password=password;database=test;persist security info=False");
+        msqlConnection = new MySql.Data.MySqlClient.MySqlConnection("server=valdemar-193220.mysql.binero.se;user id=193220_bw12731;Password=Brysselkal1;database=193220-valdemar;persist security info=False");
         //   msqlConnection = new MySql.Data.MySqlClient.MySqlConnection("server=localhost;user id=root;password=ksae5;database=leads;pooling=false");
         //define the command reference
         MySql.Data.MySqlClient.MySqlCommand mysqlCommand = new MySql.Data.MySqlClient.MySqlCommand();
@@ -113,7 +88,7 @@ public partial class Blog : System.Web.UI.Page
 
         mysqlCommand.CommandText = "INSERT INTO Valdemar_News Set html=?html;";
         msqlConnection.Open();
-        mysqlCommand.Parameters.Add("?html", MySqlDbType.VarChar, 255).Value = CKEditor1.Value.ToString();
+        mysqlCommand.Parameters.Add("?html", MySqlDbType.VarChar, 255).Value = CKEditor2.Text;// CKEditor1.Value.ToString();
         mysqlCommand.ExecuteNonQuery();
         msqlConnection.Close();
         //define the command text
@@ -126,20 +101,11 @@ public partial class Blog : System.Web.UI.Page
             //use a DataReader to process each record
 
             mysqlCommand.CommandText = "SELECT html,date(tid) as tid ,unix_timestamp(tid) as tid1 FROM Valdemar_News ORDER by tid DESC;";
-            //mysqlCommand.CommandText = "SELECT html,date fromat(tid) as tid  FROM Valdemar_News ORDER by tid DESC;";
             
             MySql.Data.MySqlClient.MySqlDataReader mysqlReader = mysqlCommand.ExecuteReader();
             GrdPreview.DataSource = mysqlReader;
             GrdPreview.DataBind();
-
-            //while (msqlReader.Read())
-            //{
-            //    TableRow t = new TableRow();
-            //    TableCell d = new TableCell();
-            //    d.Text = (string)msqlReader["html"];
-            //    t.Cells.Add(d);
-            //    news.Rows.Add(t);
-            //}
+          
         }
         catch (Exception er)
         {
@@ -152,7 +118,6 @@ public partial class Blog : System.Web.UI.Page
         }
         //Insert into database.
 
-        //CKEditor1.Text
-        bind();
+       bind();
     }
 }

@@ -14,7 +14,7 @@ public partial class Account_Login : System.Web.UI.Page
     public void OnAuthenticate(object sender, AuthenticateEventArgs e)
     {
         bool Authenticated = false;
-        if (LoginUser.UserName.Equals("Valdemar") && LoginUser.Password.Equals("Valdemar"))
+        if (LoginUser.UserName.Equals("admin") && LoginUser.Password.Equals("ValdemarsHus"))
         {
             Authenticated = true;
         }

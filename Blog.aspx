@@ -2,6 +2,7 @@
     MasterPageFile="~/Site_Transparent.master" %>
 
 <%@ Register TagPrefix="FCKeditorV2" Namespace="FredCK.FCKeditorV2" Assembly="FredCK.FCKeditorV2" %>
+<%@ Register Assembly="CKEditor.NET" Namespace="CKEditor.NET" TagPrefix="CKEditor" %>
 
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent" >
 
@@ -47,8 +48,8 @@
     }
 </script>
 <table align="center" width="97%" >
-   <tr><td> <FCKeditorV2:FCKeditor id="CKEditor1"  BasePath="~/fckeditor/" runat="server" ></FCKeditorV2:FCKeditor>
-
+   <tr><td> <!--<FCKeditorV2:FCKeditor id="CKEditor1"  BasePath="~/fckeditor/" runat="server" ></FCKeditorV2:FCKeditor> -->
+   <CKEditor:CKEditorControl ID="CKEditor2" BasePath="/ckeditor/" runat="server"></CKEditor:CKEditorControl>
 </td></tr>
     
     <asp:Table ID="news" runat="server">
@@ -58,17 +59,7 @@
     <tr>
     <td>
 
-   <%-- <table class="style1">
-        <tr>
-            <td width="100%" style="font-family: Arial, Verdana, sans-serif;font-size: 30px;">
-                <strong>Blog</strong></td>
-        </tr>
-    </table>
---%>
-    <%--<asp:Table ID="preview" Visible="false" runat="server" >
-    </asp:Table>--%>
-
-  <asp:GridView ID="GrdPreview" runat="server" AutoGenerateColumns="false" 
+   <asp:GridView ID="GrdPreview" runat="server" AutoGenerateColumns="false" 
             Borderwidth="0px" RowStyle-BorderWidth="0px" BorderStyle="None" HeaderStyle-BorderWidth="0px" 
   ShowHeader="false" width="100%" 
                   DataKeyNames="tid" 

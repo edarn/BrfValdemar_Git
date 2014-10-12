@@ -21,7 +21,7 @@
                 <tr>
                     <td colspan="2">
                         <h3>
-                            Styrelsen 2012-04-25
+                            Styrelsen 2013-04-23
                             <!--  Ändrings datum -->
                         </h3>
                     </td>
@@ -31,7 +31,7 @@
                         Ordförande
                     </td>
                     <td class="linje" width="30%">
-                        Peter Öberg
+                        Håkan Larsson
                     </td>
                 </tr>
                 <tr>
@@ -39,25 +39,10 @@
                         Vice ordförande
                     </td>
                     <td class="linje" width="30%">
-                        Håkan Larsson
-                    </td>
-                </tr>
-                <tr>
-                    <td class="linje" width="30%">
-                        Ord. ledamot
-                    </td>
-                    <td class="linje" width="30%">
-                        Birgitta Danielsson
-                    </td>
-                </tr>
-                <tr>
-                    <td class="linje" width="30%">
-                        Ord. ledamot
-                    </td>
-                    <td class="linje" width="30%">
                         Niklas Kenez
                     </td>
                 </tr>
+               
                 <tr>
                     <td class="linje" width="30%">
                         Ord. ledamot
@@ -71,23 +56,16 @@
                         Ord. ledamot
                     </td>
                     <td class="linje" width="30%">
-                        Gabriela Martinez
+                        Henrik Persson
                     </td>
                 </tr>
+                
                 <tr>
                     <td class="linje" width="30%">
                         Riksbyggens ord. ledamot
                     </td>
                     <td class="linje" width="30%">
-                        Per Svensson
-                    </td>
-                </tr>
-                <tr>
-                    <td class="linje" width="30%">
-                        Suppleant
-                    </td>
-                    <td class="linje" width="30%">
-                        Katarina Koos
+                        Malin Lundin
                     </td>
                 </tr>
                 <tr>
@@ -103,15 +81,15 @@
                         Suppleant
                     </td>
                     <td class="linje" width="30%">
-                        Hanadi Khattab
+                        Ola Mattsson
                     </td>
                 </tr>
                 <tr>
                     <td class="linje" width="30%">
-                        Riksbyggens suppleant
+                        Suppleant
                     </td>
                     <td class="linje" width="30%">
-                        Joakim Larsson
+                        Anders Borglin
                     </td>
                 </tr>
             </table>
@@ -163,14 +141,6 @@
                     </td>
                     <td class="linje" width="30%">
                         Åsa Tomasson
-                    </td>
-                </tr>
-                <tr>
-                    <td class="linje" width="30%">
-                        Valberedning
-                    </td>
-                    <td class="linje" width="30%">
-                        Benita Lindholm
                     </td>
                 </tr>
             </table>

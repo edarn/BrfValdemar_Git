@@ -54,7 +54,7 @@
                 </ul>
                 <ul>
                     <b>Källsorterin och Sopor</b>
-                    <li><a href="http://www.sysav.se/Templates/avc.aspx?id=365" target="blank">Sysav</a></li>
+                    <li><a href="http://www.sysav.se/" target="blank">Sysav</a></li>
                 </ul>
                 <ul>
                     <b>Sökmotorer och portaler</b>
@@ -103,8 +103,7 @@
                     <li><a href="http://www.lund.se/" target="blank">Lunds kommun</a></li>
                     <li><a href="http://www.skanetrafiken.skane.se/" target="blank">Skånetrafiken</a>
                     </li>
-                    <li><a href="http://www.finn.se/" target="blank">Sparbanken Finn</a></li>
-                    <li><a href="http://www.lund.se/default____39329.aspx" target="blank">Vikingaskolan,
+                    <li><a href="http://www.lund.se/vikingaskolan" target="blank">Vikingaskolan,
                         Linero </a>
                         <br></li>
                 </ul>

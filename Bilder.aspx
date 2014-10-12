@@ -24,27 +24,6 @@
                     <img src="images/IMG_7793 (Large).JPG" />
                 </div>
                 <div class="slide">
-                    <img src="images/IMG_7794 (Large).JPG" />
-                </div>
-                <div class="slide">
-                    <img src="images/IMG_7795 (Large).JPG" />
-                </div>
-                <div class="slide">
-                    <img src="images/IMG_7796 (Large).JPG" />
-                </div>
-                <div class="slide">
-                    <img src="images/IMG_7797 (Large).JPG" />
-                </div>
-                <div class="slide">
-                    <img src="images/IMG_7799 (Large).JPG" />
-                </div>
-                <div class="slide">
-                    <img src="images/IMG_7800 (Large).JPG" />
-                </div>
-                <div class="slide">
-                    <img src="images/IMG_7801 (Large).JPG" />
-                </div>
-                <div class="slide">
                     <img src="images/IMG_7803 (Large).JPG" />
                 </div>
                 <div class="slide">
@@ -150,19 +129,6 @@
                 <li>23</li>
                 <li>24</li>
                 <li>25</li>
-                <li>26</li>
-
-                <li>27</li>
-                <li>28</li>
-                <li>29</li>
-                <li>30</li>
-               
-
-                <li>31</li>
-                <li>32</li>
-               
-
-               
             </ul>
         </div>
     </div>

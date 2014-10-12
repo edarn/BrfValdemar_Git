@@ -3,7 +3,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head runat="server">
-    <title>Brf NicklasHuset</title>
+    <title>Brf Valdemar</title>
     <asp:ContentPlaceHolder ID="HeadContent" runat="server">
     </asp:ContentPlaceHolder>
     <link href="./Styles/default.css" rel="stylesheet" type="text/css" media="all" />
@@ -54,16 +54,17 @@
 								<h2 class="title">Kontakta oss: </h2>
                      <asp:LoginView ID="HeadLoginView" runat="server" EnableViewState="false">
             <AnonymousTemplate>
-                [ <a href="~/Account/Login.aspx" id="HeadLoginStatus" runat="server">Log In</a>
+                [ <a href="~/Account/Login.aspx" id="HeadLoginStatus" runat="server">Logga In</a>
                 ]
             </AnonymousTemplate>
             <LoggedInTemplate>
-                Welcome <span class="bold">
+                Välkommen <span class="bold">
                     <asp:LoginName ID="HeadLoginName" runat="server" />
                 </span>! [
-                <asp:LoginStatus ID="HeadLoginStatus" runat="server" LogoutAction="Redirect" LogoutText="Log Out"
+                <asp:LoginStatus ID="HeadLoginStatus" runat="server" LogoutAction="Redirect" LogoutText="Logga Ut"
                     LogoutPageUrl="~/" />
                 ]
+                <!--
                   <div class="clear hideSkiplink">
                     <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false"
                         IncludeStyleBlock="false" Orientation="Horizontal">
@@ -71,7 +72,7 @@
                             <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Home" />
                             <asp:MenuItem NavigateUrl="~/About.aspx" Text="About" />
                         </Items>
-                   </asp:Menu>
+                   </asp:Menu> -->
             </LoggedInTemplate>
         </asp:LoginView>
 							</div>

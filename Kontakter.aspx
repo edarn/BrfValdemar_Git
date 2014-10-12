@@ -31,14 +31,14 @@
         </tr>
         <tr>
             <td height="31" colspan="2">
-                <b>FORVALTNING (Riksbyggen)</b>
+                <b>FÖRVALTNING (Riksbyggen)</b>
             </td>
         </tr>
         <tr>
             <td height="72" colspan="2">
                 <p>
-                    Riksbyggen ager INTE Brf Valdemar,utan Brf Valdemar ags avdess medlemmar.Brf
-                        Valdemar har inga anstallda utan koper forvaltningstjanster fran Riksbyggen.
+                    Riksbyggen äger INTE Brf Valdemar,utan Brf Valdemar ägs av dess medlemmar. Brf
+                        Valdemar har inga anställda utan köper förvaltningstjänster från Riksbyggen.
                     
                 </p>
             </td>
@@ -51,7 +51,7 @@
                 <br />
             </td>
             <td width="52%">
-                Besoksdress:Skiffervagen 86,Lund<br />
+                Besöksadress:Skiffervägen 86,Lund<br />
                 <strong>Tel.07771-86 08 60</strong><br />
                 <strong>Fax:046 -15 28 06 
                 </strong> 
@@ -64,69 +64,67 @@
         </tr>
         <tr>
             <td colspan="2">
-                Felanmalan vardagar <strong>08.00-16.00</strong>,tel <strong>0771-86 08 60</strong> 
+                Felanmälan vardagar <strong>08.00-16.00</strong>,tel <strong>0771-86 08 60</strong> 
                 <br />
                 E-mail:<strong>fastighetsservice@riksbyggen.se</strong><br />
-                Akuta fel ochstorningar utanfor kontorstid,tel <strong>0771-86 08 60 </strong> 
+                Akuta fel och störningar utanför kontorstid,tel <strong>0771-86 08 60 </strong> 
                 <br />
             </td>
         </tr>
         <tr>
             <td height="39" colspan="2">
-                Teknisk forvaltare: Per Svensson,tel <strong>0771-86 08 60</strong> (Forvaltning,underhall och
-                    bostadsrattsjuridik) 
+                Teknisk förvaltare: Per Svensson,tel <strong>0771-86 08 60</strong> (Förvaltning,underhåll och
+                    bostadsrättsjuridik) 
             </td>
         </tr>
         <tr>
             <td colspan="2">
                 Ekonom och kundansvarig: Joacim Larsson,tel <strong>0771-86 08 60</strong><br />
-                (Foreningens ekonomi,budgetochbokslut) 
+                (Föreningens ekonomi, budget och bokslut) 
                 <br />
             </td>
         </tr>
         <tr>
             <td height="114" colspan="2">
-                Overlatelser,medlem san sokningar,avier,autogiro m.m<br />
-                Riksbyggens Ekonomicenter (EKC) i Vasteras, tel:<strong>0771 -86 08 60</strong><br />
+                Överlåtelser, medlemsansökningar, avier, autogiro m.m<br />
+                Riksbyggens Ekonomicenter (EKC) i Västerås, tel:<strong>0771 -86 08 60</strong><br />
                 <br />
                 Postadress:<br />
                 EKC,Hyresgruppen<br />
-                Box 50,721 09 Vasteras. 
+                Box 50,721 09 Västerås. 
                 <br />
             </td>
         </tr>
         <tr>
             <td colspan="2" class="style1">
-                <b>SKADEDJURSBEKAMPNING</b><br />
+                <b>SKADEDJURSBEKÄMPNING</b><br />
                 Anticimex tel <strong>040-93 6100</strong><br />
-                Ange forsakringsnummer <strong>1890874. </strong> 
+                Ange försakringsnummer <strong>1890874. </strong> 
                
             </td>
         </tr>
         <tr>
             <td  colspan="2">
                     <b>STYRELSEN</b><br />
-                    Styrelsens sammansattning bestams av medlemarna pa arsstamman som halls pa varen.<br />
-                    Informaation om vilka som ingar i styrelsen finns uppsatt pa 
-                    <br />
-                    anslagstavlan vidKvartersgarden.<br />
+                    Styrelsens sammansättning bestäms av medlemarna på årsstämman som hålls på våren.<br />
+                    Informaation om vilka som ingår i styrelsen finns uppsatt på 
+                    <br /> anslagstavlan vid Kvartersgården.<br />
                 <p>
                 <br />
                    
                     Lokalhyra<br />
-                    For hyra av lokalen,kontakta Birgitta Danielsson,tel<strong> 13 84 87</strong></p>
+                    För hyra av lokalen, kontakta Maria Roggenfors, <strong>072-844 7113</strong>
                 <p>
-                    Oppet hus for medlemmar :Forsta tisdagen i varje manad kl <strong>19.00 -20.00
-                    </strong>(ej juli
-                        -aug) 
+                    Öppet hus för medlemmar: Första tisdagen i varje månad kl <strong>19.00 -20.00
+                    </strong>(ej juli - aug) 
                     <br />
                 </p>
-                Skriftliga meddelanden till styrelsen kan dulaggai den blaabravladan 
+                Skriftliga meddelanden till styrelsen kan du lägga i den blå brevlådan
                 <br />
-                vid Kvartersgarden,Valdemars vag 48.<br />
+                vid Kvartersgården, Valdemars väg 48.<br />
              <br />
-                    Foreningens hemsida:www.brfvaldemar.se<br />
-                    <strong>E-mail:ordf@peterberg.se 
+                    Föreningens hemsida:www.brfvaldemar.se<br />
+                    <strong>E-mail:info@brfvaldemar.se 
                     </strong> 
                     <br />
                     &nbsp;
