@@ -65,6 +65,7 @@ public partial class Blog : System.Web.UI.Page
         }
         catch (Exception er)
         {
+            Console.Out.WriteLine(er.Message);
             //do something with the exception
         }
         finally
@@ -109,7 +110,8 @@ public partial class Blog : System.Web.UI.Page
         }
         catch (Exception er)
         {
-            //do something with the exception
+            Console.Out.WriteLine(er.Message);
+            
         }
         finally
         {
