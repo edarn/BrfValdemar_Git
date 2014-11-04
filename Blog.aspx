@@ -1,7 +1,6 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Blog.aspx.cs" Inherits="Blog"
     MasterPageFile="~/Site_Transparent.master" %>
 
-<%@ Register TagPrefix="FCKeditorV2" Namespace="FredCK.FCKeditorV2" Assembly="FredCK.FCKeditorV2" %>
 <%@ Register Assembly="CKEditor.NET" Namespace="CKEditor.NET" TagPrefix="CKEditor" %>
 
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent" >
@@ -48,7 +47,7 @@
     }
 </script>
 <table align="center" width="97%" >
-   <tr><td> <!--<FCKeditorV2:FCKeditor id="CKEditor1"  BasePath="~/fckeditor/" runat="server" ></FCKeditorV2:FCKeditor> -->
+   <tr><td>
    <CKEditor:CKEditorControl ID="CKEditor2" BasePath="/ckeditor/" runat="server"></CKEditor:CKEditorControl>
 </td></tr>
     

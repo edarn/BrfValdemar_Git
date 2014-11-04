@@ -24,12 +24,13 @@
                     <li><a href="bofakta.aspx" target="_self">Bofakta</a></li>
                     <li><a href="garage_pplats.aspx" target="_self">Parkeringsplatser & Garage</a></li>
                     <li><a href="Regler_kvartersgarden2.aspx" target="_self">Kvartersgården</a></li>
-                    <li><a href="forsalj_stat.aspx" target="_self">FFörsäljningsstatistik</a></li>
                     <li><a href="Lgh1.aspx" target="_self">Lägenhetsregister sida </a></li>
                     <li><a href="Området.aspx" target="_self">Området </a></li>
                 </ul>
                 <ul>
                     <b>Föreningens ekonomi</b>
+                    <li><a href="pdf/BRFValdemar2013.pdf" target="_blank">Resultat & Balansräkning för år
+                        2013</a></li>
                     <li><a href="pdf/BRFValdemar2012.pdf" target="_blank">Resultat & Balansräkning för år
                         2012</a></li>
                     <li><a href="pdf/BRFValdemar2011.pdf" target="_blank">Resultat & Balansräkning för år

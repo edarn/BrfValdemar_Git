@@ -49,13 +49,11 @@
                         <ul>
                             1. Uthyrning sker endast till medlem i föreningen.<br>
                             <br>
-                            2. Vid hyra av lokalen uttages en fast av gift samt depositionsavgift 700 kr<br>
+                            2. Vid hyra av lokalen uttages en fast av gift samt depositionsavgift 500 kr<br>
                             <br>
-                            <!-- 3. Uthyrningen sker  vardag mellan kl 09:00 – 22:00<br><br>
-4. Fredag – lördag 18:00 – 01:00,  samt söndag 09:00 – 22:00<br><br> -->
-                            3. 150 kr för upp till tre timmars hyra av lokal<br>
+                            3. 150 kr för hyra mindre än 3 timmar<br>
                             <br>
-                            4. 300 kr för dygnshyra (klockan 12.00 - 12.00 påföljande dag)<br>
+                            4. 500 kr för dygnshyra (klockan 12.00 - 12.00 påföljande dag)<br>
                             <br>
                             5. Nyckeln återlämnas efter överenskommelse.<br>
                             <br>

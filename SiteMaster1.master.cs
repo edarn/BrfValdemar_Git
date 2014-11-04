@@ -33,10 +33,6 @@ public partial class SiteMaster1 : System.Web.UI.MasterPage
         {
             Styrelsen.Attributes.Add("class", "active");
         }
-        else if (HeadContent.Page.AppRelativeVirtualPath.Equals("~/Links.aspx"))
-        {
-            Links.Attributes.Add("class", "active");
-        }
         else
         {
             Information.Attributes.Add("class", "active");

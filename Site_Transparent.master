@@ -23,7 +23,6 @@
                     <li id="Bilder" runat="server"><a href="~/Bilder.aspx" runat="server"  accesskey="2" title="">Bilder</a></li>
                     <li id="Information" runat="server"><a href="~/Information.aspx" runat="server"  accesskey="3" title="">Information</a></li>
                     <li id="Blog" runat="server"><a href="~/Blog.aspx" accesskey="4" runat="server"  title="">Blog</a></li>
-                    <li id="Links" runat="server"><a href="~/Links.aspx" accesskey="6" runat="server"  title="">Länkar</a></li>
                     
                     <li id="Styrelsen" runat="server"><a href="~/Styrelsen.aspx" runat="server"  accesskey="7" title="">Styrelse</a></li>
                     

@@ -31,7 +31,7 @@
                         Ordförande
                     </td>
                     <td class="linje" width="30%">
-                        Håkan Larsson
+                        Henrik Persson
                     </td>
                 </tr>
                 <tr>
@@ -48,7 +48,7 @@
                         Ord. ledamot
                     </td>
                     <td class="linje" width="30%">
-                        Kirk Scott
+                        Maria Roggenfors
                     </td>
                 </tr>
                 <tr>
@@ -56,7 +56,25 @@
                         Ord. ledamot
                     </td>
                     <td class="linje" width="30%">
-                        Henrik Persson
+                        Ola Mattsson
+                    </td>
+                </tr>
+
+                 <tr>
+                    <td class="linje" width="30%">
+                        Ord. ledamot
+                    </td>
+                    <td class="linje" width="30%">
+                        Kirk Scott
+                    </td>
+                </tr>
+
+                 <tr>
+                    <td class="linje" width="30%">
+                        Ord. ledamot
+                    </td>
+                    <td class="linje" width="30%">
+                        Markus Johansson
                     </td>
                 </tr>
                 
@@ -73,7 +91,7 @@
                         Suppleant
                     </td>
                     <td class="linje" width="30%">
-                        Nicklas Lysander
+                        Håkan Larsson
                     </td>
                 </tr>
                 <tr>
@@ -81,7 +99,7 @@
                         Suppleant
                     </td>
                     <td class="linje" width="30%">
-                        Ola Mattsson
+                        Marcus Wrange
                     </td>
                 </tr>
                 <tr>
@@ -108,8 +126,8 @@
                         Yrkesrevisor
                     </td>
                     <td class="linje" width="30%">
-                        Auktoriserad revisor KPMG AB
-                    </td>
+                        YREV AB
+                        </td>
                 </tr>
                 <tr>
                     <td class="linje" width="30%">
@@ -133,14 +151,6 @@
                     </td>
                     <td class="linje" width="30%">
                         Anna Björk (sammankallande)
-                    </td>
-                </tr>
-                <tr>
-                    <td class="linje" width="30%">
-                        Valberedning
-                    </td>
-                    <td class="linje" width="30%">
-                        Åsa Tomasson
                     </td>
                 </tr>
             </table>

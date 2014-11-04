@@ -46,10 +46,8 @@
  	    Beställning sker hos <a href="http://www.ownit.se"  target"_blank">Ownit </a>. Månadskostnaden står föreningen för.<br>
 	    <br><br>
 	   	Föreningen har <a href="http://www.comhem.se" target"_blank" >Com Hem</a> som kabel-TV leverantör. Kabel-TV avgiften ingår i månadsavgiften. <br><br>
-   	    Föreningen har förvaltningsavtal med <a href="http://www.riksbyggen.se/" target="Riksbyggen">Riksbyggen</a>.<br>
-	    Riksbyggen, Skiffervägen 86, 224 78 Lund, Telefon: 0771 - 86 08 86, Fax: 046 - 15 28 06 <br><br>
-		
-		   Innan du köper en bostadsrätt skall du ta reda på vad detta innebär. Lite vägledning kan du få om du klickar på <a href="Kop_Bostadsratt.aspx" >Att köpa bostadsrätt</a> eller <a href="vad_ar_boratt.aspx">Vad är Bostadsrätt?</a> .
+   	    
+		Innan du köper en bostadsrätt skall du ta reda på vad detta innebär. Lite vägledning kan du få om du klickar på <a href="Kop_Bostadsratt.aspx" >Att köpa bostadsrätt</a> eller <a href="vad_ar_boratt.aspx">Vad är Bostadsrätt?</a> .
 		<br><br>
 		</p>
 
