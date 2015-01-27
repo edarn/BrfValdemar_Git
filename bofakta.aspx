@@ -4,7 +4,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="Server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="Server">
-   <%-- <table align="center" border="0" with="100%">
+    <%-- <table align="center" border="0" with="100%">
         <tr>
             <td align="center" width="100%">
                 <a href="inform.html" target="_self">Tillbaka till information</a>
@@ -12,18 +12,17 @@
         </tr>
     </table>
     <br>--%>
-    <table  border="0" with="100%" align="center">
+    <table border="0" with="100%" align="center">
         <tr>
-            <td  width="100%" >
-             <a href="javascript:history.go(-1);">
-                    Tillbaka till information</a> 
+            <td width="100%">
+                <a href="javascript:history.go(-1);">Tillbaka till information</a>
             </td>
         </tr>
     </table>
     <br>
-    <table  width="100%" class="border1">
+    <table width="100%" class="border1">
         <tr>
-            <td style='background: #efefef;font-weight:bold;text-align:center;'>
+            <td style='background: #efefef; font-weight: bold; text-align: center;'>
                 Bofakta om våra lägenheter
             </td>
         </tr>
@@ -34,20 +33,16 @@
                     OBS! Så här var lägenheterna utrustade när de var nya 1989/90
                     <br />
                 </i><b>Kök med matplats<br>
-                </b>
-              
-                Spis med 4 kokplattor, löstagbart hällskydd, tippskydd och luckspärr. Ugn med
+                </b>Spis med 4 kokplattor, löstagbart hällskydd, tippskydd och luckspärr. Ugn med
                 grill och värmeskåp. Spiskåpa med belysning. Kyl och svalskåp, frysskåp – allt i
                 vitt. Plats för diskmaskin finns och förberedelse för anslutning är klara. 3 skift
-                kakel som stänkskydd över bänkinredning. Belysning under väggskåp och tak. 
+                kakel som stänkskydd över bänkinredning. Belysning under väggskåp och tak.
                 <br />
                 <br />
                 <b>Wc/Dusch/Badrum<br>
-                </b>
-                
-                Wc-stol, tvättställ, badkar, badrumsskåp med spegel. Handukshängare, stödhantag
+                </b>Wc-stol, tvättställ, badkar, badrumsskåp med spegel. Handukshängare, stödhantag
                 vid badkar, klädkrok och toalettpappershållare.<br>
-               Väggytor i 4 rok kakelsatt från golv till tak vid badkar, i övrigt 8 skifte eller
+                Väggytor i 4 rok kakelsatt från golv till tak vid badkar, i övrigt 8 skifte eller
                 målad väv.<br>
                 Väggytor 2 rok och 3 rok kakelsatt från golv till tak vid badkar tvättställ och
                 Wc-stol, i övrigt målad väv.<br>

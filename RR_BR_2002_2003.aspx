@@ -11,13 +11,13 @@
             </td>
         </tr>
     </table>
-    <table width="100%" border="0" style="background-color:#efefef;border:1px solid #efefef;">
+    <table width="100%" border="0" style="background-color: #efefef; border: 1px solid #efefef;">
         <tr>
-            <td  >
+            <td>
                 <b>Resultatr&#228;kning Brf Valdemar 2002-07-01 &#8211; 2003-12-31 (OBS! 18 m&#229;nader)</b>
             </td>
     </table>
-    <table width="100%" style="border:1px solid #efefef;">
+    <table width="100%" style="border: 1px solid #efefef;">
         <tr>
             <td valign="bottom">
                 <p>
@@ -398,7 +398,7 @@
             </td>
             <td valign="bottom">
                 <p align="right">
-               <b> 8 186 319</b>
+                    <b>8 186 319</b>
             </td>
             <td valign="bottom">
                 <p align="right">
@@ -602,15 +602,13 @@
             </td>
         </tr>
     </table>
- 
-     <br />
+    <br />
     <table width="100%" class="border1">
-        <tr style="background-color:#efefef;">
+        <tr style="background-color: #efefef;">
             <td colspan="5">
                 <p>
                     <b><span>Balansr&#228;kning</b>
             </td>
-            
         </tr>
         <tr>
             <td>
@@ -1181,7 +1179,6 @@
                     <p>
                         <b><span>Balansr&#228;kning</b>
                 </td>
-                
             </tr>
             <tr>
                 <td colspan="2">
@@ -4332,10 +4329,8 @@
                                 <b>Not 9</b>
                         </td>
                         <td colspan="12">
-                           
-                                <b>Avskrivningar av anl&#228;ggningstillg&#229;ngar</b>
+                            <b>Avskrivningar av anl&#228;ggningstillg&#229;ngar</b>
                         </td>
-                        
                     </tr>
                     <tr>
                         <td colspan="9">
@@ -4949,23 +4944,25 @@
                             Byggnader
                         </td>
                         <td colspan="3">
-                            &nbsp;</td>
+                            &nbsp;
+                        </td>
                         <td>
-                            &nbsp;</td>
+                            &nbsp;
+                        </td>
                         <td colspan="3">
-                            &nbsp;</td>
+                            &nbsp;
+                        </td>
                         <td>
                             <p align="center">
                         </td>
                         <td align="right">
-                          
                             101 482 190
                         </td>
                         <td>
-                           
                         </td>
                         <td nowrap>
-                            101 482 190</td>
+                            101 482 190
+                        </td>
                     </tr>
                     <tr>
                         <td colspan="2">
@@ -5713,7 +5710,6 @@
                             <p>
                                 <b>Maskiner, inventarier, fastighetsinventarier</b>
                         </td>
-                       
                     </tr>
                     <tr>
                         <td colspan="5">
@@ -6440,1616 +6436,1605 @@
                             <p>
                                 <b>F&#246;rutbetalda kostn. och upplupna int&#228;kter</b>
                         </td>
-                       
-                    <tr>
-                        <td colspan="5" valign="bottom">
-                            <p>
-                            F&#246;rutbetald kabel-tv-avgift
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td colspan="3">
-                            <p>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p align="right">
-                            17 698
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p align="right">
-                            0
-                        </td>
-                    </tr>
-                    <tr>
-                        <td valign="bottom">
-                            <p>
-                            &#214;vrigt
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td colspan="3">
-                            <p>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td colspan="3">
-                            <p>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p align="right">
-                            0
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p align="right">
-                            19 065
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <p>
-                            R&#228;nteint&#228;kter
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td colspan="3">
-                            <p>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td colspan="3">
-                            <p>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p align="right">
-                            4 740
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p align="right">
-                            5 989
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <p>
-                            Fastighetsf&#246;rs&#228;kring
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td colspan="3">
-                            <p>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td colspan="3">
-                            <p>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p align="right">
-                            0
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p align="right">
-                            20 144
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <p>
-                            Fastighetsskatt
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td colspan="3">
-                            <p>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td colspan="3">
-                            <p>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p align="right">
-                            266 893
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p align="right">
-                            885 171
-                        </td>
-                    </tr>
-                    <tr>
-                        <td valign="bottom">
-                            <p>
-                        </td>
-                        <td valign="bottom">
-                            <p>
-                        </td>
-                        <td colspan="3" valign="bottom">
-                            <p>
-                        </td>
-                        <td valign="bottom">
-                            <p>
-                        </td>
-                        <td colspan="3" valign="bottom">
-                            <p>
-                        </td>
-                        <td valign="bottom">
-                            <p align="center">
-                        </td>
-                        <td valign="bottom">
-                            <p align="right">
-                            289 331
-                        </td>
-                        <td valign="bottom">
-                            <p>
-                        </td>
-                        <td valign="bottom">
-                            <p align="right">
-                            930 369
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td colspan="3">
-                            <p>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td colspan="3">
-                            <p>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p align="right">
-                                <b></b>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p align="right">
-                                <b></b>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <p>
-                                <b>Not 18</b>
-                        </td>
-                        <td colspan="4">
-                            <p>
-                                <b>Kassa och bank</b>
-                        </td>
-                        <td>
-                            <p>
-                                <b></b>
-                        </td>
-                        <td colspan="3">
-                            <p>
-                                <b></b>
-                        </td>
-                        <td>
-                            <p align="center">
-                                <b></b>
-                        </td>
-                        <td>
-                            <p align="right">
-                                <b></b>
-                        </td>
-                        <td>
-                            <p>
-                                <b></b>
-                        </td>
-                        <td>
-                            <p align="right">
-                                <b></b>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <p>
-                            Handkassa
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td colspan="3">
-                            <p>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td colspan="3">
-                            <p>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p align="right">
-                            3 000
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p align="right">
-                            5 000
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <p>
-                            Avr&#228;kning med FSB
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td colspan="3">
-                            <p>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td colspan="3">
-                            <p>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p align="right">
-                            973 381
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p align="right">
-                            647 104
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <p>
-                            Bankmedel
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td colspan="3">
-                            <p>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td colspan="3">
-                            <p>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p align="right">
-                            0
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p align="right">
-                            2 286 870
-                        </td>
-                    </tr>
-                    <tr>
-                        <td valign="bottom">
-                            <p>
-                        </td>
-                        <td valign="bottom">
-                            <p>
-                        </td>
-                        <td colspan="3" valign="bottom">
-                            <p>
-                        </td>
-                        <td valign="bottom">
-                            <p>
-                        </td>
-                        <td colspan="3" valign="bottom">
-                            <p>
-                        </td>
-                        <td valign="bottom">
-                            <p align="center">
-                        </td>
-                        <td valign="bottom">
-                            <p align="right">
-                            976 381
-                        </td>
-                        <td valign="bottom">
-                            <p>
-                        </td>
-                        <td valign="bottom">
-                            <p align="right">
-                            2 938 974
-                        </td>
-                    </tr>
-                    <tr>
-                        <td valign="bottom">
-                            <p>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td colspan="3">
-                            <p>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td colspan="3">
-                            <p>
-                        </td>
-                        <td>
-                            <p align="center">
-                        </td>
-                        <td>
-                            <p align="right">
-                                <b></b>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p align="right">
-                                <b></b>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <p>
-                                <b>Not 19</b>
-                        </td>
-                        <td colspan="4">
-                            <p>
-                                <b>Eget kapital</b>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td colspan="3">
-                            <p>
-                        </td>
-                        <td>
-                            <p align="center">
-                        </td>
-                        <td>
-                            <p align="right">
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p align="right">
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <p>
-                                <i></i>
-                        </td>
-                        <td>
-                            <p align="right">
-                                <i></i>
-                        </td>
-                        <td colspan="3">
-                            <p align="right">
-                                <i></i>
-                        </td>
-                        <td>
-                            <p align="right">
-                                <i></i>
-                        </td>
-                        <td colspan="3" valign="bottom">
-                            <p>
-                        </td>
-                        <td valign="bottom">
-                            <p align="right">
-                                <i></i>
-                        </td>
-                        <td rowspan="2" valign="bottom">
-                            <p align="right">
-                                <i>Insatser och uppl. avgift</i>
-                        </td>
-                        <td valign="bottom">
-                            <p align="right">
-                                <i></i>
-                        </td>
-                        <td valign="bottom">
-                            <p align="right">
-                                <i>Resultat</i>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td valign="top">
-                            <p>
-                                <i></i>
-                        </td>
-                        <td valign="top">
-                            <p align="center">
-                        </td>
-                        <td colspan="3" valign="top">
-                            <p align="center">
-                        </td>
-                        <td valign="top">
-                            <p align="center">
-                        </td>
-                        <td colspan="3" valign="bottom">
-                            <p>
-                        </td>
-                        <td valign="top">
-                            <p align="right">
-                                <i></i>
-                        </td>
-                        <td valign="top">
-                            <p align="right">
-                                <i></i>
-                        </td>
-                        <td valign="top">
-                            <p align="right">
-                                <i></i>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td colspan="2">
-                            <p>
-                                <b>Vid &#229;rets b&#246;rjan</b>
-                        </td>
-                        <td colspan="3">
-                            <p align="center">
-                        </td>
-                        <td>
-                            <p align="center">
-                        </td>
-                        <td colspan="3" valign="bottom">
-                            <p>
-                        </td>
-                        <td>
-                            <p align="center">
-                        </td>
-                        <td valign="bottom">
-                            <p align="right">
-                                <b>5 777 560</b>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p align="right">
-                                <b>3 228 825</b>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td colspan="5">
-                            <p>
-                            Disposition enl st&#228;mmobeslut
-                        </td>
-                        <td>
-                            <p align="center">
-                        </td>
-                        <td colspan="3" valign="bottom">
-                            <p>
-                        </td>
-                        <td>
-                            <p align="center">
-                        </td>
-                        <td>
-                            <p align="right">
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p align="right">
-                            0
-                        </td>
-                    </tr>
-                    <tr>
-                        <td colspan="5">
-                            <p>
-                            &#214;vriga avs&#228;ttningar f&#246;reg. &#229;r
-                        </td>
-                        <td>
-                            <p align="center">
-                        </td>
-                        <td colspan="3" valign="bottom">
-                            <p>
-                                <b></b>
-                        </td>
-                        <td>
-                            <p align="center">
-                        </td>
-                        <td>
-                            <p align="right">
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p align="right">
-                            0
-                        </td>
-                    </tr>
-                    <tr>
-                        <td colspan="2">
-                            <p>
-                            &#197;rets resultat
-                        </td>
-                        <td colspan="3">
-                            <p align="center">
-                        </td>
-                        <td>
-                            <p align="center">
-                        </td>
-                        <td colspan="3" valign="bottom">
-                            <p>
-                                <b></b>
-                        </td>
-                        <td>
-                            <p align="center">
-                        </td>
-                        <td>
-                            <p align="right">
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p align="right">
-                            898 043
-                        </td>
-                    </tr>
-                    <tr>
-                        <td colspan="2">
-                            <p>
-                                <b>Vid &#229;rets slut</b>
-                        </td>
-                        <td colspan="3">
-                            <p>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td colspan="3" valign="bottom">
-                            <p>
-                                <b></b>
-                        </td>
-                        <td>
-                            <p align="center">
-                        </td>
-                        <td>
-                            <p align="right">
-                                <b>5 777 560</b>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p align="right">
-                                <b>4 126 868</b>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td colspan="3">
-                            <p>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td colspan="3">
-                            <p>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p align="right">
-                                <b></b>
-                        </td>
-                        <td>
-                            <p align="right">
-                                <b></b>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td colspan="3">
-                            <p>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td colspan="3">
-                            <p>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p align="right">
-                                <b></b>
-                        </td>
-                        <td>
-                            <p align="right">
-                                <b></b>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <p>
-                                <b>Not 20</b>
-                        </td>
-                        <td colspan="8">
-                            <p>
-                                <b>F&#246;reningens underh&#229;llsfond</b>
-                        </td>
-                        <td>
-                            <p align="center">
-                                <b></b>
-                        </td>
-                        <td>
-                            <p align="right">
-                                <b></b>
-                        </td>
-                        <td>
-                            <p>
-                                <b></b>
-                        </td>
-                        <td>
-                            <p align="right">
-                                <b></b>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <p>
-                            Beh&#229;llning vid &#229;rets b&#246;rjan
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td colspan="3">
-                            <p>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td colspan="3">
-                            <p>
-                        </td>
-                        <td>
-                            <p align="center">
-                        </td>
-                        <td>
-                            <p align="right">
-                            1 955 527
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p align="right">
-                            4 749
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <p>
-                            Avs&#228;ttning enligt plan
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td colspan="3">
-                            <p>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td colspan="3">
-                            <p>
-                        </td>
-                        <td>
-                            <p align="center">
-                        </td>
-                        <td>
-                            <p align="right">
-                            450 000
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p align="right">
-                            315 000
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <p>
-                            Uttag ur fond
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td colspan="3">
-                            <p>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td colspan="3">
-                            <p>
-                        </td>
-                        <td>
-                            <p align="center">
-                        </td>
-                        <td>
-                            <p align="right">
-                            - 629 938
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p align="right">
-                            - 864 222
-                        </td>
-                    </tr>
-                    <tr>
-                        <td colspan="6">
-                            <p>
-                            Avs&#228;ttning enligt st&#228;mmobeslut
-                        </td>
-                        <td colspan="3">
-                            <p>
-                        </td>
-                        <td>
-                            <p align="center">
-                        </td>
-                        <td>
-                            <p align="right">
-                            0
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p align="right">
-                            2 500 000
-                        </td>
-                    </tr>
-                    <tr>
-                        <td colspan="3">
-                            <p>
-                                <b>Beh&#229;llning vid &#229;rets slut</b>
-                        </td>
-                        <td colspan="3" valign="bottom">
-                            <p>
-                        </td>
-                        <td colspan="3" valign="bottom">
-                            <p>
-                        </td>
-                        <td valign="bottom">
-                            <p align="center">
-                        </td>
-                        <td valign="bottom">
-                            <p align="right">
-                                <b>1 775 589</b>
-                        </td>
-                        <td valign="bottom">
-                            <p>
-                        </td>
-                        <td valign="bottom">
-                            <p align="right">
-                                <b>1 955 527</b>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td colspan="3">
-                            <p>
-                        </td>
-                        <td colspan="3">
-                            <p>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p align="right">
-                                <b></b>
-                        </td>
-                        <td>
-                            <p>
-                                <b><i></i></b>
-                        </td>
-                        <td>
-                            <p align="right">
-                                <b></b>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <p>
-                                <b>Not 21</b>
-                        </td>
-                        <td colspan="12">
-                            <p>
-                                <b>Fastighetsl&#229;n, l&#229;nga</b>
-                        </td>
-                       
-                    </tr>
-                    <tr>
-                        <td colspan="2">
-                            <p>
-                            Fastighetsl&#229;n
-                        </td>
-                        <td>
-                            <p align="right">
-                        </td>
-                        <td colspan="3" valign="bottom">
-                            <p>
-                        </td>
-                        <td colspan="3">
-                            <p align="right">
-                        </td>
-                        <td valign="bottom">
-                            <p>
-                        </td>
-                        <td>
-                            <p align="right">
-                            90 331 058
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p align="right">
-                            90 629 141
-                        </td>
-                    </tr>
-                    <tr>
-                        <td colspan="3">
-                            <p>
-                                <b>Skuld vid &#229;rets slut</b>
-                        </td>
-                        <td colspan="3" valign="bottom">
-                            <p>
-                        </td>
-                        <td colspan="3">
-                            <p align="right">
-                        </td>
-                        <td valign="bottom">
-                            <p>
-                        </td>
-                        <td valign="bottom">
-                            <p align="right">
-                                <b>90 331 058</b>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td valign="bottom">
-                            <p align="right">
-                                <b>90 629 141</b>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <p>
-                                <b></b>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p align="right">
-                        </td>
-                        <td colspan="3" valign="bottom">
-                            <p>
-                        </td>
-                        <td colspan="3">
-                            <p align="right">
-                        </td>
-                        <td valign="bottom">
-                            <p>
-                        </td>
-                        <td valign="bottom">
-                            <p align="right">
-                                <b></b>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td valign="bottom">
-                            <p align="right">
-                                <b></b>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                           
+                        <tr>
+                            <td colspan="5" valign="bottom">
+                                <p>
+                                F&#246;rutbetald kabel-tv-avgift
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td colspan="3">
+                                <p>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p align="right">
+                                17 698
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p align="right">
+                                0
+                            </td>
+                        </tr>
+                        <tr>
+                            <td valign="bottom">
+                                <p>
+                                &#214;vrigt
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td colspan="3">
+                                <p>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td colspan="3">
+                                <p>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p align="right">
+                                0
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p align="right">
+                                19 065
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>
+                                R&#228;nteint&#228;kter
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td colspan="3">
+                                <p>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td colspan="3">
+                                <p>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p align="right">
+                                4 740
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p align="right">
+                                5 989
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>
+                                Fastighetsf&#246;rs&#228;kring
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td colspan="3">
+                                <p>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td colspan="3">
+                                <p>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p align="right">
+                                0
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p align="right">
+                                20 144
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>
+                                Fastighetsskatt
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td colspan="3">
+                                <p>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td colspan="3">
+                                <p>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p align="right">
+                                266 893
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p align="right">
+                                885 171
+                            </td>
+                        </tr>
+                        <tr>
+                            <td valign="bottom">
+                                <p>
+                            </td>
+                            <td valign="bottom">
+                                <p>
+                            </td>
+                            <td colspan="3" valign="bottom">
+                                <p>
+                            </td>
+                            <td valign="bottom">
+                                <p>
+                            </td>
+                            <td colspan="3" valign="bottom">
+                                <p>
+                            </td>
+                            <td valign="bottom">
+                                <p align="center">
+                            </td>
+                            <td valign="bottom">
+                                <p align="right">
+                                289 331
+                            </td>
+                            <td valign="bottom">
+                                <p>
+                            </td>
+                            <td valign="bottom">
+                                <p align="right">
+                                930 369
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td colspan="3">
+                                <p>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td colspan="3">
+                                <p>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p align="right">
+                                    <b></b>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p align="right">
+                                    <b></b>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>
+                                    <b>Not 18</b>
+                            </td>
+                            <td colspan="4">
+                                <p>
+                                    <b>Kassa och bank</b>
+                            </td>
+                            <td>
+                                <p>
+                                    <b></b>
+                            </td>
+                            <td colspan="3">
+                                <p>
+                                    <b></b>
+                            </td>
+                            <td>
+                                <p align="center">
+                                    <b></b>
+                            </td>
+                            <td>
+                                <p align="right">
+                                    <b></b>
+                            </td>
+                            <td>
+                                <p>
+                                    <b></b>
+                            </td>
+                            <td>
+                                <p align="right">
+                                    <b></b>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>
+                                Handkassa
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td colspan="3">
+                                <p>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td colspan="3">
+                                <p>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p align="right">
+                                3 000
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p align="right">
+                                5 000
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>
+                                Avr&#228;kning med FSB
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td colspan="3">
+                                <p>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td colspan="3">
+                                <p>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p align="right">
+                                973 381
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p align="right">
+                                647 104
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>
+                                Bankmedel
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td colspan="3">
+                                <p>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td colspan="3">
+                                <p>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p align="right">
+                                0
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p align="right">
+                                2 286 870
+                            </td>
+                        </tr>
+                        <tr>
+                            <td valign="bottom">
+                                <p>
+                            </td>
+                            <td valign="bottom">
+                                <p>
+                            </td>
+                            <td colspan="3" valign="bottom">
+                                <p>
+                            </td>
+                            <td valign="bottom">
+                                <p>
+                            </td>
+                            <td colspan="3" valign="bottom">
+                                <p>
+                            </td>
+                            <td valign="bottom">
+                                <p align="center">
+                            </td>
+                            <td valign="bottom">
+                                <p align="right">
+                                976 381
+                            </td>
+                            <td valign="bottom">
+                                <p>
+                            </td>
+                            <td valign="bottom">
+                                <p align="right">
+                                2 938 974
+                            </td>
+                        </tr>
+                        <tr>
+                            <td valign="bottom">
+                                <p>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td colspan="3">
+                                <p>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td colspan="3">
+                                <p>
+                            </td>
+                            <td>
+                                <p align="center">
+                            </td>
+                            <td>
+                                <p align="right">
+                                    <b></b>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p align="right">
+                                    <b></b>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>
+                                    <b>Not 19</b>
+                            </td>
+                            <td colspan="4">
+                                <p>
+                                    <b>Eget kapital</b>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td colspan="3">
+                                <p>
+                            </td>
+                            <td>
+                                <p align="center">
+                            </td>
+                            <td>
+                                <p align="right">
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p align="right">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>
+                                    <i></i>
+                            </td>
+                            <td>
+                                <p align="right">
+                                    <i></i>
+                            </td>
+                            <td colspan="3">
+                                <p align="right">
+                                    <i></i>
+                            </td>
+                            <td>
+                                <p align="right">
+                                    <i></i>
+                            </td>
+                            <td colspan="3" valign="bottom">
+                                <p>
+                            </td>
+                            <td valign="bottom">
+                                <p align="right">
+                                    <i></i>
+                            </td>
+                            <td rowspan="2" valign="bottom">
+                                <p align="right">
+                                    <i>Insatser och uppl. avgift</i>
+                            </td>
+                            <td valign="bottom">
+                                <p align="right">
+                                    <i></i>
+                            </td>
+                            <td valign="bottom">
+                                <p align="right">
+                                    <i>Resultat</i>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td valign="top">
+                                <p>
+                                    <i></i>
+                            </td>
+                            <td valign="top">
+                                <p align="center">
+                            </td>
+                            <td colspan="3" valign="top">
+                                <p align="center">
+                            </td>
+                            <td valign="top">
+                                <p align="center">
+                            </td>
+                            <td colspan="3" valign="bottom">
+                                <p>
+                            </td>
+                            <td valign="top">
+                                <p align="right">
+                                    <i></i>
+                            </td>
+                            <td valign="top">
+                                <p align="right">
+                                    <i></i>
+                            </td>
+                            <td valign="top">
+                                <p align="right">
+                                    <i></i>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">
+                                <p>
+                                    <b>Vid &#229;rets b&#246;rjan</b>
+                            </td>
+                            <td colspan="3">
+                                <p align="center">
+                            </td>
+                            <td>
+                                <p align="center">
+                            </td>
+                            <td colspan="3" valign="bottom">
+                                <p>
+                            </td>
+                            <td>
+                                <p align="center">
+                            </td>
+                            <td valign="bottom">
+                                <p align="right">
+                                    <b>5 777 560</b>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p align="right">
+                                    <b>3 228 825</b>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="5">
+                                <p>
+                                Disposition enl st&#228;mmobeslut
+                            </td>
+                            <td>
+                                <p align="center">
+                            </td>
+                            <td colspan="3" valign="bottom">
+                                <p>
+                            </td>
+                            <td>
+                                <p align="center">
+                            </td>
+                            <td>
+                                <p align="right">
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p align="right">
+                                0
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="5">
+                                <p>
+                                &#214;vriga avs&#228;ttningar f&#246;reg. &#229;r
+                            </td>
+                            <td>
+                                <p align="center">
+                            </td>
+                            <td colspan="3" valign="bottom">
+                                <p>
+                                    <b></b>
+                            </td>
+                            <td>
+                                <p align="center">
+                            </td>
+                            <td>
+                                <p align="right">
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p align="right">
+                                0
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">
+                                <p>
+                                &#197;rets resultat
+                            </td>
+                            <td colspan="3">
+                                <p align="center">
+                            </td>
+                            <td>
+                                <p align="center">
+                            </td>
+                            <td colspan="3" valign="bottom">
+                                <p>
+                                    <b></b>
+                            </td>
+                            <td>
+                                <p align="center">
+                            </td>
+                            <td>
+                                <p align="right">
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p align="right">
+                                898 043
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">
+                                <p>
+                                    <b>Vid &#229;rets slut</b>
+                            </td>
+                            <td colspan="3">
+                                <p>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td colspan="3" valign="bottom">
+                                <p>
+                                    <b></b>
+                            </td>
+                            <td>
+                                <p align="center">
+                            </td>
+                            <td>
+                                <p align="right">
+                                    <b>5 777 560</b>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p align="right">
+                                    <b>4 126 868</b>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td colspan="3">
+                                <p>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td colspan="3">
+                                <p>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p align="right">
+                                    <b></b>
+                            </td>
+                            <td>
+                                <p align="right">
+                                    <b></b>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td colspan="3">
+                                <p>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td colspan="3">
+                                <p>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p align="right">
+                                    <b></b>
+                            </td>
+                            <td>
+                                <p align="right">
+                                    <b></b>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>
+                                    <b>Not 20</b>
+                            </td>
+                            <td colspan="8">
+                                <p>
+                                    <b>F&#246;reningens underh&#229;llsfond</b>
+                            </td>
+                            <td>
+                                <p align="center">
+                                    <b></b>
+                            </td>
+                            <td>
+                                <p align="right">
+                                    <b></b>
+                            </td>
+                            <td>
+                                <p>
+                                    <b></b>
+                            </td>
+                            <td>
+                                <p align="right">
+                                    <b></b>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>
+                                Beh&#229;llning vid &#229;rets b&#246;rjan
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td colspan="3">
+                                <p>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td colspan="3">
+                                <p>
+                            </td>
+                            <td>
+                                <p align="center">
+                            </td>
+                            <td>
+                                <p align="right">
+                                1 955 527
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p align="right">
+                                4 749
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>
+                                Avs&#228;ttning enligt plan
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td colspan="3">
+                                <p>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td colspan="3">
+                                <p>
+                            </td>
+                            <td>
+                                <p align="center">
+                            </td>
+                            <td>
+                                <p align="right">
+                                450 000
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p align="right">
+                                315 000
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>
+                                Uttag ur fond
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td colspan="3">
+                                <p>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td colspan="3">
+                                <p>
+                            </td>
+                            <td>
+                                <p align="center">
+                            </td>
+                            <td>
+                                <p align="right">
+                                - 629 938
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p align="right">
+                                - 864 222
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="6">
+                                <p>
+                                Avs&#228;ttning enligt st&#228;mmobeslut
+                            </td>
+                            <td colspan="3">
+                                <p>
+                            </td>
+                            <td>
+                                <p align="center">
+                            </td>
+                            <td>
+                                <p align="right">
+                                0
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p align="right">
+                                2 500 000
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="3">
+                                <p>
+                                    <b>Beh&#229;llning vid &#229;rets slut</b>
+                            </td>
+                            <td colspan="3" valign="bottom">
+                                <p>
+                            </td>
+                            <td colspan="3" valign="bottom">
+                                <p>
+                            </td>
+                            <td valign="bottom">
+                                <p align="center">
+                            </td>
+                            <td valign="bottom">
+                                <p align="right">
+                                    <b>1 775 589</b>
+                            </td>
+                            <td valign="bottom">
+                                <p>
+                            </td>
+                            <td valign="bottom">
+                                <p align="right">
+                                    <b>1 955 527</b>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td colspan="3">
+                                <p>
+                            </td>
+                            <td colspan="3">
+                                <p>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p align="right">
+                                    <b></b>
+                            </td>
+                            <td>
+                                <p>
+                                    <b><i></i></b>
+                            </td>
+                            <td>
+                                <p align="right">
+                                    <b></b>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>
+                                    <b>Not 21</b>
+                            </td>
+                            <td colspan="12">
+                                <p>
+                                    <b>Fastighetsl&#229;n, l&#229;nga</b>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">
+                                <p>
+                                Fastighetsl&#229;n
+                            </td>
+                            <td>
+                                <p align="right">
+                            </td>
+                            <td colspan="3" valign="bottom">
+                                <p>
+                            </td>
+                            <td colspan="3">
+                                <p align="right">
+                            </td>
+                            <td valign="bottom">
+                                <p>
+                            </td>
+                            <td>
+                                <p align="right">
+                                90 331 058
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p align="right">
+                                90 629 141
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="3">
+                                <p>
+                                    <b>Skuld vid &#229;rets slut</b>
+                            </td>
+                            <td colspan="3" valign="bottom">
+                                <p>
+                            </td>
+                            <td colspan="3">
+                                <p align="right">
+                            </td>
+                            <td valign="bottom">
+                                <p>
+                            </td>
+                            <td valign="bottom">
+                                <p align="right">
+                                    <b>90 331 058</b>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td valign="bottom">
+                                <p align="right">
+                                    <b>90 629 141</b>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>
+                                    <b></b>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p align="right">
+                            </td>
+                            <td colspan="3" valign="bottom">
+                                <p>
+                            </td>
+                            <td colspan="3">
+                                <p align="right">
+                            </td>
+                            <td valign="bottom">
+                                <p>
+                            </td>
+                            <td valign="bottom">
+                                <p align="right">
+                                    <b></b>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td valign="bottom">
+                                <p align="right">
+                                    <b></b>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
                                 <b>L&#229;ngivare</b>
-                        </td>
-                        <td align="right">
-                          
+                            </td>
+                            <td align="right">
                                 <b>R&#228;nta</b>
-                        </td>
-                        <td>
-                           
+                            </td>
+                            <td>
                                 <b></b>
-                        </td>
-                        <td colspan="3"  nowrap>
-                            
+                            </td>
+                            <td colspan="3" nowrap>
                                 <b>Bundet till</b>
-                        </td>
-                        <td colspan="3"nowrap>
-                            
+                            </td>
+                            <td colspan="3" nowrap>
                                 <b>Ing. skuld</b>
-                        </td>
-                        <td >
-                            <p align="right">
-                                <b></b>
-                        </td>
-                        <td align="right">
-                           
+                            </td>
+                            <td>
+                                <p align="right">
+                                    <b></b>
+                            </td>
+                            <td align="right">
                                 <b>&#197;rets amort</b>
-                        </td>
-                        <td>
-                            <p>
-                                <b></b>
-                        </td>
-                        <td  align="right">
-                           
+                            </td>
+                            <td>
+                                <p>
+                                    <b></b>
+                            </td>
+                            <td align="right">
                                 <b>Utg. Skuld</b>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <p>
-                            SBAB
-                        </td>
-                        <td>
-                            <p align="right">
-                            4,08
-                        </td>
-                        <td>
-                            <p align="right">
-                        </td>
-                        <td colspan="3" valign="bottom">
-                            <p align="right">
-                            04-06-18
-                        </td>
-                        <td colspan="3">
-                            <p align="right">
-                            9 209 109
-                        </td>
-                        <td valign="bottom">
-                            <p align="right">
-                        </td>
-                        <td valign="bottom">
-                            <p align="right">
-                            30 760
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td valign="bottom">
-                            <p align="right">
-                            9 178 349
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <p>
-                            SBAB
-                        </td>
-                        <td>
-                            <p align="right">
-                            4,08
-                        </td>
-                        <td>
-                            <p align="right">
-                        </td>
-                        <td colspan="3" valign="bottom">
-                            <p align="right">
-                            04-06-18
-                        </td>
-                        <td colspan="3">
-                            <p align="right">
-                            1 433 699
-                        </td>
-                        <td valign="bottom">
-                            <p align="right">
-                        </td>
-                        <td valign="bottom">
-                            <p align="right">
-                            4 833
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td valign="bottom">
-                            <p align="right">
-                            1 428 866
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <p>
-                            SBAB
-                        </td>
-                        <td>
-                            <p align="right">
-                            4,08
-                        </td>
-                        <td>
-                            <p align="right">
-                        </td>
-                        <td colspan="3" valign="bottom">
-                            <p align="right">
-                            04-06-18
-                        </td>
-                        <td colspan="3" align="right" nowrap>
-                            
-                            12 427 549
-                        </td>
-                        <td valign="bottom">
-                            <p align="right">
-                        </td>
-                        <td valign="bottom">
-                            <p align="right">
-                            41 484
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td valign="bottom">
-                            <p align="right">
-                            12 386 065
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <p>
-                            SBAB
-                        </td>
-                        <td>
-                            <p align="right">
-                            4,08
-                        </td>
-                        <td>
-                            <p align="right">
-                        </td>
-                        <td colspan="3" valign="bottom">
-                            <p align="right">
-                            04-06-18
-                        </td>
-                        <td colspan="3">
-                            <p align="right">
-                            1 256 351
-                        </td>
-                        <td valign="bottom">
-                            <p align="right">
-                        </td>
-                        <td valign="bottom">
-                            <p align="right">
-                            4 254
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td valign="bottom">
-                            <p align="right">
-                            1 252 097
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <p>
-                            SBAB
-                        </td>
-                        <td>
-                            <p align="right">
-                            5,75
-                        </td>
-                        <td>
-                            <p align="right">
-                        </td>
-                        <td colspan="3" valign="bottom">
-                            <p align="right">
-                            05-08-22
-                        </td>
-                        <td colspan="3">
-                            <p align="right">
-                            33 216 670
-                        </td>
-                        <td valign="bottom">
-                            <p align="right">
-                        </td>
-                        <td valign="bottom">
-                            <p align="right">
-                            110 793
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td valign="bottom">
-                            <p align="right">
-                            33 105 877
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <p>
-                            SBAB
-                        </td>
-                        <td>
-                            <p align="right">
-                            5,90
-                        </td>
-                        <td>
-                            <p align="right">
-                        </td>
-                        <td colspan="3" valign="bottom">
-                            <p align="right">
-                            08-03-03
-                        </td>
-                        <td colspan="3">
-                            <p align="right">
-                            33 085 763
-                        </td>
-                        <td valign="bottom">
-                            <p align="right">
-                        </td>
-                        <td valign="bottom">
-                            <p align="right">
-                            105 956
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td valign="bottom">
-                            <p align="right">
-                            32 979 807
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <p>
-                                <b></b>
-                        </td>
-                        <td>
-                            <p>
-                                <b></b>
-                        </td>
-                        <td>
-                            <p align="right">
-                                <b></b>
-                        </td>
-                        <td colspan="3" valign="bottom">
-                            <p>
-                                <b></b>
-                        </td>
-                        <td colspan="3">
-                            <p align="right">
-                                <b>90 629 141</b>
-                        </td>
-                        <td valign="bottom">
-                            <p>
-                                <b></b>
-                        </td>
-                        <td valign="bottom">
-                            <p align="right">
-                                <b>298 080</b>
-                        </td>
-                        <td>
-                            <p>
-                                <b></b>
-                        </td>
-                        <td valign="bottom">
-                            <p align="right">
-                                <b>90 331 061</b>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td colspan="3">
-                            <p>
-                        </td>
-                        <td colspan="3">
-                            <p>
-                        </td>
-                        <td>
-                            <p align="center">
-                        </td>
-                        <td>
-                            <p align="right">
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p align="right">
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <p>
-                                <b>Not 22</b>
-                        </td>
-                        <td colspan="5">
-                            <p>
-                                <b>&#214;vriga skulder, korta</b>
-                        </td>
-                        <td colspan="3">
-                            <p>
-                                <b></b>
-                        </td>
-                        <td>
-                            <p align="center">
-                                <i></i>
-                        </td>
-                        <td>
-                            <p align="center">
-                                <i></i>
-                        </td>
-                        <td>
-                            <p>
-                                <b></b>
-                        </td>
-                        <td>
-                            <p align="center">
-                                <i></i>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td colspan="5">
-                            <p>
-                            &#214;vriga skulder till kunder, korta
-                        </td>
-                        <td valign="bottom">
-                            <p>
-                        </td>
-                        <td colspan="3">
-                            <p align="right">
-                        </td>
-                        <td valign="bottom">
-                            <p>
-                        </td>
-                        <td>
-                            <p align="right">
-                            5 575
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p align="right">
-                            5 575
-                        </td>
-                    </tr>
-                    <tr>
-                        <td colspan="5">
-                            <p>
-                            Upplupna sociala avg. och skatter
-                        </td>
-                        <td valign="bottom">
-                            <p>
-                        </td>
-                        <td colspan="3">
-                            <p align="right">
-                        </td>
-                        <td valign="bottom">
-                            <p>
-                        </td>
-                        <td>
-                            <p align="right">
-                            56 621
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p align="right">
-                            1 194
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td colspan="3">
-                            <p align="right">
-                        </td>
-                        <td valign="bottom">
-                            <p>
-                        </td>
-                        <td colspan="3">
-                            <p align="right">
-                        </td>
-                        <td valign="bottom">
-                            <p>
-                        </td>
-                        <td valign="bottom">
-                            <p align="right">
-                            62 196
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td valign="bottom">
-                            <p align="right">
-                            6 769
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td colspan="3">
-                            <p>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td colspan="3">
-                            <p>
-                        </td>
-                        <td>
-                            <p align="center">
-                        </td>
-                        <td>
-                            <p align="right">
-                                <b></b>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p align="right">
-                                <b></b>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <p>
-                                <b>Not 23</b>
-                        </td>
-                        <td colspan="12">
-                            <p>
-                                <b>Upplupna kostn. och f&#246;rutbetalda int&#228;kter</b>
-                        </td>
-                        
-                    </tr>
-                    <tr>
-                        <td colspan="6">
-                            <p>
-                            Upplupna l&#246;ner och sociala avgifter
-                        </td>
-                        <td colspan="3">
-                            <p>
-                        </td>
-                        <td>
-                            <p align="center">
-                        </td>
-                        <td>
-                            <p align="right">
-                            16 020
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p align="right">
-                            19 965
-                        </td>
-                    </tr>
-                    <tr>
-                        <td colspan="2">
-                            <p>
-                            R&#228;ntekostnader
-                        </td>
-                        <td colspan="3">
-                            <p>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td colspan="3">
-                            <p>
-                        </td>
-                        <td>
-                            <p align="center">
-                        </td>
-                        <td>
-                            <p align="right">
-                            403 217
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p align="right">
-                            524 284
-                        </td>
-                    </tr>
-                    <tr>
-                        <td colspan="9">
-                            <p>
-                            Upplupna drift- och underh&#229;llskostnader
-                        </td>
-                        <td>
-                            <p align="center">
-                        </td>
-                        <td>
-                            <p align="right">
-                            10 354
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p align="right">
-                            73 918
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <p>
-                            &#214;vrigt
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td colspan="3">
-                            <p>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td colspan="3">
-                            <p>
-                        </td>
-                        <td>
-                            <p align="center">
-                        </td>
-                        <td>
-                            <p align="right">
-                            54 850
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p align="right">
-                            16 000
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <p>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td colspan="3">
-                            <p>
-                        </td>
-                        <td>
-                            <p>
-                        </td>
-                        <td colspan="3">
-                            <p>
-                        </td>
-                        <td>
-                            <p align="center">
-                        </td>
-                        <td valign="bottom">
-                            <p align="right">
-                            484 441
-                        </td>
-                        <td valign="bottom">
-                            <p>
-                        </td>
-                        <td valign="bottom">
-                            <p align="right">
-                            634 167
-                        </td>
-                    </tr>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>
+                                SBAB
+                            </td>
+                            <td>
+                                <p align="right">
+                                4,08
+                            </td>
+                            <td>
+                                <p align="right">
+                            </td>
+                            <td colspan="3" valign="bottom">
+                                <p align="right">
+                                04-06-18
+                            </td>
+                            <td colspan="3">
+                                <p align="right">
+                                9 209 109
+                            </td>
+                            <td valign="bottom">
+                                <p align="right">
+                            </td>
+                            <td valign="bottom">
+                                <p align="right">
+                                30 760
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td valign="bottom">
+                                <p align="right">
+                                9 178 349
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>
+                                SBAB
+                            </td>
+                            <td>
+                                <p align="right">
+                                4,08
+                            </td>
+                            <td>
+                                <p align="right">
+                            </td>
+                            <td colspan="3" valign="bottom">
+                                <p align="right">
+                                04-06-18
+                            </td>
+                            <td colspan="3">
+                                <p align="right">
+                                1 433 699
+                            </td>
+                            <td valign="bottom">
+                                <p align="right">
+                            </td>
+                            <td valign="bottom">
+                                <p align="right">
+                                4 833
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td valign="bottom">
+                                <p align="right">
+                                1 428 866
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>
+                                SBAB
+                            </td>
+                            <td>
+                                <p align="right">
+                                4,08
+                            </td>
+                            <td>
+                                <p align="right">
+                            </td>
+                            <td colspan="3" valign="bottom">
+                                <p align="right">
+                                04-06-18
+                            </td>
+                            <td colspan="3" align="right" nowrap>
+                                12 427 549
+                            </td>
+                            <td valign="bottom">
+                                <p align="right">
+                            </td>
+                            <td valign="bottom">
+                                <p align="right">
+                                41 484
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td valign="bottom">
+                                <p align="right">
+                                12 386 065
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>
+                                SBAB
+                            </td>
+                            <td>
+                                <p align="right">
+                                4,08
+                            </td>
+                            <td>
+                                <p align="right">
+                            </td>
+                            <td colspan="3" valign="bottom">
+                                <p align="right">
+                                04-06-18
+                            </td>
+                            <td colspan="3">
+                                <p align="right">
+                                1 256 351
+                            </td>
+                            <td valign="bottom">
+                                <p align="right">
+                            </td>
+                            <td valign="bottom">
+                                <p align="right">
+                                4 254
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td valign="bottom">
+                                <p align="right">
+                                1 252 097
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>
+                                SBAB
+                            </td>
+                            <td>
+                                <p align="right">
+                                5,75
+                            </td>
+                            <td>
+                                <p align="right">
+                            </td>
+                            <td colspan="3" valign="bottom">
+                                <p align="right">
+                                05-08-22
+                            </td>
+                            <td colspan="3">
+                                <p align="right">
+                                33 216 670
+                            </td>
+                            <td valign="bottom">
+                                <p align="right">
+                            </td>
+                            <td valign="bottom">
+                                <p align="right">
+                                110 793
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td valign="bottom">
+                                <p align="right">
+                                33 105 877
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>
+                                SBAB
+                            </td>
+                            <td>
+                                <p align="right">
+                                5,90
+                            </td>
+                            <td>
+                                <p align="right">
+                            </td>
+                            <td colspan="3" valign="bottom">
+                                <p align="right">
+                                08-03-03
+                            </td>
+                            <td colspan="3">
+                                <p align="right">
+                                33 085 763
+                            </td>
+                            <td valign="bottom">
+                                <p align="right">
+                            </td>
+                            <td valign="bottom">
+                                <p align="right">
+                                105 956
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td valign="bottom">
+                                <p align="right">
+                                32 979 807
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>
+                                    <b></b>
+                            </td>
+                            <td>
+                                <p>
+                                    <b></b>
+                            </td>
+                            <td>
+                                <p align="right">
+                                    <b></b>
+                            </td>
+                            <td colspan="3" valign="bottom">
+                                <p>
+                                    <b></b>
+                            </td>
+                            <td colspan="3">
+                                <p align="right">
+                                    <b>90 629 141</b>
+                            </td>
+                            <td valign="bottom">
+                                <p>
+                                    <b></b>
+                            </td>
+                            <td valign="bottom">
+                                <p align="right">
+                                    <b>298 080</b>
+                            </td>
+                            <td>
+                                <p>
+                                    <b></b>
+                            </td>
+                            <td valign="bottom">
+                                <p align="right">
+                                    <b>90 331 061</b>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td colspan="3">
+                                <p>
+                            </td>
+                            <td colspan="3">
+                                <p>
+                            </td>
+                            <td>
+                                <p align="center">
+                            </td>
+                            <td>
+                                <p align="right">
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p align="right">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>
+                                    <b>Not 22</b>
+                            </td>
+                            <td colspan="5">
+                                <p>
+                                    <b>&#214;vriga skulder, korta</b>
+                            </td>
+                            <td colspan="3">
+                                <p>
+                                    <b></b>
+                            </td>
+                            <td>
+                                <p align="center">
+                                    <i></i>
+                            </td>
+                            <td>
+                                <p align="center">
+                                    <i></i>
+                            </td>
+                            <td>
+                                <p>
+                                    <b></b>
+                            </td>
+                            <td>
+                                <p align="center">
+                                    <i></i>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="5">
+                                <p>
+                                &#214;vriga skulder till kunder, korta
+                            </td>
+                            <td valign="bottom">
+                                <p>
+                            </td>
+                            <td colspan="3">
+                                <p align="right">
+                            </td>
+                            <td valign="bottom">
+                                <p>
+                            </td>
+                            <td>
+                                <p align="right">
+                                5 575
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p align="right">
+                                5 575
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="5">
+                                <p>
+                                Upplupna sociala avg. och skatter
+                            </td>
+                            <td valign="bottom">
+                                <p>
+                            </td>
+                            <td colspan="3">
+                                <p align="right">
+                            </td>
+                            <td valign="bottom">
+                                <p>
+                            </td>
+                            <td>
+                                <p align="right">
+                                56 621
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p align="right">
+                                1 194
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td colspan="3">
+                                <p align="right">
+                            </td>
+                            <td valign="bottom">
+                                <p>
+                            </td>
+                            <td colspan="3">
+                                <p align="right">
+                            </td>
+                            <td valign="bottom">
+                                <p>
+                            </td>
+                            <td valign="bottom">
+                                <p align="right">
+                                62 196
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td valign="bottom">
+                                <p align="right">
+                                6 769
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td colspan="3">
+                                <p>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td colspan="3">
+                                <p>
+                            </td>
+                            <td>
+                                <p align="center">
+                            </td>
+                            <td>
+                                <p align="right">
+                                    <b></b>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p align="right">
+                                    <b></b>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>
+                                    <b>Not 23</b>
+                            </td>
+                            <td colspan="12">
+                                <p>
+                                    <b>Upplupna kostn. och f&#246;rutbetalda int&#228;kter</b>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="6">
+                                <p>
+                                Upplupna l&#246;ner och sociala avgifter
+                            </td>
+                            <td colspan="3">
+                                <p>
+                            </td>
+                            <td>
+                                <p align="center">
+                            </td>
+                            <td>
+                                <p align="right">
+                                16 020
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p align="right">
+                                19 965
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">
+                                <p>
+                                R&#228;ntekostnader
+                            </td>
+                            <td colspan="3">
+                                <p>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td colspan="3">
+                                <p>
+                            </td>
+                            <td>
+                                <p align="center">
+                            </td>
+                            <td>
+                                <p align="right">
+                                403 217
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p align="right">
+                                524 284
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="9">
+                                <p>
+                                Upplupna drift- och underh&#229;llskostnader
+                            </td>
+                            <td>
+                                <p align="center">
+                            </td>
+                            <td>
+                                <p align="right">
+                                10 354
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p align="right">
+                                73 918
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>
+                                &#214;vrigt
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td colspan="3">
+                                <p>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td colspan="3">
+                                <p>
+                            </td>
+                            <td>
+                                <p align="center">
+                            </td>
+                            <td>
+                                <p align="right">
+                                54 850
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p align="right">
+                                16 000
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td colspan="3">
+                                <p>
+                            </td>
+                            <td>
+                                <p>
+                            </td>
+                            <td colspan="3">
+                                <p>
+                            </td>
+                            <td>
+                                <p align="center">
+                            </td>
+                            <td valign="bottom">
+                                <p align="right">
+                                484 441
+                            </td>
+                            <td valign="bottom">
+                                <p>
+                            </td>
+                            <td valign="bottom">
+                                <p align="right">
+                                634 167
+                            </td>
+                        </tr>
                 </table>
 </asp:Content>

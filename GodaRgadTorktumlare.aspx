@@ -12,20 +12,24 @@
         </tr>
     </table>
     <table class="border1">
-        <tr style='background: #efefef;font-weight:bold;text-align:center;' >
-            <td >
+        <tr style='background: #efefef; font-weight: bold; text-align: center;'>
+            <td>
                 <b>Goda rad innan du koper torktumlare</b>
-                </td></tr>
-                <tr><td>
+            </td>
+        </tr>
+        <tr>
+            <td>
                 <br />
                 <strong>
+                    <br />
+                    Kondenstumlare </strong>
                 <br />
-                Kondenstumlare </strong><br />
-                <ul><br />
+                <ul>
+                    <br />
                     <li>Eftersom vi i våra lägenheter inte har möjlighet att leda ut den varma, fuktiga
                         luften från tumlaren ut i det fria, ska du välja en kondenstumlare.</li>
-                    <li>Fuktigheten i tvätten kondenseras och hamnar i en inbyggd behållare, eller leds direkt
-                        via en slang till avloppet.</li>
+                    <li>Fuktigheten i tvätten kondenseras och hamnar i en inbyggd behållare, eller leds
+                        direkt via en slang till avloppet.</li>
                 </ul>
             </td>
         </tr>

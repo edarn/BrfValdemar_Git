@@ -5,8 +5,8 @@
     <style type="text/css">
         td
         {
-           height:22px;
-           font-family:12px;
+            height: 22px;
+            font-family: 12px;
         }
     </style>
 </asp:Content>
@@ -3073,7 +3073,6 @@
                         <td>
                         </td>
                     </tr>
-                    
                     <tr>
                         <td colspan="2">
                             Malm&#246; / -2005
@@ -3084,7 +3083,6 @@
                             Lund / -2005
                         </td>
                     </tr>
-                   
                     <tr>
                         <td colspan="2">
                             Ann Theander

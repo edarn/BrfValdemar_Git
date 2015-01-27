@@ -16,7 +16,6 @@
             &gt;</a>
         <div class="viewer">
             <div class="reel">
-                
                 <div class="slide">
                     <img src="images/IMG_7791 (Large) (Custom).JPG" alt="" />
                 </div>
@@ -77,25 +76,21 @@
                 <div class="slide">
                     <img src="images/IMG_7830 (Large).JPG" />
                 </div>
-
-
                 <div class="slide">
-                <img src="images/IMG_7831 (Large).JPG" />
-                </div>
-
-                <div class="slide">
-                <img src="images/IMG_7834 (Large).JPG" />
+                    <img src="images/IMG_7831 (Large).JPG" />
                 </div>
                 <div class="slide">
-                <img src="images/IMG_7835 (Large).JPG" />
+                    <img src="images/IMG_7834 (Large).JPG" />
                 </div>
                 <div class="slide">
-                <img src="images/IMG_7837 (Large).JPG" />
+                    <img src="images/IMG_7835 (Large).JPG" />
                 </div>
                 <div class="slide">
-                <img src="images/IMG_7838 (Large).JPG" />
+                    <img src="images/IMG_7837 (Large).JPG" />
                 </div>
-                
+                <div class="slide">
+                    <img src="images/IMG_7838 (Large).JPG" />
+                </div>
             </div>
         </div>
         <div class="indicator">
@@ -106,25 +101,21 @@
                 <li>4</li>
                 <li>5</li>
                 <li>6</li>
-
                 <li>7</li>
                 <li>8</li>
                 <li>9</li>
                 <li>10</li>
                 <li>11</li>
-
                 <li>12</li>
                 <li>13</li>
                 <li>14</li>
                 <li>15</li>
                 <li>16</li>
-
                 <li>17</li>
                 <li>18</li>
                 <li>19</li>
                 <li>20</li>
                 <li>21</li>
-
                 <li>22</li>
                 <li>23</li>
                 <li>24</li>
@@ -137,6 +128,8 @@
     4000, speed: 'slow', navPreviousSelector: '.previous-button', navNextSelector: '.next-button',
             indicatorSelector: '.indicator ul li', slideLinkSelector: '.link'
         }); </script>
-    <br /> <p align="center"> <a href="Ritningar.aspx">Ritningar</a>&nbsp;&nbsp; <a
-    href="Kartor.aspx">Kartor</a> </p>
+    <br />
+    <p align="center">
+        <a href="Ritningar.aspx">Ritningar</a>&nbsp;&nbsp; <a href="Kartor.aspx">Kartor</a>
+    </p>
 </asp:Content>
