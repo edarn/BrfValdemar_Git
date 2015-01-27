@@ -29,7 +29,7 @@
 		, som ligger på <b><a href="lund_east2.aspx" ><b>Östra Linero</b></a> i Lund</b>.</p> 
 		<p>Du äger <b>inte</b> din lägenhet, utan du äger rätten att nyttja lägenheten. Som bostadsrättshavare är du medlem och <u>delägare</u> i bostadsrättsföreningen.</p> 
 		<p>Som alla föreningar så blir föreningen vad vi medlemmar själva gör den till. Vi beslutar själva tillsammans hur vi ska sköta och förvalta våra hus. 
-		Vi har inga anställda - men ett avtal med Riksbyggen, som på vårt uppdrag sköter den löpande förvaltningen av ekonomi och fastigheter. </p>
+		Vi har inga anställda - men ett avtal med Riksbyggen och Trädgårdsteamet, som på vårt uppdrag sköter den löpande förvaltningen av ekonomi och fastigheter. </p>
 			
 		</p>
 	    <p>Området är byggt 1989/90 och består av 129 <a href="LagenhetFakta.aspx" >marklägenheter.</a> Till
@@ -37,9 +37,6 @@
 		 &nbsp;Garage eller P-plats tillhör inte lägenheten utan hyrs separat!<br> 
 		 &nbsp;Brf Valdemar kan endast erbjuda en p-plats eller ett garage per lägenhet.
 		 </p>
-		<p>Adresserna är Valdemars väg 6 - 150 och Snorres
-		 väg 1 - 113. 
-		</p>
 		<p>
 
 		&nbsp;Föreningen har <b>bredband</b> via fiberkabel. 

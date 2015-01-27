@@ -107,7 +107,7 @@
                         Eftersom efterfr&aring;gan p&aring; garage är stor finns det en speciell garage
                         k&ouml;.
                     
-                        Varje Bostadsrättshavare kan, mot deposition av 50 kr, hämta ut bes&ouml;ksparkeringsbrickor.
+                        Varje Bostadsrättshavare kan hämta ut bes&ouml;ksparkeringsbrickor.
                     
                     
                         Kontroll av bes&ouml;ksparkeringsplatserna utf&ouml;rs av <a href="http://www.europark.se/"

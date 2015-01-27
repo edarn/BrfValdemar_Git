@@ -24,7 +24,6 @@
                     <li><a href="bofakta.aspx" target="_self">Bofakta</a></li>
                     <li><a href="garage_pplats.aspx" target="_self">Parkeringsplatser & Garage</a></li>
                     <li><a href="Regler_kvartersgarden2.aspx" target="_self">Kvartersgården</a></li>
-                    <li><a href="Lgh1.aspx" target="_self">Lägenhetsregister sida </a></li>
                     <li><a href="Området.aspx" target="_self">Området </a></li>
                 </ul>
                 <ul>
@@ -76,9 +75,6 @@
                     <li><a href="Ventilation2.aspx" target="_self">Ventilation</a></li>
                     <li><a href="GodaRgadTorktumlare.aspx" target="_self">Torktumlare</a></li>
                     <li><a href="http://www.sysav.se/" target="_blank">Grovsopor och Återvinning</a></li>
-                    <li><a href="PlatMontering.aspx" target="_self">Plåtmontering</a></li>
-                    <li><a href="Soprum2_sep2002.aspx" target="_self">Soprum nr 2</a></li>
-                    <li><a href="bilder_garage.aspx" target="_self">Garageportarna</a></li>
                 </ul>
             </td>
         </tr>

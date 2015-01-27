@@ -48,8 +48,7 @@ Dessutom finns det 20 besöksparkeringsplatser. Detta på 129 lägenheter.
 <br><br>
 <b>Brf Valdemar kan endast erbjuda en p-plats eller ett garage per lägenhet.</b> 
 <br><br>
-Om man behöver en ytterligare p-plats kan detta fås i mån av tillgång. 38 lägenheter står förnärvarande (2004-10-15) i kö för garage. Dessa har idag inget garage utan bara en p-plats. <br>Kötid, drygt 25 månader.
-<br>
+Om man behöver en ytterligare p-plats kan detta fås i mån av tillgång. 38 lägenheter står förnärvarande (2004-10-15) i kö för garage. Dessa har idag inget garage utan bara en p-plats.
 <br>
 
 		</td>
