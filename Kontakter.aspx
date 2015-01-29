@@ -2,13 +2,7 @@
     CodeFile="Kontakter.aspx.cs" Inherits="Kontakter" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="Server">
-    <style type="text/css">
-        .style1
-        {
-            height: 101px;
-        }
-    </style>
-</asp:Content>
+    </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="Server">
     <table align="center" border="0" with="100%">
         <tr>
@@ -18,124 +12,63 @@
         </tr>
     </table>
     <br>
-    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="border1">
-        <tr style='background: #efefef;font-weight:bold;text-align:center;'>
-            <td height="23" colspan="2" align="center">
-                <b>NYTTIGA TELEFONNUMMER <b>
-            </td>
-        </tr>
-        <tr>
-            <td height="19" colspan="2" align="center">
-                Brf Valdemar 
-            </td>
-        </tr>
-        <tr>
-            <td height="31" colspan="2">
-                <b>FÖRVALTNING (Riksbyggen)</b>
-            </td>
-        </tr>
-        <tr>
-            <td height="72" colspan="2">
+   
+                <h1>Kontaktuppgifter</h1>
+      
+                <h3>Förvaltning (Riksbyggen &amp; Trädgårdsteamet)</h3>
+  
                 <p>
-                    Riksbyggen äger INTE Brf Valdemar,utan Brf Valdemar ägs av dess medlemmar. Brf
-                        Valdemar har inga anställda utan köper förvaltningstjänster från Riksbyggen.
-                    
+                    Riksbyggen äger <strong>inte</strong> Brf Valdemar, utan Brf Valdemar ägs av dess medlemmar. Brf Valdemar
+                    har inga anställda utan köper förvaltningstjänster från Riksbyggen.
                 </p>
-            </td>
-        </tr>
-        <tr>
-            <td width="48%" valign="top">
-                Riksbyggen<br />
-                Box24004<br />
-                224 21 Lund 
-                <br />
-            </td>
-            <td width="52%">
-                Besöksadress:Skiffervägen 86,Lund<br />
-                <strong>Tel.07771-86 08 60</strong><br />
-                <strong>Fax:046 -15 28 06 
-                </strong> 
-                <br />
-            </td>
-        </tr>
-        <tr>
-            <td colspan="2">
-                &nbsp;</td>
-        </tr>
-        <tr>
-            <td colspan="2">
-                Felanmälan vardagar <strong>08.00-16.00</strong>,tel <strong>0771-86 08 60</strong> 
-                <br />
-                E-mail:<strong>fastighetsservice@riksbyggen.se</strong><br />
-                Akuta fel och störningar utanför kontorstid,tel <strong>0771-86 08 60 </strong> 
-                <br />
-            </td>
-        </tr>
-        <tr>
-            <td height="39" colspan="2">
-                Teknisk förvaltare: Per Svensson,tel <strong>0771-86 08 60</strong> (Förvaltning,underhåll och
-                    bostadsrättsjuridik) 
-            </td>
-        </tr>
-        <tr>
-            <td colspan="2">
-                Ekonom och kundansvarig: Joacim Larsson,tel <strong>0771-86 08 60</strong><br />
-                (Föreningens ekonomi, budget och bokslut) 
-                <br />
-            </td>
-        </tr>
-        <tr>
-            <td height="114" colspan="2">
-                Överlåtelser, medlemsansökningar, avier, autogiro m.m<br />
-                Riksbyggens Ekonomicenter (EKC) i Västerås, tel:<strong>0771 -86 08 60</strong><br />
-                <br />
-                Postadress:<br />
-                EKC,Hyresgruppen<br />
-                Box 50,721 09 Västerås. 
-                <br />
-            </td>
-        </tr>
-        <tr>
-            <td colspan="2" class="style1">
-                <b>SKADEDJURSBEKÄMPNING</b><br />
-                Anticimex tel <strong>040-93 6100</strong><br />
-                Ange försakringsnummer <strong>1890874. </strong> 
+      
+                <h3>Felanmälan till Trädgårdsteamet</h3>
+                <p>
+               Vaktmästare:<br />
+               Johan Björklund<br />
+               E-mail: vaktmastaren@tradgardsteamet.se<br />
+                    <strong>Under kontorstid</strong><br />
                
-            </td>
-        </tr>
-        <tr>
-            <td  colspan="2">
-                    <b>STYRELSEN</b><br />
-                    Styrelsens sammansättning bestäms av medlemarna på årsstämman som hålls på våren.<br />
-                    Informaation om vilka som ingår i styrelsen finns uppsatt på 
-                    <br /> anslagstavlan vid Kvartersgården.<br />
-                <p>
-                <br />
-                   
-                    Lokalhyra<br />
-                    För hyra av lokalen, kontakta Maria Roggenfors, <strong>072-844 7113</strong>
-                <p>
-                    Öppet hus för medlemmar: Första tisdagen i varje månad kl <strong>19.00 -20.00
-                    </strong>(ej juli - aug) 
-                    <br />
+               Telefon: 0769 – 45 62 48<br />
+                <strong>Akuta fel utanför kontorstid</strong><br />
+               Telefon: 0709 – 94 05 69
                 </p>
-                Skriftliga meddelanden till styrelsen kan du lägga i den blå brevlådan
+    
+                <h3>Riksbyggen</h3>
+                <p>
+                <strong>Ekonom och kundansvarig</strong><br />
+                Malin Lundin<br />
+                Telefon: 0771 – 86 08 60<br />
                 <br />
-                vid Kvartersgården, Valdemars väg 48.<br />
-             <br />
-                    Föreningens hemsida:www.brfvaldemar.se<br />
-                    <strong>E-mail:info@brfvaldemar.se 
-                    </strong> 
-                    <br />
-                    &nbsp;
+                <strong>Överlåtelser, medlemsansökningar mm.</strong><br />
+                Riksbyggens Ekonomicenter i Västerås<br />
+                Telefon: 0771 – 86 08 60<br />
+                Adress: EKC, Hyresgruppen, Box 540, 721 09 Västerås<br />
+       </p>
+                <h3>Skadedjursbekämpning</h3>
+                <p>Anticimex 
+                (tel) <strong>040 - 693 61 00,</strong> ange försäkringsbolag RBförsäkring 
+                (Riksbyggen) och försäkringsnummer <strong>1890874. </strong>
+      </p>
                 
-            </td>
-        </tr>
-        <tr>
-            <td colspan="2" align="center">
-                <strong>2011-05-11 
-            </strong> 
-            </td>
-        </tr>
-    </table>
+                  
+                    <h3>Kvarterslokalen</h3>
+                   <p>
+                    Hyrs ut till medlemmar i BRF Valdemar. Kontakta Maria Roggenfors, <strong>072-844 7113</strong> </p>
+
+                        <h3>Öppet hus för medlemmar</h3>
+                    <p>    Första tisdagen i varje månad kl <strong>19.00 -20.00 </strong>
+                        (dock ej i januari, juli eller augusti)
+                    </p>
+                   <h3>Kontaktuppgifter för Brf Valdemar: </h3>
+                   <p> <strong> Hemsida: </strong> www.brfvaldemar.se<br />
+                    <strong>E-mail:</strong> <a href="mailto:info@brfvaldemar.se">info@brfvaldemar.se</a>
+                <br />
+                <strong>Skriftliga meddelanden:</strong> läggs i den blå brevlådan
+                    vid Kvartersgården, Valdemars väg 48.<br />
+                    </p>
+                
+        
+                <center>Sidan uppdaterades: 2015-01-30 </center>
+      
 </asp:Content>

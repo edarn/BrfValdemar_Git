@@ -78,7 +78,7 @@
                 Riksbyggens ord. ledamot
             </td>
             <td class="linje" width="30%">
-                Malin Lundin
+                Viktoria Nebeling
             </td>
         </tr>
         <tr>

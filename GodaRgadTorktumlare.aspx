@@ -14,7 +14,7 @@
     <table class="border1">
         <tr style='background: #efefef; font-weight: bold; text-align: center;'>
             <td>
-                <b>Goda rad innan du koper torktumlare</b>
+                <b>Goda råd innan du köper torktumlare</b>
             </td>
         </tr>
         <tr>
